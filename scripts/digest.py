@@ -110,7 +110,8 @@ def main():
     new = sum(s["id"] not in merged for s in snapshot)
     merged.update((s["id"], s) for s in snapshot)
     stories = sorted(merged.values(), key=lambda s: s["points"], reverse=True)
-    snapshots = previous["snapshots"] + 1
+    # Files written before merging existed have no count; they hold one snapshot.
+    snapshots = previous.get("snapshots", 1) + 1
 
     json_path.write_text(
         json.dumps(
