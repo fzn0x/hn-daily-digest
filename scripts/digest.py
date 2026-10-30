@@ -1,6 +1,7 @@
 """Snapshot the Hacker News front page into a dated Markdown + JSON archive."""
 
 import json
+import sys
 import time
 import urllib.request
 from datetime import datetime, timezone
@@ -67,11 +68,9 @@ def fetch_stories():
     try:
         stories = from_algolia()
     except Exception as exc:
-        print(f"algolia failed ({exc}), falling back to firebase")
+        print(f"algolia failed ({exc}), falling back to firebase", file=sys.stderr)
         stories = []
-    if not stories:
-        stories = from_firebase()
-    return sorted(stories, key=lambda s: s["points"], reverse=True)
+    return stories or from_firebase()
 
 
 def md_text(text):
@@ -94,22 +93,37 @@ def story_rows(stories):
 def main():
     now = datetime.now(timezone.utc)
     day = now.strftime("%Y-%m-%d")
-    stories = fetch_stories()
-    if not stories:
+    stamp = now.strftime("%Y-%m-%d %H:%M UTC")
+    snapshot = fetch_stories()
+    if not snapshot:
         raise SystemExit("no stories fetched")
 
     folder = ARCHIVE / now.strftime("%Y") / now.strftime("%m")
     folder.mkdir(parents=True, exist_ok=True)
-    stamp = now.strftime("%Y-%m-%d %H:%M UTC")
+    json_path = folder / f"{day}.json"
 
-    (folder / f"{day}.json").write_text(
-        json.dumps({"date": day, "captured_at": now.isoformat(timespec="seconds"), "stories": stories}, indent=2)
+    # Merge into today's file: keep stories that dropped off, refresh stats on ones still up.
+    previous = {"snapshots": 0, "stories": []}
+    if json_path.exists():
+        previous = json.loads(json_path.read_text(encoding="utf-8"))
+    merged = {s["id"]: s for s in previous["stories"]}
+    new = sum(s["id"] not in merged for s in snapshot)
+    merged.update((s["id"], s) for s in snapshot)
+    stories = sorted(merged.values(), key=lambda s: s["points"], reverse=True)
+    snapshots = previous["snapshots"] + 1
+
+    json_path.write_text(
+        json.dumps(
+            {"date": day, "updated_at": now.isoformat(timespec="seconds"), "snapshots": snapshots, "stories": stories},
+            indent=2,
+        )
         + "\n",
         encoding="utf-8",
     )
     (folder / f"{day}.md").write_text(
         f"# Hacker News front page, {day}\n\n"
-        f"Captured {stamp}, {len(stories)} stories sorted by points.\n\n"
+        f"Every story that reached the front page today, merged from {snapshots} "
+        f"snapshot{'' if snapshots == 1 else 's'}. Last updated {stamp}, sorted by points.\n\n"
         f"{story_rows(stories)}\n",
         encoding="utf-8",
     )
@@ -119,7 +133,8 @@ def main():
     block = (
         f"{START}\n"
         f"### Latest: [{day}]({rel})\n\n"
-        f"Top {README_TOP} of {len(stories)}, captured {stamp}. **{days}** {'day' if days == 1 else 'days'} archived so far.\n\n"
+        f"Top {README_TOP} of {len(stories)} stories so far, last updated {stamp}. "
+        f"**{days}** {'day' if days == 1 else 'days'} archived.\n\n"
         f"{story_rows(stories[:README_TOP])}\n"
         f"{END}"
     )
@@ -128,7 +143,8 @@ def main():
     tail = rest.split(END, 1)[1]
     README.write_text(head + block + tail, encoding="utf-8")
 
-    print(f"{day}: {len(stories)} stories, {days} days archived")
+    # Single stdout line; the workflow uses it as the commit message.
+    print(f"{stamp}, {new} new, {len(stories)} today")
 
 
 if __name__ == "__main__":

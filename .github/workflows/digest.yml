@@ -2,7 +2,7 @@ name: Daily digest
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,15 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      # Spread capture time over ~25 minutes so snapshots aren't clockwork.
+      # Spread capture times over ~10 minutes so snapshots aren't clockwork.
       - name: Random start offset
         if: github.event_name == 'schedule'
-        run: sleep $(( RANDOM % 1500 ))
+        run: sleep $(( RANDOM % 600 ))
 
       - uses: actions/checkout@v4
 
       - name: Build digest
-        run: python3 scripts/digest.py
+        id: digest
+        run: |
+          summary=$(python3 scripts/digest.py)
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
 
       # Authored as the repo owner (noreply address) so the commit counts on their contribution graph.
       - name: Commit and push
@@ -36,5 +39,5 @@ jobs:
             echo "nothing changed"
             exit 0
           fi
-          git commit -m "digest: $(date -u +%F)"
+          git commit -m "digest: ${{ steps.digest.outputs.summary }}"
           git push

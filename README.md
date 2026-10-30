@@ -2,9 +2,9 @@
 
 A daily archive of the [Hacker News](https://news.ycombinator.com) front page.
 
-Once a day a GitHub Actions job takes a snapshot of the front page, sorts the stories by points, and saves it as:
+Every 3 hours a GitHub Actions job takes a snapshot of the front page and merges it into that day's archive. Stories that have dropped off are kept, and stories still on the page get fresh points and comment counts. By the end of the day the archive holds every story that reached the front page:
 
-- `archive/YYYY/MM/YYYY-MM-DD.md`: a readable table of the day's stories
+- `archive/YYYY/MM/YYYY-MM-DD.md`: a readable table of the day's stories, sorted by points
 - `archive/YYYY/MM/YYYY-MM-DD.json`: the same data, ready for analysis
 
 It uses the public [Algolia HN API](https://hn.algolia.com/api), falls back to the [official Firebase API](https://github.com/HackerNews/API), and has no dependencies beyond the Python standard library.
