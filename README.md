@@ -18,12 +18,12 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-10-31](archive/2026/10/2026-10-31.md)
 
-Top 10 of 56 stories so far, last updated 2026-10-31 17:16 UTC. **2** days archived.
+Top 10 of 76 stories so far, last updated 2026-10-31 21:37 UTC. **2** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
 | 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 948 | [542](https://news.ycombinator.com/item?id=50300683) |
-| 2 | [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) <sub>science.org</sub> | 636 | [370](https://news.ycombinator.com/item?id=50314654) |
+| 2 | [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) <sub>science.org</sub> | 760 | [439](https://news.ycombinator.com/item?id=50314654) |
 | 3 | [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) <sub>wired.com</sub> | 542 | [387](https://news.ycombinator.com/item?id=50303172) |
 | 4 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 498 | [372](https://news.ycombinator.com/item?id=50305693) |
 | 5 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 464 | [343](https://news.ycombinator.com/item?id=50305025) |
