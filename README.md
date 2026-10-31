@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-10-30](archive/2026/10/2026-10-30.md)
+### Latest: [2026-10-31](archive/2026/10/2026-10-31.md)
 
-Top 10 of 31 stories so far, last updated 2026-10-30 20:49 UTC. **1** day archived.
+Top 10 of 30 stories so far, last updated 2026-10-31 00:54 UTC. **2** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 616 | [415](https://news.ycombinator.com/item?id=50300683) |
-| 2 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 389 | [298](https://news.ycombinator.com/item?id=50305693) |
-| 3 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 266 | [185](https://news.ycombinator.com/item?id=50305025) |
-| 4 | [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) <sub>binarysecurity.no</sub> | 231 | [40](https://news.ycombinator.com/item?id=50301854) |
-| 5 | [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f) <sub>ft.com</sub> | 181 | [127](https://news.ycombinator.com/item?id=50307219) |
-| 6 | [The federated code forge](https://tangled.org/blog/forge/) <sub>tangled.org</sub> | 162 | [59](https://news.ycombinator.com/item?id=50305573) |
-| 7 | [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance) <sub>npr.org</sub> | 158 | [101](https://news.ycombinator.com/item?id=50305480) |
-| 8 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) <sub>virtuallyfun.com</sub> | 149 | [35](https://news.ycombinator.com/item?id=50307190) |
-| 9 | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) <sub>github.com</sub> | 145 | [25](https://news.ycombinator.com/item?id=50305637) |
-| 10 | [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) <sub>github.com</sub> | 130 | [94](https://news.ycombinator.com/item?id=50306442) |
+| 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 757 | [472](https://news.ycombinator.com/item?id=50300683) |
+| 2 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 498 | [372](https://news.ycombinator.com/item?id=50305693) |
+| 3 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 348 | [271](https://news.ycombinator.com/item?id=50305025) |
+| 4 | [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) <sub>binarysecurity.no</sub> | 260 | [51](https://news.ycombinator.com/item?id=50301854) |
+| 5 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) <sub>virtuallyfun.com</sub> | 229 | [61](https://news.ycombinator.com/item?id=50307190) |
+| 6 | [The federated code forge](https://tangled.org/blog/forge/) <sub>tangled.org</sub> | 226 | [77](https://news.ycombinator.com/item?id=50305573) |
+| 7 | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) <sub>github.com</sub> | 210 | [36](https://news.ycombinator.com/item?id=50305637) |
+| 8 | [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m) <sub>status.bunny.net</sub> | 194 | [39](https://news.ycombinator.com/item?id=50308697) |
+| 9 | [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) <sub>bostonglobe.com</sub> | 186 | [105](https://news.ycombinator.com/item?id=50309647) |
+| 10 | [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) <sub>github.com</sub> | 183 | [109](https://news.ycombinator.com/item?id=50306442) |
 <!-- digest:end -->
