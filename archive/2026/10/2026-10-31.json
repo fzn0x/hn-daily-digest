@@ -1,15 +1,31 @@
 {
   "date": "2026-10-31",
-  "updated_at": "2026-10-31T09:40:21+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-10-31T17:16:02+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50300683,
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "points": 890,
-      "comments": 525,
+      "points": 948,
+      "comments": 542,
       "by": "_chall"
+    },
+    {
+      "id": 50314654,
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "points": 636,
+      "comments": 370,
+      "by": "input_sh"
+    },
+    {
+      "id": 50303172,
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "points": 542,
+      "comments": 387,
+      "by": "domhudson"
     },
     {
       "id": 50305693,
@@ -20,20 +36,36 @@
       "by": "dorianniemiec"
     },
     {
-      "id": 50303172,
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "points": 447,
-      "comments": 299,
-      "by": "domhudson"
-    },
-    {
       "id": 50305025,
       "title": "Northflank Breached",
       "url": "https://status.northflank.com",
-      "points": 431,
-      "comments": 315,
+      "points": 464,
+      "comments": 343,
       "by": "js4ever"
+    },
+    {
+      "id": 50305637,
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "points": 355,
+      "comments": 51,
+      "by": "nanna"
+    },
+    {
+      "id": 50307190,
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "points": 352,
+      "comments": 107,
+      "by": "DHowett"
+    },
+    {
+      "id": 50312756,
+      "title": "Tell HN: Scribd Breached",
+      "url": null,
+      "points": 311,
+      "comments": 112,
+      "by": "x______________"
     },
     {
       "id": 50301854,
@@ -44,12 +76,12 @@
       "by": "swq115"
     },
     {
-      "id": 50307190,
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "id": 50263837,
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
       "points": 308,
-      "comments": 88,
-      "by": "DHowett"
+      "comments": 133,
+      "by": "raybb"
     },
     {
       "id": 50309647,
@@ -68,20 +100,20 @@
       "by": "zlliang"
     },
     {
-      "id": 50305637,
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "points": 275,
-      "comments": 47,
-      "by": "nanna"
+      "id": 50277379,
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "points": 280,
+      "comments": 95,
+      "by": "costco"
     },
     {
-      "id": 50263837,
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "points": 259,
-      "comments": 109,
-      "by": "raybb"
+      "id": 50304122,
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "points": 277,
+      "comments": 312,
+      "by": "taubek"
     },
     {
       "id": 50306442,
@@ -100,20 +132,20 @@
       "by": "acossta"
     },
     {
-      "id": 50277379,
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "points": 200,
-      "comments": 58,
-      "by": "costco"
+      "id": 50314699,
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "points": 208,
+      "comments": 104,
+      "by": "armcat"
     },
     {
-      "id": 50312756,
-      "title": "Tell HN: Scribd Breached",
-      "url": null,
-      "points": 195,
-      "comments": 82,
-      "by": "x______________"
+      "id": 50313661,
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "points": 205,
+      "comments": 150,
+      "by": "wilbertliu"
     },
     {
       "id": 50308697,
@@ -124,6 +156,14 @@
       "by": "SondreDag"
     },
     {
+      "id": 50314666,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "points": 194,
+      "comments": 130,
+      "by": "DeepLogin"
+    },
+    {
       "id": 50311686,
       "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "url": "https://tng.episodle.com/",
@@ -132,12 +172,12 @@
       "by": "francisofascii"
     },
     {
-      "id": 50304122,
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "points": 187,
-      "comments": 218,
-      "by": "taubek"
+      "id": 50309266,
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "points": 189,
+      "comments": 86,
+      "by": "dxs"
     },
     {
       "id": 50309029,
@@ -148,6 +188,14 @@
       "by": "ecliptik"
     },
     {
+      "id": 50314085,
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "points": 152,
+      "comments": 29,
+      "by": "signa11"
+    },
+    {
       "id": 50296730,
       "title": "Building an AI-native engineering org",
       "url": "https://twitter.com/sgondala2/status/2115832070274723875",
@@ -156,12 +204,20 @@
       "by": "sgondala_ycapp"
     },
     {
-      "id": 50309266,
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "points": 150,
-      "comments": 57,
-      "by": "dxs"
+      "id": 50260753,
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "points": 146,
+      "comments": 40,
+      "by": "foOg"
+    },
+    {
+      "id": 50290652,
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "points": 137,
+      "comments": 31,
+      "by": "datascientist"
     },
     {
       "id": 50310687,
@@ -170,6 +226,14 @@
       "points": 134,
       "comments": 72,
       "by": "lacoolj"
+    },
+    {
+      "id": 50315226,
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "points": 133,
+      "comments": 79,
+      "by": "fovc"
     },
     {
       "id": 50310398,
@@ -188,12 +252,28 @@
       "by": "ibobev"
     },
     {
+      "id": 50316531,
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "points": 108,
+      "comments": 45,
+      "by": "khalidkhair"
+    },
+    {
       "id": 50309314,
       "title": "Jules Verne's Lost Novel",
       "url": "https://blue-continuum.com/verne-paris",
       "points": 106,
       "comments": 27,
       "by": "dnetesn"
+    },
+    {
+      "id": 50261253,
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "points": 104,
+      "comments": 22,
+      "by": "aatish"
     },
     {
       "id": 50258496,
@@ -218,6 +298,22 @@
       "points": 80,
       "comments": 60,
       "by": "dverlaeckt80"
+    },
+    {
+      "id": 50317363,
+      "title": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "points": 59,
+      "comments": 16,
+      "by": "karagenit"
+    },
+    {
+      "id": 50316760,
+      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+      "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+      "points": 58,
+      "comments": 41,
+      "by": "WesleyGrant782"
     },
     {
       "id": 50311311,
@@ -252,28 +348,12 @@
       "by": "luu"
     },
     {
-      "id": 50314085,
-      "title": "Switch Lowering in GCC",
-      "url": "https://xoranth.net/gcc-switch/",
-      "points": 34,
-      "comments": 1,
-      "by": "signa11"
-    },
-    {
       "id": 50276613,
       "title": "Double Buffering with Cloudflare Queues",
       "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
       "points": 33,
       "comments": 4,
       "by": "b_llc"
-    },
-    {
-      "id": 50260753,
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "points": 32,
-      "comments": 11,
-      "by": "foOg"
     },
     {
       "id": 50274885,
@@ -284,12 +364,28 @@
       "by": "brandonb"
     },
     {
+      "id": 50271052,
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "points": 27,
+      "comments": 7,
+      "by": "luu"
+    },
+    {
       "id": 50289081,
       "title": "Brief History of PDP Computers",
       "url": "https://entropicthoughts.com/history-of-pdp-computers",
       "points": 26,
       "comments": 11,
       "by": "ibobev"
+    },
+    {
+      "id": 50317429,
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+      "points": 23,
+      "comments": 3,
+      "by": "geox"
     },
     {
       "id": 50305218,
@@ -300,20 +396,44 @@
       "by": "ericlevine"
     },
     {
-      "id": 50313661,
-      "title": "Digital Minimalism",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "points": 19,
-      "comments": 4,
-      "by": "wilbertliu"
+      "id": 50296700,
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+      "points": 22,
+      "comments": 2,
+      "by": "optimiz"
     },
     {
-      "id": 50290652,
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "points": 19,
-      "comments": 0,
-      "by": "datascientist"
+      "id": 50316100,
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "points": 20,
+      "comments": 6,
+      "by": "aphyr"
+    },
+    {
+      "id": 50317534,
+      "title": "Enlightenment 0.28 Released with Many Improvements",
+      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "points": 10,
+      "comments": 3,
+      "by": "mikece"
+    },
+    {
+      "id": 50300902,
+      "title": "Show HN: Ghostman \u2013 A fast, keyboard-driven TUI API client and webhook inspector",
+      "url": "https://github.com/4yk5/Ghostman",
+      "points": 10,
+      "comments": 2,
+      "by": "4yk5"
+    },
+    {
+      "id": 50317484,
+      "title": "A/SIDE \u2013 Private photo sharing and encrypted messages",
+      "url": "https://a-side.social/",
+      "points": 8,
+      "comments": 5,
+      "by": "eustoria"
     },
     {
       "id": 50277518,
@@ -322,6 +442,14 @@
       "points": 5,
       "comments": 0,
       "by": "Thevet"
+    },
+    {
+      "id": 50317548,
+      "title": "Show HN: Jointter \u2013 A daily word puzzle using dots and lines",
+      "url": "https://www.jointter.com/",
+      "points": 3,
+      "comments": 0,
+      "by": "proy87"
     }
   ]
 }

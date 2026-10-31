@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-10-31](archive/2026/10/2026-10-31.md)
 
-Top 10 of 40 stories so far, last updated 2026-10-31 09:40 UTC. **2** days archived.
+Top 10 of 56 stories so far, last updated 2026-10-31 17:16 UTC. **2** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 890 | [525](https://news.ycombinator.com/item?id=50300683) |
-| 2 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 498 | [372](https://news.ycombinator.com/item?id=50305693) |
-| 3 | [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) <sub>wired.com</sub> | 447 | [299](https://news.ycombinator.com/item?id=50303172) |
-| 4 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 431 | [315](https://news.ycombinator.com/item?id=50305025) |
-| 5 | [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) <sub>binarysecurity.no</sub> | 310 | [58](https://news.ycombinator.com/item?id=50301854) |
-| 6 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) <sub>virtuallyfun.com</sub> | 308 | [88](https://news.ycombinator.com/item?id=50307190) |
-| 7 | [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) <sub>bostonglobe.com</sub> | 306 | [176](https://news.ycombinator.com/item?id=50309647) |
-| 8 | [The federated code forge](https://tangled.org/blog/forge/) <sub>tangled.org</sub> | 285 | [84](https://news.ycombinator.com/item?id=50305573) |
-| 9 | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) <sub>github.com</sub> | 275 | [47](https://news.ycombinator.com/item?id=50305637) |
-| 10 | [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) <sub>techpolicy.press</sub> | 259 | [109](https://news.ycombinator.com/item?id=50263837) |
+| 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 948 | [542](https://news.ycombinator.com/item?id=50300683) |
+| 2 | [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) <sub>science.org</sub> | 636 | [370](https://news.ycombinator.com/item?id=50314654) |
+| 3 | [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) <sub>wired.com</sub> | 542 | [387](https://news.ycombinator.com/item?id=50303172) |
+| 4 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 498 | [372](https://news.ycombinator.com/item?id=50305693) |
+| 5 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 464 | [343](https://news.ycombinator.com/item?id=50305025) |
+| 6 | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) <sub>github.com</sub> | 355 | [51](https://news.ycombinator.com/item?id=50305637) |
+| 7 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) <sub>virtuallyfun.com</sub> | 352 | [107](https://news.ycombinator.com/item?id=50307190) |
+| 8 | [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) <sub>news.ycombinator.com</sub> | 311 | [112](https://news.ycombinator.com/item?id=50312756) |
+| 9 | [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) <sub>binarysecurity.no</sub> | 310 | [58](https://news.ycombinator.com/item?id=50301854) |
+| 10 | [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) <sub>techpolicy.press</sub> | 308 | [133](https://news.ycombinator.com/item?id=50263837) |
 <!-- digest:end -->
