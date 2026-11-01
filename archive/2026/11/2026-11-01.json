@@ -1,31 +1,55 @@
 {
   "date": "2026-11-01",
-  "updated_at": "2026-11-01T06:08:22+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-01T13:33:23+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50319510,
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "points": 1002,
-      "comments": 307,
+      "points": 1523,
+      "comments": 406,
       "by": "karpathy"
     },
     {
       "id": 50319143,
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "points": 440,
-      "comments": 205,
+      "points": 563,
+      "comments": 260,
       "by": "oger"
+    },
+    {
+      "id": 50320963,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "points": 538,
+      "comments": 164,
+      "by": "ecares"
     },
     {
       "id": 50314699,
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "points": 316,
-      "comments": 157,
+      "points": 347,
+      "comments": 168,
       "by": "armcat"
+    },
+    {
+      "id": 50324388,
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "points": 345,
+      "comments": 173,
+      "by": "giuliomagnifico"
+    },
+    {
+      "id": 50320995,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "points": 299,
+      "comments": 140,
+      "by": "guregodevo"
     },
     {
       "id": 50319358,
@@ -36,19 +60,11 @@
       "by": "pretext"
     },
     {
-      "id": 50320963,
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "points": 283,
-      "comments": 77,
-      "by": "ecares"
-    },
-    {
       "id": 50316100,
       "title": "Jepsen: ParticleDB 1.1.4",
       "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "points": 236,
-      "comments": 127,
+      "points": 287,
+      "comments": 163,
       "by": "aphyr"
     },
     {
@@ -63,17 +79,73 @@
       "id": 50318720,
       "title": "It's the memory latency, stupid",
       "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "points": 171,
-      "comments": 46,
+      "points": 219,
+      "comments": 72,
       "by": "ntur1337"
     },
     {
-      "id": 50320995,
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "points": 163,
-      "comments": 90,
-      "by": "guregodevo"
+      "id": 50322173,
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "points": 173,
+      "comments": 77,
+      "by": "doodlesdev"
+    },
+    {
+      "id": 50319110,
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "points": 149,
+      "comments": 78,
+      "by": "toomuchtodo"
+    },
+    {
+      "id": 50303984,
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "points": 147,
+      "comments": 33,
+      "by": "whyleyc"
+    },
+    {
+      "id": 50323088,
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "points": 141,
+      "comments": 93,
+      "by": "luu"
+    },
+    {
+      "id": 50319563,
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "points": 136,
+      "comments": 40,
+      "by": "samizdis"
+    },
+    {
+      "id": 50311045,
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "points": 134,
+      "comments": 40,
+      "by": "ohjeez"
+    },
+    {
+      "id": 50321048,
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "points": 125,
+      "comments": 7,
+      "by": "uvdn7"
+    },
+    {
+      "id": 50322022,
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "points": 108,
+      "comments": 56,
+      "by": "hapax_legomena"
     },
     {
       "id": 50319061,
@@ -92,22 +164,6 @@
       "by": "luu"
     },
     {
-      "id": 50319563,
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "points": 96,
-      "comments": 31,
-      "by": "samizdis"
-    },
-    {
-      "id": 50321048,
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "points": 84,
-      "comments": 4,
-      "by": "uvdn7"
-    },
-    {
       "id": 50319169,
       "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
       "url": "https://epoyraz.github.io/nes-contra-us/",
@@ -116,28 +172,28 @@
       "by": "tevlon"
     },
     {
-      "id": 50311045,
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "points": 72,
-      "comments": 17,
-      "by": "ohjeez"
+      "id": 50324118,
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "points": 76,
+      "comments": 54,
+      "by": "motionlessveloc"
     },
     {
-      "id": 50319110,
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "points": 70,
-      "comments": 17,
-      "by": "toomuchtodo"
+      "id": 50290480,
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "points": 74,
+      "comments": 62,
+      "by": "surprisetalk"
     },
     {
-      "id": 50322173,
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "points": 59,
-      "comments": 22,
-      "by": "doodlesdev"
+      "id": 50309279,
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "points": 61,
+      "comments": 12,
+      "by": "peter_d_sherman"
     },
     {
       "id": 50320588,
@@ -156,6 +212,30 @@
       "by": "dverlaeckt80"
     },
     {
+      "id": 50304718,
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "points": 57,
+      "comments": 4,
+      "by": "the-mitr"
+    },
+    {
+      "id": 50310038,
+      "title": "Understanding Email Encryption",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "points": 48,
+      "comments": 12,
+      "by": "nmjenkins"
+    },
+    {
+      "id": 50289711,
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
+      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+      "points": 44,
+      "comments": 0,
+      "by": "gjvc"
+    },
+    {
       "id": 50320599,
       "title": "AI text watermarking and quality loss",
       "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
@@ -164,12 +244,12 @@
       "by": "danielfoster"
     },
     {
-      "id": 50322022,
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "points": 42,
-      "comments": 20,
-      "by": "hapax_legomena"
+      "id": 50290533,
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "points": 35,
+      "comments": 5,
+      "by": "headsupernova"
     },
     {
       "id": 50301723,
@@ -180,12 +260,20 @@
       "by": "dverlaeckt80"
     },
     {
-      "id": 50304718,
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "id": 50324533,
+      "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
+      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "points": 25,
+      "comments": 3,
+      "by": "latexr"
+    },
+    {
+      "id": 50324371,
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\ud83c\udd86\ud83c\udd83\ud83c\udd75/",
       "points": 22,
-      "comments": 1,
-      "by": "the-mitr"
+      "comments": 12,
+      "by": "n_plus_1_acc"
     },
     {
       "id": 50284789,
@@ -204,6 +292,14 @@
       "by": "creack"
     },
     {
+      "id": 50316117,
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "points": 20,
+      "comments": 17,
+      "by": "bookofjoe"
+    },
+    {
       "id": 50302686,
       "title": "Decode kernel panic from QR Code photo",
       "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
@@ -220,20 +316,36 @@
       "by": "mkckto"
     },
     {
-      "id": 50289711,
-      "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
-      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
-      "points": 14,
-      "comments": 0,
-      "by": "gjvc"
+      "id": 50280131,
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "points": 11,
+      "comments": 2,
+      "by": "slater"
     },
     {
-      "id": 50309279,
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "points": 10,
+      "id": 50325107,
+      "title": "The question we should all be asking about AI",
+      "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+      "points": 7,
+      "comments": 1,
+      "by": "heresie-dabord"
+    },
+    {
+      "id": 50325454,
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "points": 5,
       "comments": 0,
-      "by": "peter_d_sherman"
+      "by": "Anon84"
+    },
+    {
+      "id": 50325072,
+      "title": "Is It EDT or EST?",
+      "url": "https://www.edtorest.com",
+      "points": 5,
+      "comments": 0,
+      "by": "DASD"
     },
     {
       "id": 50322994,
