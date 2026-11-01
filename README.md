@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-10-31](archive/2026/10/2026-10-31.md)
+### Latest: [2026-11-01](archive/2026/11/2026-11-01.md)
 
-Top 10 of 76 stories so far, last updated 2026-10-31 21:37 UTC. **2** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-01 06:08 UTC. **3** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) <sub>phorion.io</sub> | 948 | [542](https://news.ycombinator.com/item?id=50300683) |
-| 2 | [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) <sub>science.org</sub> | 760 | [439](https://news.ycombinator.com/item?id=50314654) |
-| 3 | [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) <sub>wired.com</sub> | 542 | [387](https://news.ycombinator.com/item?id=50303172) |
-| 4 | [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) <sub>newsletter.signoz.io</sub> | 498 | [372](https://news.ycombinator.com/item?id=50305693) |
-| 5 | [Northflank Breached](https://status.northflank.com) <sub>status.northflank.com</sub> | 464 | [343](https://news.ycombinator.com/item?id=50305025) |
-| 6 | [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium) <sub>github.com</sub> | 355 | [51](https://news.ycombinator.com/item?id=50305637) |
-| 7 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) <sub>virtuallyfun.com</sub> | 352 | [107](https://news.ycombinator.com/item?id=50307190) |
-| 8 | [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) <sub>news.ycombinator.com</sub> | 311 | [112](https://news.ycombinator.com/item?id=50312756) |
-| 9 | [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) <sub>binarysecurity.no</sub> | 310 | [58](https://news.ycombinator.com/item?id=50301854) |
-| 10 | [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) <sub>techpolicy.press</sub> | 308 | [133](https://news.ycombinator.com/item?id=50263837) |
+| 1 | [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) <sub>karpathy.bearblog.dev</sub> | 1002 | [307](https://news.ycombinator.com/item?id=50319510) |
+| 2 | [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) <sub>atlasum.net</sub> | 440 | [205](https://news.ycombinator.com/item?id=50319143) |
+| 3 | [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) <sub>parameter.ai</sub> | 316 | [157](https://news.ycombinator.com/item?id=50314699) |
+| 4 | [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) <sub>twitter.com</sub> | 290 | [162](https://news.ycombinator.com/item?id=50319358) |
+| 5 | [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) <sub>smithsonianmag.com</sub> | 283 | [77](https://news.ycombinator.com/item?id=50320963) |
+| 6 | [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) <sub>jepsen.io</sub> | 236 | [127](https://news.ycombinator.com/item?id=50316100) |
+| 7 | [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/) <sub>aatishb.com</sub> | 231 | [75](https://news.ycombinator.com/item?id=50261253) |
+| 8 | [It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/) <sub>pivotlake.io</sub> | 171 | [46](https://news.ycombinator.com/item?id=50318720) |
+| 9 | [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) <sub>github.com</sub> | 163 | [90](https://news.ycombinator.com/item?id=50320995) |
+| 10 | [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html) <sub>daemonology.net</sub> | 107 | [31](https://news.ycombinator.com/item?id=50319061) |
 <!-- digest:end -->
