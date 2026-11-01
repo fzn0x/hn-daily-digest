@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-01](archive/2026/11/2026-11-01.md)
 
-Top 10 of 44 stories so far, last updated 2026-11-01 13:33 UTC. **3** days archived.
+Top 10 of 64 stories so far, last updated 2026-11-01 19:40 UTC. **3** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) <sub>karpathy.bearblog.dev</sub> | 1523 | [406](https://news.ycombinator.com/item?id=50319510) |
-| 2 | [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) <sub>atlasum.net</sub> | 563 | [260](https://news.ycombinator.com/item?id=50319143) |
-| 3 | [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) <sub>smithsonianmag.com</sub> | 538 | [164](https://news.ycombinator.com/item?id=50320963) |
-| 4 | [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) <sub>parameter.ai</sub> | 347 | [168](https://news.ycombinator.com/item?id=50314699) |
-| 5 | [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) <sub>visitnorway.com</sub> | 345 | [173](https://news.ycombinator.com/item?id=50324388) |
-| 6 | [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) <sub>github.com</sub> | 299 | [140](https://news.ycombinator.com/item?id=50320995) |
-| 7 | [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) <sub>twitter.com</sub> | 290 | [162](https://news.ycombinator.com/item?id=50319358) |
-| 8 | [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) <sub>jepsen.io</sub> | 287 | [163](https://news.ycombinator.com/item?id=50316100) |
-| 9 | [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/) <sub>aatishb.com</sub> | 231 | [75](https://news.ycombinator.com/item?id=50261253) |
-| 10 | [It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/) <sub>pivotlake.io</sub> | 219 | [72](https://news.ycombinator.com/item?id=50318720) |
+| 1 | [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) <sub>karpathy.bearblog.dev</sub> | 1959 | [490](https://news.ycombinator.com/item?id=50319510) |
+| 2 | [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) <sub>smithsonianmag.com</sub> | 691 | [189](https://news.ycombinator.com/item?id=50320963) |
+| 3 | [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) <sub>atlasum.net</sub> | 636 | [309](https://news.ycombinator.com/item?id=50319143) |
+| 4 | [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) <sub>hackerbooks.org</sub> | 441 | [121](https://news.ycombinator.com/item?id=50326821) |
+| 5 | [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) <sub>github.com</sub> | 389 | [193](https://news.ycombinator.com/item?id=50320995) |
+| 6 | [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) <sub>parameter.ai</sub> | 347 | [168](https://news.ycombinator.com/item?id=50314699) |
+| 7 | [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) <sub>visitnorway.com</sub> | 345 | [173](https://news.ycombinator.com/item?id=50324388) |
+| 8 | [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) <sub>tomshardware.com</sub> | 337 | [117](https://news.ycombinator.com/item?id=50326118) |
+| 9 | [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088) <sub>twitter.com</sub> | 290 | [162](https://news.ycombinator.com/item?id=50319358) |
+| 10 | [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) <sub>jepsen.io</sub> | 287 | [163](https://news.ycombinator.com/item?id=50316100) |
 <!-- digest:end -->

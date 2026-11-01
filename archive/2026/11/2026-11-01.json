@@ -1,31 +1,47 @@
 {
   "date": "2026-11-01",
-  "updated_at": "2026-11-01T13:33:23+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-01T19:40:58+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50319510,
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "points": 1523,
-      "comments": 406,
+      "points": 1959,
+      "comments": 490,
       "by": "karpathy"
-    },
-    {
-      "id": 50319143,
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "points": 563,
-      "comments": 260,
-      "by": "oger"
     },
     {
       "id": 50320963,
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "points": 538,
-      "comments": 164,
+      "points": 691,
+      "comments": 189,
       "by": "ecares"
+    },
+    {
+      "id": 50319143,
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "points": 636,
+      "comments": 309,
+      "by": "oger"
+    },
+    {
+      "id": 50326821,
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "points": 441,
+      "comments": 121,
+      "by": "roansh"
+    },
+    {
+      "id": 50320995,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "points": 389,
+      "comments": 193,
+      "by": "guregodevo"
     },
     {
       "id": 50314699,
@@ -44,12 +60,12 @@
       "by": "giuliomagnifico"
     },
     {
-      "id": 50320995,
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "points": 299,
-      "comments": 140,
-      "by": "guregodevo"
+      "id": 50326118,
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "points": 337,
+      "comments": 117,
+      "by": "entryleveljobsc"
     },
     {
       "id": 50319358,
@@ -68,6 +84,30 @@
       "by": "aphyr"
     },
     {
+      "id": 50322173,
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "points": 273,
+      "comments": 152,
+      "by": "doodlesdev"
+    },
+    {
+      "id": 50326099,
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "points": 249,
+      "comments": 95,
+      "by": "entryleveljobsc"
+    },
+    {
+      "id": 50323088,
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "points": 234,
+      "comments": 165,
+      "by": "luu"
+    },
+    {
       "id": 50261253,
       "title": "Simple circuits can create complex behaviors",
       "url": "https://aatishb.com/myriad/lets-build-a-brain/",
@@ -84,12 +124,12 @@
       "by": "ntur1337"
     },
     {
-      "id": 50322173,
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "points": 173,
-      "comments": 77,
-      "by": "doodlesdev"
+      "id": 50327650,
+      "title": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "points": 180,
+      "comments": 123,
+      "by": "rhaynes"
     },
     {
       "id": 50319110,
@@ -106,14 +146,6 @@
       "points": 147,
       "comments": 33,
       "by": "whyleyc"
-    },
-    {
-      "id": 50323088,
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "points": 141,
-      "comments": 93,
-      "by": "luu"
     },
     {
       "id": 50319563,
@@ -156,12 +188,68 @@
       "by": "gslin"
     },
     {
+      "id": 50290533,
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "points": 104,
+      "comments": 30,
+      "by": "headsupernova"
+    },
+    {
       "id": 50271052,
       "title": "Reading and writing are less symmetric than you (probably) think",
       "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
       "points": 102,
       "comments": 24,
       "by": "luu"
+    },
+    {
+      "id": 50310038,
+      "title": "Understanding Email Encryption",
+      "url": "https://www.fastmail.com/blog/email-encryption/",
+      "points": 100,
+      "comments": 21,
+      "by": "nmjenkins"
+    },
+    {
+      "id": 50327266,
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "points": 100,
+      "comments": 25,
+      "by": "999900000999"
+    },
+    {
+      "id": 50327058,
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "points": 89,
+      "comments": 15,
+      "by": "gmays"
+    },
+    {
+      "id": 50280131,
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "points": 86,
+      "comments": 30,
+      "by": "slater"
+    },
+    {
+      "id": 50325454,
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "points": 84,
+      "comments": 43,
+      "by": "Anon84"
+    },
+    {
+      "id": 50314617,
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "points": 83,
+      "comments": 34,
+      "by": "croes"
     },
     {
       "id": 50319169,
@@ -180,12 +268,36 @@
       "by": "motionlessveloc"
     },
     {
+      "id": 50325694,
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "points": 76,
+      "comments": 30,
+      "by": "dverlaeckt80"
+    },
+    {
       "id": 50290480,
       "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
       "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
       "points": 74,
       "comments": 62,
       "by": "surprisetalk"
+    },
+    {
+      "id": 50308754,
+      "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "points": 71,
+      "comments": 33,
+      "by": "bogdanoff_2"
+    },
+    {
+      "id": 50326609,
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "points": 67,
+      "comments": 46,
+      "by": "edward"
     },
     {
       "id": 50309279,
@@ -204,6 +316,14 @@
       "by": "Zariel"
     },
     {
+      "id": 50325253,
+      "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "points": 59,
+      "comments": 25,
+      "by": "FabCH"
+    },
+    {
       "id": 50321130,
       "title": "When electric cars were for women",
       "url": "https://spectrum.ieee.org/early-electric-vehicles",
@@ -220,12 +340,28 @@
       "by": "the-mitr"
     },
     {
-      "id": 50310038,
-      "title": "Understanding Email Encryption",
-      "url": "https://www.fastmail.com/blog/email-encryption/",
-      "points": 48,
-      "comments": 12,
-      "by": "nmjenkins"
+      "id": 50319749,
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "points": 53,
+      "comments": 67,
+      "by": "luu"
+    },
+    {
+      "id": 50314508,
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "points": 51,
+      "comments": 7,
+      "by": "kevs3d"
+    },
+    {
+      "id": 50328251,
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "points": 50,
+      "comments": 53,
+      "by": "smilelamp"
     },
     {
       "id": 50289711,
@@ -244,20 +380,20 @@
       "by": "danielfoster"
     },
     {
-      "id": 50290533,
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "url": "https://outcrop.rocks/",
-      "points": 35,
-      "comments": 5,
-      "by": "headsupernova"
-    },
-    {
       "id": 50301723,
       "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
       "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
       "points": 33,
       "comments": 2,
       "by": "dverlaeckt80"
+    },
+    {
+      "id": 50328487,
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+      "points": 26,
+      "comments": 2,
+      "by": "ravetcofx"
     },
     {
       "id": 50324533,
@@ -316,14 +452,6 @@
       "by": "mkckto"
     },
     {
-      "id": 50280131,
-      "title": "Radiation Map of the World",
-      "url": "https://radiaverse.com/",
-      "points": 11,
-      "comments": 2,
-      "by": "slater"
-    },
-    {
       "id": 50325107,
       "title": "The question we should all be asking about AI",
       "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
@@ -332,12 +460,12 @@
       "by": "heresie-dabord"
     },
     {
-      "id": 50325454,
-      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "points": 5,
+      "id": 50328462,
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "points": 7,
       "comments": 0,
-      "by": "Anon84"
+      "by": "frank_clover"
     },
     {
       "id": 50325072,
@@ -348,12 +476,44 @@
       "by": "DASD"
     },
     {
+      "id": 50313227,
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "points": 5,
+      "comments": 6,
+      "by": "colinprince"
+    },
+    {
+      "id": 50328556,
+      "title": "Proposed data centre will release 23 Hiroshima atomic bomb worth of energy a day",
+      "url": "https://www.cbc.ca/lite/story/9.7403677",
+      "points": 5,
+      "comments": 1,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50289844,
+      "title": "SS27 Color Stats",
+      "url": "https://sarahconstantin.substack.com/p/ss27-color-stats",
+      "points": 5,
+      "comments": 1,
+      "by": "surprisetalk"
+    },
+    {
       "id": 50322994,
       "title": "Model Aero Engines Free Manufacturable Plans/Blueprints",
       "url": "https://outerzone.co.uk/plans.asp?cat=Engines",
       "points": 3,
       "comments": 0,
       "by": "pillars"
+    },
+    {
+      "id": 50271106,
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "points": 3,
+      "comments": 0,
+      "by": "luu"
     }
   ]
 }
