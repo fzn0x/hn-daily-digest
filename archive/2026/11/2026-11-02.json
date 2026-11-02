@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T00:55:01+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50319510,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "points": 2258,
+      "comments": 538,
+      "by": "karpathy"
+    },
+    {
+      "id": 50326821,
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "points": 882,
+      "comments": 172,
+      "by": "roansh"
+    },
+    {
+      "id": 50320963,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "points": 768,
+      "comments": 197,
+      "by": "ecares"
+    },
+    {
+      "id": 50326099,
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "points": 387,
+      "comments": 137,
+      "by": "entryleveljobsc"
+    },
+    {
+      "id": 50327650,
+      "title": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "points": 359,
+      "comments": 250,
+      "by": "rhaynes"
+    },
+    {
+      "id": 50323088,
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "points": 291,
+      "comments": 227,
+      "by": "luu"
+    },
+    {
+      "id": 50328251,
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "points": 214,
+      "comments": 231,
+      "by": "smilelamp"
+    },
+    {
+      "id": 50330939,
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "points": 170,
+      "comments": 65,
+      "by": "qlte"
+    },
+    {
+      "id": 50327266,
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "points": 167,
+      "comments": 60,
+      "by": "999900000999"
+    },
+    {
+      "id": 50290533,
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "points": 150,
+      "comments": 37,
+      "by": "headsupernova"
+    },
+    {
+      "id": 50325253,
+      "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "points": 148,
+      "comments": 38,
+      "by": "FabCH"
+    },
+    {
+      "id": 50327058,
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "points": 132,
+      "comments": 33,
+      "by": "gmays"
+    },
+    {
+      "id": 50326609,
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "points": 128,
+      "comments": 100,
+      "by": "edward"
+    },
+    {
+      "id": 50280131,
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "points": 125,
+      "comments": 39,
+      "by": "slater"
+    },
+    {
+      "id": 50330456,
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "points": 124,
+      "comments": 110,
+      "by": "throwoutway"
+    },
+    {
+      "id": 50308754,
+      "title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "points": 121,
+      "comments": 72,
+      "by": "bogdanoff_2"
+    },
+    {
+      "id": 50328896,
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": null,
+      "points": 118,
+      "comments": 202,
+      "by": "LecroJS"
+    },
+    {
+      "id": 50314617,
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "points": 118,
+      "comments": 39,
+      "by": "croes"
+    },
+    {
+      "id": 50325694,
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "points": 109,
+      "comments": 48,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50325454,
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "points": 105,
+      "comments": 59,
+      "by": "Anon84"
+    },
+    {
+      "id": 50299811,
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "points": 87,
+      "comments": 11,
+      "by": "raphlinus"
+    },
+    {
+      "id": 50319749,
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "points": 84,
+      "comments": 119,
+      "by": "luu"
+    },
+    {
+      "id": 50314508,
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "points": 74,
+      "comments": 11,
+      "by": "kevs3d"
+    },
+    {
+      "id": 50271106,
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "points": 69,
+      "comments": 12,
+      "by": "luu"
+    },
+    {
+      "id": 50324371,
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "points": 53,
+      "comments": 47,
+      "by": "n_plus_1_acc"
+    },
+    {
+      "id": 50299427,
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "points": 37,
+      "comments": 20,
+      "by": "stevenalowe"
+    },
+    {
+      "id": 50313227,
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "points": 36,
+      "comments": 18,
+      "by": "colinprince"
+    },
+    {
+      "id": 50303088,
+      "title": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "points": 17,
+      "comments": 2,
+      "by": "TMWNN"
+    },
+    {
+      "id": 50312408,
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "points": 15,
+      "comments": 1,
+      "by": "soheilpro"
+    },
+    {
+      "id": 50318129,
+      "title": "The She-Wolves of J\u00fclich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "points": 12,
+      "comments": 1,
+      "by": "Thevet"
+    }
+  ]
+}
