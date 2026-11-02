@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
-  "updated_at": "2026-11-02T11:12:56+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-02T21:47:26+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50319510,
@@ -18,6 +18,22 @@
       "points": 1422,
       "comments": 237,
       "by": "roansh"
+    },
+    {
+      "id": 50341174,
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "points": 1226,
+      "comments": 381,
+      "by": "dbreunig"
+    },
+    {
+      "id": 50337608,
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "points": 1138,
+      "comments": 543,
+      "by": "chalmovsky"
     },
     {
       "id": 50320963,
@@ -52,6 +68,14 @@
       "by": "LecroJS"
     },
     {
+      "id": 50340088,
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "url": null,
+      "points": 397,
+      "comments": 237,
+      "by": "aarushyadav"
+    },
+    {
       "id": 50323088,
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
@@ -66,6 +90,14 @@
       "points": 359,
       "comments": 250,
       "by": "rhaynes"
+    },
+    {
+      "id": 50335615,
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "points": 331,
+      "comments": 379,
+      "by": "fergie"
     },
     {
       "id": 50328251,
@@ -84,12 +116,28 @@
       "by": "misswaterfairy"
     },
     {
+      "id": 50336518,
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "points": 288,
+      "comments": 67,
+      "by": "ingve"
+    },
+    {
       "id": 50325253,
       "title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
       "url": "https://github.com/ivankovic/omnidiff",
       "points": 256,
       "comments": 74,
       "by": "FabCH"
+    },
+    {
+      "id": 50339494,
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "points": 242,
+      "comments": 198,
+      "by": "entryleveljobsc"
     },
     {
       "id": 50333339,
@@ -106,6 +154,22 @@
       "points": 210,
       "comments": 47,
       "by": "headsupernova"
+    },
+    {
+      "id": 50339397,
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "points": 202,
+      "comments": 220,
+      "by": "xoobdev"
+    },
+    {
+      "id": 50334704,
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "points": 189,
+      "comments": 47,
+      "by": "guitmz"
     },
     {
       "id": 50280131,
@@ -140,6 +204,14 @@
       "by": "999900000999"
     },
     {
+      "id": 50339221,
+      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "points": 162,
+      "comments": 31,
+      "by": "stared"
+    },
+    {
       "id": 50314617,
       "title": "One-minute frequency disturbances from synchronization in power systems",
       "url": "https://www.nature.com/articles/s41560-026-02144-0",
@@ -164,12 +236,36 @@
       "by": "Anon84"
     },
     {
+      "id": 50341462,
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "points": 141,
+      "comments": 22,
+      "by": "majorchord"
+    },
+    {
+      "id": 50338747,
+      "title": "Moving our warehouse off DuckDB",
+      "url": "https://posthog.com/blog/moving-off-duckdb",
+      "points": 136,
+      "comments": 100,
+      "by": "emschwartz"
+    },
+    {
       "id": 50315217,
       "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
       "points": 135,
       "comments": 58,
       "by": "_Microft"
+    },
+    {
+      "id": 50338728,
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": null,
+      "points": 134,
+      "comments": 113,
+      "by": "whoishiring"
     },
     {
       "id": 50332163,
@@ -196,6 +292,14 @@
       "by": "edward"
     },
     {
+      "id": 50339815,
+      "title": "My Favourite Laptop",
+      "url": "https://blog.jsbarretto.com/post/laptop",
+      "points": 128,
+      "comments": 95,
+      "by": "ibobev"
+    },
+    {
       "id": 50271106,
       "title": "Tips for more effective fuzz testing with AFL++",
       "url": "https://nullprogram.com/blog/2025/02/05/",
@@ -220,6 +324,14 @@
       "by": "EA-3167"
     },
     {
+      "id": 50337558,
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "points": 114,
+      "comments": 36,
+      "by": "wondersky"
+    },
+    {
       "id": 50325694,
       "title": "Novellas with Groff",
       "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
@@ -234,6 +346,14 @@
       "points": 96,
       "comments": 39,
       "by": "anurag"
+    },
+    {
+      "id": 50339913,
+      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "points": 94,
+      "comments": 63,
+      "by": "wuweiweiwu"
     },
     {
       "id": 50314508,
@@ -252,6 +372,14 @@
       "by": "n_plus_1_acc"
     },
     {
+      "id": 50342284,
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "points": 92,
+      "comments": 54,
+      "by": "smartmic"
+    },
+    {
       "id": 50299427,
       "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
       "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
@@ -268,12 +396,76 @@
       "by": "luu"
     },
     {
+      "id": 50336840,
+      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "points": 77,
+      "comments": 33,
+      "by": "torutofu"
+    },
+    {
+      "id": 50341028,
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "points": 65,
+      "comments": 21,
+      "by": "ibobev"
+    },
+    {
+      "id": 50337716,
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "url": "https://longcat.ai/blog/longcat-2.5/",
+      "points": 64,
+      "comments": 21,
+      "by": "pretext"
+    },
+    {
+      "id": 50341334,
+      "title": "Agentic backdoors via pretraining poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "points": 63,
+      "comments": 14,
+      "by": "gmays"
+    },
+    {
+      "id": 50341736,
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "points": 59,
+      "comments": 48,
+      "by": "smilelamp"
+    },
+    {
+      "id": 50337503,
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "points": 58,
+      "comments": 50,
+      "by": "gmays"
+    },
+    {
       "id": 50334038,
       "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
       "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
       "points": 51,
       "comments": 31,
       "by": "jonnybgood"
+    },
+    {
+      "id": 50341502,
+      "title": "SOML \u2013 A Config Format for Humans",
+      "url": "https://github.com/soml-lang/soml",
+      "points": 50,
+      "comments": 44,
+      "by": "microflash"
+    },
+    {
+      "id": 50337661,
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "points": 44,
+      "comments": 8,
+      "by": "ibobev"
     },
     {
       "id": 50333774,
@@ -292,6 +484,22 @@
       "by": "colinprince"
     },
     {
+      "id": 50340992,
+      "title": "Skill to Create Product Videos",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "points": 36,
+      "comments": 11,
+      "by": "aaitor"
+    },
+    {
+      "id": 50340159,
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "points": 31,
+      "comments": 3,
+      "by": "austinallegro"
+    },
+    {
       "id": 50318129,
       "title": "The She-Wolves of J\u00fclich",
       "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
@@ -300,12 +508,20 @@
       "by": "Thevet"
     },
     {
-      "id": 50334704,
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "points": 19,
-      "comments": 6,
-      "by": "guitmz"
+      "id": 50343418,
+      "title": "Valve \"played capitalism so well they broke it\" and now Steam can't be replaced",
+      "url": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/",
+      "points": 18,
+      "comments": 13,
+      "by": "consumer451"
+    },
+    {
+      "id": 50340629,
+      "title": "Making Peace with the Projective Plane",
+      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "points": 18,
+      "comments": 7,
+      "by": "ibobev"
     },
     {
       "id": 50303088,
@@ -322,6 +538,22 @@
       "points": 10,
       "comments": 2,
       "by": "mw888"
+    },
+    {
+      "id": 50340619,
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "points": 7,
+      "comments": 2,
+      "by": "tomrod"
+    },
+    {
+      "id": 50339827,
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "url": "https://bitmovin.com/careers/8660599002/",
+      "points": 0,
+      "comments": 0,
+      "by": "slederer"
     }
   ]
 }
