@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03T06:56:45+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-03T17:10:18+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50341174,
@@ -20,6 +20,14 @@
       "by": "chalmovsky"
     },
     {
+      "id": 50351111,
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "points": 646,
+      "comments": 147,
+      "by": "syllogism"
+    },
+    {
       "id": 50340088,
       "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
       "url": null,
@@ -34,6 +42,14 @@
       "points": 485,
       "comments": 108,
       "by": "ingve"
+    },
+    {
+      "id": 50346981,
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "points": 429,
+      "comments": 131,
+      "by": "polpenn"
     },
     {
       "id": 50341462,
@@ -52,12 +68,28 @@
       "by": "xoobdev"
     },
     {
+      "id": 50346849,
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "points": 329,
+      "comments": 74,
+      "by": "bpierre"
+    },
+    {
       "id": 50344919,
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
       "points": 290,
       "comments": 226,
       "by": "cdrnsf"
+    },
+    {
+      "id": 50349276,
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "points": 267,
+      "comments": 129,
+      "by": "markusw"
     },
     {
       "id": 50339221,
@@ -68,12 +100,28 @@
       "by": "stared"
     },
     {
+      "id": 50348962,
+      "title": "Nvidia \u2013 open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "points": 235,
+      "comments": 92,
+      "by": "campervans"
+    },
+    {
       "id": 50338728,
       "title": "Ask HN: Who is hiring? (November 2026)",
       "url": null,
       "points": 203,
       "comments": 163,
       "by": "whoishiring"
+    },
+    {
+      "id": 50321605,
+      "title": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "points": 186,
+      "comments": 64,
+      "by": "floitsch"
     },
     {
       "id": 50346153,
@@ -100,12 +148,12 @@
       "by": "wondersky"
     },
     {
-      "id": 50346981,
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "points": 168,
-      "comments": 52,
-      "by": "polpenn"
+      "comments": 70,
+      "by": "bookofjoe"
     },
     {
       "id": 50345924,
@@ -114,6 +162,14 @@
       "points": 163,
       "comments": 73,
       "by": "makeramen"
+    },
+    {
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "points": 163,
+      "comments": 39,
+      "by": "xx_ns"
     },
     {
       "id": 50341736,
@@ -132,12 +188,12 @@
       "by": "wuweiweiwu"
     },
     {
-      "id": 50346849,
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "points": 124,
-      "comments": 26,
-      "by": "bpierre"
+      "id": 50327088,
+      "title": "Life with Down Syndrome",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
+      "points": 127,
+      "comments": 80,
+      "by": "NaOH"
     },
     {
       "id": 50341028,
@@ -156,12 +212,36 @@
       "by": "austinallegro"
     },
     {
+      "id": 50353192,
+      "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "points": 113,
+      "comments": 84,
+      "by": "ceejayoz"
+    },
+    {
+      "id": 50332342,
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "points": 112,
+      "comments": 34,
+      "by": "thebigship"
+    },
+    {
       "id": 50340992,
       "title": "Skill to Create Product Videos",
       "url": "https://github.com/aaitor/skill-video-studio",
       "points": 92,
       "comments": 26,
       "by": "aaitor"
+    },
+    {
+      "id": 50352757,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": null,
+      "points": 89,
+      "comments": 31,
+      "by": "user052919"
     },
     {
       "id": 50323123,
@@ -172,12 +252,68 @@
       "by": "knlb"
     },
     {
+      "id": 50351319,
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "points": 77,
+      "comments": 51,
+      "by": "ibobev"
+    },
+    {
+      "id": 50352758,
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": 77,
+      "comments": 21,
+      "by": "anner_"
+    },
+    {
+      "id": 50353475,
+      "title": "Quili AI",
+      "url": "https://www.quili.ai/",
+      "points": 72,
+      "comments": 40,
+      "by": "Shugyousha"
+    },
+    {
+      "id": 50353229,
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "points": 63,
+      "comments": 30,
+      "by": "rbanffy"
+    },
+    {
       "id": 50344224,
       "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
       "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
       "points": 61,
       "comments": 8,
       "by": "gmays"
+    },
+    {
+      "id": 50333332,
+      "title": "Why Don't We Live in an Art Nouveau World?",
+      "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+      "points": 54,
+      "comments": 65,
+      "by": "shcallaway"
+    },
+    {
+      "id": 50342119,
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "points": 54,
+      "comments": 2,
+      "by": "benbreen"
+    },
+    {
+      "id": 50352898,
+      "title": "Octomind \u2013 open-source AI harness that saves your tokens, static rust",
+      "url": "https://github.com/Muvon/octomind",
+      "points": 40,
+      "comments": 32,
+      "by": "donk8r"
     },
     {
       "id": 50334523,
@@ -188,12 +324,28 @@
       "by": "ymz5"
     },
     {
+      "id": 50353335,
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+      "points": 37,
+      "comments": 12,
+      "by": "gmays"
+    },
+    {
       "id": 50326246,
       "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
       "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
       "points": 34,
       "comments": 2,
       "by": "birdculture"
+    },
+    {
+      "id": 50334363,
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
+      "url": "https://www.mattkeeter.com/projects/antimony/3/",
+      "points": 32,
+      "comments": 7,
+      "by": "pmkary"
     },
     {
       "id": 50344912,
@@ -204,12 +356,60 @@
       "by": "airhangerf15"
     },
     {
+      "id": 50353386,
+      "title": "Show HN: HackerChurn \u2013 which SaaS tools HN wants to cancel",
+      "url": "https://hissingkitty.com/hacker-churn",
+      "points": 25,
+      "comments": 7,
+      "by": "drewlem"
+    },
+    {
+      "id": 50353360,
+      "title": "No brother of mine will play the flute",
+      "url": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
+      "points": 24,
+      "comments": 23,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50337980,
+      "title": "Killing what can't be handled \u2013 putting a spaghetti demon to eternal rest",
+      "url": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+      "points": 24,
+      "comments": 3,
+      "by": "ibobev"
+    },
+    {
+      "id": 50353073,
+      "title": "Tiny Basic for Arduino",
+      "url": "https://dilshan.github.io/tiny-basic/",
+      "points": 22,
+      "comments": 3,
+      "by": "AlexeyBrin"
+    },
+    {
+      "id": 50353468,
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "url": "https://concepts.laxmena.com/",
+      "points": 19,
+      "comments": 2,
+      "by": "laxmena"
+    },
+    {
       "id": 50347464,
       "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
       "url": "https://arxiv.org/abs/2608.25820",
       "points": 17,
       "comments": 0,
       "by": "teleforce"
+    },
+    {
+      "id": 50353383,
+      "title": "Bear turns 10, and it still feels like day one",
+      "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+      "points": 16,
+      "comments": 6,
+      "by": "psxuaw"
     },
     {
       "id": 50348260,
@@ -220,12 +420,36 @@
       "by": "jp1016"
     },
     {
+      "id": 50352767,
+      "title": "Handles are the better pointers (2018)",
+      "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+      "points": 14,
+      "comments": 6,
+      "by": "vinhnx"
+    },
+    {
       "id": 50347552,
       "title": "Show HN: I built a little browser game to practice Vim commands",
       "url": "https://hjkl.duy.run",
       "points": 11,
       "comments": 9,
       "by": "dh1011"
+    },
+    {
+      "id": 50354336,
+      "title": "Gitbook Breached",
+      "url": null,
+      "points": 7,
+      "comments": 1,
+      "by": "punchmesan"
+    },
+    {
+      "id": 50326545,
+      "title": "Embedding boolean circuits in a neural network",
+      "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
+      "points": 5,
+      "comments": 0,
+      "by": "eob"
     },
     {
       "id": 50320904,
