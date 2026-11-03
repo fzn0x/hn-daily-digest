@@ -1,7 +1,7 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03T17:10:18+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-03T23:26:04+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50341174,
@@ -20,11 +20,19 @@
       "by": "chalmovsky"
     },
     {
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": 928,
+      "comments": 300,
+      "by": "sidgarimella"
+    },
+    {
       "id": 50351111,
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
       "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "points": 646,
-      "comments": 147,
+      "points": 860,
+      "comments": 189,
       "by": "syllogism"
     },
     {
@@ -36,12 +44,28 @@
       "by": "aarushyadav"
     },
     {
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "points": 552,
+      "comments": 219,
+      "by": "xx_ns"
+    },
+    {
       "id": 50336518,
       "title": "If you love a website, back it up",
       "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
       "points": 485,
       "comments": 108,
       "by": "ingve"
+    },
+    {
+      "id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": 434,
+      "comments": 138,
+      "by": "theanonymousone"
     },
     {
       "id": 50346981,
@@ -52,12 +76,36 @@
       "by": "polpenn"
     },
     {
+      "id": 50349276,
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "points": 427,
+      "comments": 196,
+      "by": "markusw"
+    },
+    {
+      "id": 50353229,
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "points": 426,
+      "comments": 354,
+      "by": "rbanffy"
+    },
+    {
       "id": 50341462,
       "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
       "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "points": 425,
       "comments": 125,
       "by": "majorchord"
+    },
+    {
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "points": 351,
+      "comments": 137,
+      "by": "bookofjoe"
     },
     {
       "id": 50339397,
@@ -76,20 +124,28 @@
       "by": "bpierre"
     },
     {
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "points": 297,
+      "comments": 118,
+      "by": "nharada"
+    },
+    {
+      "id": 50352758,
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": 291,
+      "comments": 165,
+      "by": "anner_"
+    },
+    {
       "id": 50344919,
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
       "points": 290,
       "comments": 226,
       "by": "cdrnsf"
-    },
-    {
-      "id": 50349276,
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "points": 267,
-      "comments": 129,
-      "by": "markusw"
     },
     {
       "id": 50339221,
@@ -132,6 +188,14 @@
       "by": "entryleveljobsc"
     },
     {
+      "id": 50358562,
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "points": 181,
+      "comments": 117,
+      "by": "paddingtone"
+    },
+    {
       "id": 50340619,
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -148,14 +212,6 @@
       "by": "wondersky"
     },
     {
-      "id": 50336918,
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "points": 168,
-      "comments": 70,
-      "by": "bookofjoe"
-    },
-    {
       "id": 50345924,
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai/",
@@ -164,12 +220,12 @@
       "by": "makeramen"
     },
     {
-      "id": 50339288,
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "points": 163,
-      "comments": 39,
-      "by": "xx_ns"
+      "id": 50356994,
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "points": 154,
+      "comments": 67,
+      "by": "user_7832"
     },
     {
       "id": 50341736,
@@ -188,6 +244,14 @@
       "by": "wuweiweiwu"
     },
     {
+      "id": 50354336,
+      "title": "Gitbook Breached",
+      "url": null,
+      "points": 138,
+      "comments": 31,
+      "by": "punchmesan"
+    },
+    {
       "id": 50327088,
       "title": "Life with Down Syndrome",
       "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
@@ -201,6 +265,14 @@
       "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
       "points": 123,
       "comments": 43,
+      "by": "ibobev"
+    },
+    {
+      "id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "points": 120,
+      "comments": 12,
       "by": "ibobev"
     },
     {
@@ -226,6 +298,38 @@
       "points": 112,
       "comments": 34,
       "by": "thebigship"
+    },
+    {
+      "id": 50342119,
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "points": 109,
+      "comments": 15,
+      "by": "benbreen"
+    },
+    {
+      "id": 50346755,
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "points": 103,
+      "comments": 26,
+      "by": "dsalzman"
+    },
+    {
+      "id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "points": 97,
+      "comments": 28,
+      "by": "angry_impala"
+    },
+    {
+      "id": 50334363,
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "url": "https://www.mattkeeter.com/projects/antimony/3/",
+      "points": 96,
+      "comments": 49,
+      "by": "pmkary"
     },
     {
       "id": 50340992,
@@ -260,12 +364,12 @@
       "by": "ibobev"
     },
     {
-      "id": 50352758,
-      "title": "Mac at Any Scale",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "points": 77,
-      "comments": 21,
-      "by": "anner_"
+      "id": 50356944,
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "points": 75,
+      "comments": 40,
+      "by": "colejohnson66"
     },
     {
       "id": 50353475,
@@ -276,12 +380,12 @@
       "by": "Shugyousha"
     },
     {
-      "id": 50353229,
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "points": 63,
-      "comments": 30,
-      "by": "rbanffy"
+      "id": 50333131,
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "points": 68,
+      "comments": 14,
+      "by": "zdw"
     },
     {
       "id": 50344224,
@@ -292,6 +396,22 @@
       "by": "gmays"
     },
     {
+      "id": 50353073,
+      "title": "Tiny Basic for Arduino",
+      "url": "https://dilshan.github.io/tiny-basic/",
+      "points": 61,
+      "comments": 19,
+      "by": "AlexeyBrin"
+    },
+    {
+      "id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "points": 56,
+      "comments": 54,
+      "by": "citelao"
+    },
+    {
       "id": 50333332,
       "title": "Why Don't We Live in an Art Nouveau World?",
       "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
@@ -300,12 +420,36 @@
       "by": "shcallaway"
     },
     {
-      "id": 50342119,
-      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-      "points": 54,
-      "comments": 2,
-      "by": "benbreen"
+      "id": 50322603,
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "points": 49,
+      "comments": 25,
+      "by": "gmays"
+    },
+    {
+      "id": 50356913,
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "points": 44,
+      "comments": 7,
+      "by": "ibobev"
+    },
+    {
+      "id": 50354250,
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "url": "https://arxiv.org/abs/2611.02618",
+      "points": 43,
+      "comments": 6,
+      "by": "1equalsequals1"
+    },
+    {
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "points": 42,
+      "comments": 1,
+      "by": "ibobev"
     },
     {
       "id": 50352898,
@@ -340,12 +484,12 @@
       "by": "birdculture"
     },
     {
-      "id": 50334363,
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
-      "url": "https://www.mattkeeter.com/projects/antimony/3/",
-      "points": 32,
-      "comments": 7,
-      "by": "pmkary"
+      "id": 50358314,
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "points": 31,
+      "comments": 4,
+      "by": "ayanb9440"
     },
     {
       "id": 50344912,
@@ -354,6 +498,14 @@
       "points": 27,
       "comments": 5,
       "by": "airhangerf15"
+    },
+    {
+      "id": 50357457,
+      "title": "Pratt parsing is a black box",
+      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "points": 27,
+      "comments": 13,
+      "by": "ibobev"
     },
     {
       "id": 50353386,
@@ -380,12 +532,12 @@
       "by": "ibobev"
     },
     {
-      "id": 50353073,
-      "title": "Tiny Basic for Arduino",
-      "url": "https://dilshan.github.io/tiny-basic/",
-      "points": 22,
+      "id": 50338334,
+      "title": "Curiosity Traps",
+      "url": "https://www.autodidacts.io/curiosity-traps/",
+      "points": 20,
       "comments": 3,
-      "by": "AlexeyBrin"
+      "by": "surprisetalk"
     },
     {
       "id": 50353468,
@@ -436,12 +588,12 @@
       "by": "dh1011"
     },
     {
-      "id": 50354336,
-      "title": "Gitbook Breached",
-      "url": null,
+      "id": 50342931,
+      "title": "Union Types and Option Types",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
       "points": 7,
       "comments": 1,
-      "by": "punchmesan"
+      "by": "g0xA52A2A"
     },
     {
       "id": 50326545,
@@ -466,6 +618,14 @@
       "points": 0,
       "comments": 0,
       "by": "slederer"
+    },
+    {
+      "id": 50354582,
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+      "points": 0,
+      "comments": 0,
+      "by": "abhikp"
     }
   ]
 }
