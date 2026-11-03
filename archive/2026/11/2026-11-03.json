@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03T06:56:45+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50341174,
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "points": 2370,
+      "comments": 741,
+      "by": "dbreunig"
+    },
+    {
+      "id": 50337608,
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "points": 1428,
+      "comments": 606,
+      "by": "chalmovsky"
+    },
+    {
+      "id": 50340088,
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "url": null,
+      "points": 640,
+      "comments": 326,
+      "by": "aarushyadav"
+    },
+    {
+      "id": 50336518,
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "points": 485,
+      "comments": 108,
+      "by": "ingve"
+    },
+    {
+      "id": 50341462,
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "points": 425,
+      "comments": 125,
+      "by": "majorchord"
+    },
+    {
+      "id": 50339397,
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "points": 346,
+      "comments": 343,
+      "by": "xoobdev"
+    },
+    {
+      "id": 50344919,
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "points": 290,
+      "comments": 226,
+      "by": "cdrnsf"
+    },
+    {
+      "id": 50339221,
+      "title": "Show HN: Warsaw in voxels \u2013 An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "points": 243,
+      "comments": 40,
+      "by": "stared"
+    },
+    {
+      "id": 50338728,
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": null,
+      "points": 203,
+      "comments": 163,
+      "by": "whoishiring"
+    },
+    {
+      "id": 50346153,
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "points": 182,
+      "comments": 129,
+      "by": "entryleveljobsc"
+    },
+    {
+      "id": 50340619,
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "points": 176,
+      "comments": 48,
+      "by": "tomrod"
+    },
+    {
+      "id": 50337558,
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "points": 173,
+      "comments": 69,
+      "by": "wondersky"
+    },
+    {
+      "id": 50346981,
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "points": 168,
+      "comments": 52,
+      "by": "polpenn"
+    },
+    {
+      "id": 50345924,
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "points": 163,
+      "comments": 73,
+      "by": "makeramen"
+    },
+    {
+      "id": 50341736,
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "points": 144,
+      "comments": 98,
+      "by": "smilelamp"
+    },
+    {
+      "id": 50339913,
+      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "points": 138,
+      "comments": 93,
+      "by": "wuweiweiwu"
+    },
+    {
+      "id": 50346849,
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "points": 124,
+      "comments": 26,
+      "by": "bpierre"
+    },
+    {
+      "id": 50341028,
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "points": 123,
+      "comments": 43,
+      "by": "ibobev"
+    },
+    {
+      "id": 50340159,
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "points": 113,
+      "comments": 34,
+      "by": "austinallegro"
+    },
+    {
+      "id": 50340992,
+      "title": "Skill to Create Product Videos",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "points": 92,
+      "comments": 26,
+      "by": "aaitor"
+    },
+    {
+      "id": 50323123,
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "points": 82,
+      "comments": 32,
+      "by": "knlb"
+    },
+    {
+      "id": 50344224,
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "points": 61,
+      "comments": 8,
+      "by": "gmays"
+    },
+    {
+      "id": 50334523,
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "points": 39,
+      "comments": 10,
+      "by": "ymz5"
+    },
+    {
+      "id": 50326246,
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "points": 34,
+      "comments": 2,
+      "by": "birdculture"
+    },
+    {
+      "id": 50344912,
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "points": 27,
+      "comments": 5,
+      "by": "airhangerf15"
+    },
+    {
+      "id": 50347464,
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "points": 17,
+      "comments": 0,
+      "by": "teleforce"
+    },
+    {
+      "id": 50348260,
+      "title": "Cloudflare experiencing multiple active incidents",
+      "url": "https://www.cloudflarestatus.com/",
+      "points": 14,
+      "comments": 2,
+      "by": "jp1016"
+    },
+    {
+      "id": 50347552,
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "points": 11,
+      "comments": 9,
+      "by": "dh1011"
+    },
+    {
+      "id": 50320904,
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "url": "https://www.argmin.net/p/galactus-the-devourer",
+      "points": 4,
+      "comments": 0,
+      "by": "sebg"
+    },
+    {
+      "id": 50339827,
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "url": "https://bitmovin.com/careers/8660599002/",
+      "points": 0,
+      "comments": 0,
+      "by": "slederer"
+    }
+  ]
+}
