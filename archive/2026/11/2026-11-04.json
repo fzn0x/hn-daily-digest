@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "updated_at": "2026-11-04T17:22:16+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-04T23:40:07+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50354960,
@@ -10,6 +10,14 @@
       "points": 1167,
       "comments": 383,
       "by": "sidgarimella"
+    },
+    {
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 1008,
+      "comments": 607,
+      "by": "pseudolus"
     },
     {
       "id": 50351111,
@@ -36,12 +44,20 @@
       "by": "xx_ns"
     },
     {
-      "id": 50364336,
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "points": 645,
-      "comments": 415,
-      "by": "pseudolus"
+      "id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": null,
+      "points": 617,
+      "comments": 157,
+      "by": "jameslk"
+    },
+    {
+      "id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "points": 578,
+      "comments": 266,
+      "by": "novaRom"
     },
     {
       "id": 50355251,
@@ -52,12 +68,20 @@
       "by": "theanonymousone"
     },
     {
-      "id": 50363461,
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": null,
-      "points": 437,
-      "comments": 119,
-      "by": "jameslk"
+      "id": 50365755,
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "points": 557,
+      "comments": 342,
+      "by": "smalltech"
+    },
+    {
+      "id": 50371246,
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "points": 484,
+      "comments": 140,
+      "by": "Rasbora"
     },
     {
       "id": 50336918,
@@ -68,12 +92,12 @@
       "by": "bookofjoe"
     },
     {
-      "id": 50362905,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "points": 430,
-      "comments": 193,
-      "by": "novaRom"
+      "id": 50367125,
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "points": 434,
+      "comments": 149,
+      "by": "rbanffy"
     },
     {
       "id": 50346755,
@@ -116,12 +140,12 @@
       "by": "ibobev"
     },
     {
-      "id": 50365755,
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "points": 305,
-      "comments": 181,
-      "by": "smalltech"
+      "id": 50366999,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "points": 315,
+      "comments": 85,
+      "by": "abrarthought"
     },
     {
       "id": 50358582,
@@ -140,6 +164,30 @@
       "by": "porridgeraisin"
     },
     {
+      "id": 50363378,
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "points": 251,
+      "comments": 126,
+      "by": "kevcampb"
+    },
+    {
+      "id": 50366522,
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "points": 240,
+      "comments": 171,
+      "by": "zenincognito"
+    },
+    {
+      "id": 50363019,
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "points": 220,
+      "comments": 129,
+      "by": "ersinesen"
+    },
+    {
       "id": 50360164,
       "title": "C++26 Disapproved",
       "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
@@ -148,20 +196,36 @@
       "by": "thatxliner"
     },
     {
-      "id": 50363378,
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "points": 199,
-      "comments": 104,
-      "by": "kevcampb"
+      "id": 50369106,
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "points": 193,
+      "comments": 80,
+      "by": "olexsmir"
     },
     {
-      "id": 50363019,
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "points": 174,
-      "comments": 99,
-      "by": "ersinesen"
+      "id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "points": 191,
+      "comments": 67,
+      "by": "Philpax"
+    },
+    {
+      "id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "points": 163,
+      "comments": 81,
+      "by": "ltononro"
+    },
+    {
+      "id": 50365780,
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "points": 163,
+      "comments": 52,
+      "by": "Philpax"
     },
     {
       "id": 50333131,
@@ -170,6 +234,22 @@
       "points": 161,
       "comments": 26,
       "by": "zdw"
+    },
+    {
+      "id": 50366863,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "points": 153,
+      "comments": 52,
+      "by": "itunpredictable"
+    },
+    {
+      "id": 50370610,
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "points": 140,
+      "comments": 79,
+      "by": "speckx"
     },
     {
       "id": 50360573,
@@ -212,14 +292,6 @@
       "by": "matt_d"
     },
     {
-      "id": 50367125,
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "points": 119,
-      "comments": 37,
-      "by": "rbanffy"
-    },
-    {
       "id": 50361154,
       "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
       "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
@@ -236,14 +308,6 @@
       "by": "passkey1510"
     },
     {
-      "id": 50366522,
-      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "points": 104,
-      "comments": 27,
-      "by": "zenincognito"
-    },
-    {
       "id": 50322603,
       "title": "We're training a Figma-fluent editing model",
       "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
@@ -252,12 +316,12 @@
       "by": "gmays"
     },
     {
-      "id": 50366999,
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "points": 94,
-      "comments": 12,
-      "by": "abrarthought"
+      "id": 50369895,
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "points": 90,
+      "comments": 11,
+      "by": "daniel_rh"
     },
     {
       "id": 50358314,
@@ -266,6 +330,22 @@
       "points": 83,
       "comments": 17,
       "by": "ayanb9440"
+    },
+    {
+      "id": 50369503,
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "points": 77,
+      "comments": 127,
+      "by": "kenrose"
+    },
+    {
+      "id": 50370654,
+      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "points": 77,
+      "comments": 36,
+      "by": "peter_d_sherman"
     },
     {
       "id": 50366575,
@@ -292,6 +372,14 @@
       "by": "surprisetalk"
     },
     {
+      "id": 50368804,
+      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+      "url": null,
+      "points": 62,
+      "comments": 26,
+      "by": "lukeigel"
+    },
+    {
       "id": 50352641,
       "title": "There is no posttraining data commons",
       "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
@@ -316,12 +404,12 @@
       "by": "rbanffy"
     },
     {
-      "id": 50366863,
-      "title": "Pierre Computer is being acquired by OpenAI",
-      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-      "points": 46,
-      "comments": 20,
-      "by": "itunpredictable"
+      "id": 50372294,
+      "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+      "url": null,
+      "points": 41,
+      "comments": 31,
+      "by": "newswangerd"
     },
     {
       "id": 50342931,
@@ -338,6 +426,30 @@
       "points": 36,
       "comments": 8,
       "by": "hkhn"
+    },
+    {
+      "id": 50369527,
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "points": 36,
+      "comments": 6,
+      "by": "gmays"
+    },
+    {
+      "id": 50347425,
+      "title": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
+      "url": null,
+      "points": 35,
+      "comments": 39,
+      "by": "mike_richards"
+    },
+    {
+      "id": 50372164,
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "points": 31,
+      "comments": 2,
+      "by": "muricula"
     },
     {
       "id": 50351298,
@@ -396,6 +508,22 @@
       "by": "adlep"
     },
     {
+      "id": 50372360,
+      "title": "Less Popular Than Coal",
+      "url": "https://www.argmin.net/p/less-popular-than-coal",
+      "points": 18,
+      "comments": 2,
+      "by": "_delirium"
+    },
+    {
+      "id": 50371408,
+      "title": "Death Comes for XSLT",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "points": 18,
+      "comments": 2,
+      "by": "colejohnson66"
+    },
+    {
       "id": 50365516,
       "title": "Mocktastic: A Meshtastic Node on Arduino",
       "url": "https://github.com/Vapmuz/Mocktastic",
@@ -412,6 +540,30 @@
       "by": "bhackett"
     },
     {
+      "id": 50339183,
+      "title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "points": 9,
+      "comments": 10,
+      "by": "joe-esquibel"
+    },
+    {
+      "id": 50356791,
+      "title": "Is Curiosity Good for Us?",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "points": 9,
+      "comments": 1,
+      "by": "NaOH"
+    },
+    {
+      "id": 50372660,
+      "title": "Successful People (2013)",
+      "url": "https://blog.samaltman.com/successful-people",
+      "points": 7,
+      "comments": 5,
+      "by": "epestr"
+    },
+    {
       "id": 50351163,
       "title": "Runs Scored in World Baseball Classic",
       "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
@@ -420,12 +572,12 @@
       "by": "ibobev"
     },
     {
-      "id": 50368626,
-      "title": "Provable Inference",
-      "url": "https://www.anthropic.com/research/provable-inference",
+      "id": 50371090,
+      "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
+      "url": "https://github.com/gauge-sh/gauge-cli",
       "points": 4,
-      "comments": 0,
-      "by": "ltononro"
+      "comments": 1,
+      "by": "0x63_Problems"
     }
   ]
 }
