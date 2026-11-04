@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "updated_at": "2026-11-04T06:30:56+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-04T17:22:16+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50354960,
@@ -20,12 +20,28 @@
       "by": "syllogism"
     },
     {
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "points": 734,
+      "comments": 226,
+      "by": "nharada"
+    },
+    {
       "id": 50339288,
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "points": 721,
       "comments": 295,
       "by": "xx_ns"
+    },
+    {
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 645,
+      "comments": 415,
+      "by": "pseudolus"
     },
     {
       "id": 50355251,
@@ -36,12 +52,12 @@
       "by": "theanonymousone"
     },
     {
-      "id": 50354358,
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "points": 497,
-      "comments": 173,
-      "by": "nharada"
+      "id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": null,
+      "points": 437,
+      "comments": 119,
+      "by": "jameslk"
     },
     {
       "id": 50336918,
@@ -50,6 +66,30 @@
       "points": 435,
       "comments": 181,
       "by": "bookofjoe"
+    },
+    {
+      "id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "points": 430,
+      "comments": 193,
+      "by": "novaRom"
+    },
+    {
+      "id": 50346755,
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "points": 418,
+      "comments": 78,
+      "by": "dsalzman"
+    },
+    {
+      "id": 50361268,
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "points": 387,
+      "comments": 103,
+      "by": "memalign"
     },
     {
       "id": 50358562,
@@ -68,6 +108,22 @@
       "by": "anner_"
     },
     {
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "points": 342,
+      "comments": 27,
+      "by": "ibobev"
+    },
+    {
+      "id": 50365755,
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "points": 305,
+      "comments": 181,
+      "by": "smalltech"
+    },
+    {
       "id": 50358582,
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
@@ -76,20 +132,12 @@
       "by": "ibobev"
     },
     {
-      "id": 50346755,
-      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "points": 268,
-      "comments": 54,
-      "by": "dsalzman"
-    },
-    {
-      "id": 50358702,
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "points": 221,
-      "comments": 13,
-      "by": "ibobev"
+      "id": 50362980,
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "points": 294,
+      "comments": 188,
+      "by": "porridgeraisin"
     },
     {
       "id": 50360164,
@@ -100,12 +148,36 @@
       "by": "thatxliner"
     },
     {
+      "id": 50363378,
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "points": 199,
+      "comments": 104,
+      "by": "kevcampb"
+    },
+    {
+      "id": 50363019,
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "points": 174,
+      "comments": 99,
+      "by": "ersinesen"
+    },
+    {
       "id": 50333131,
       "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
       "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
       "points": 161,
       "comments": 26,
       "by": "zdw"
+    },
+    {
+      "id": 50360573,
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "points": 132,
+      "comments": 30,
+      "by": "gmays"
     },
     {
       "id": 50355767,
@@ -116,12 +188,60 @@
       "by": "citelao"
     },
     {
+      "id": 50363968,
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "points": 130,
+      "comments": 49,
+      "by": "snvzz"
+    },
+    {
       "id": 50342119,
       "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
       "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
       "points": 125,
       "comments": 18,
       "by": "benbreen"
+    },
+    {
+      "id": 50362466,
+      "title": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "points": 119,
+      "comments": 47,
+      "by": "matt_d"
+    },
+    {
+      "id": 50367125,
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "points": 119,
+      "comments": 37,
+      "by": "rbanffy"
+    },
+    {
+      "id": 50361154,
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "points": 114,
+      "comments": 51,
+      "by": "gmays"
+    },
+    {
+      "id": 50358352,
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "points": 112,
+      "comments": 55,
+      "by": "passkey1510"
+    },
+    {
+      "id": 50366522,
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "points": 104,
+      "comments": 27,
+      "by": "zenincognito"
     },
     {
       "id": 50322603,
@@ -132,12 +252,12 @@
       "by": "gmays"
     },
     {
-      "id": 50361268,
-      "title": "Jelly Sheet",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "points": 84,
-      "comments": 16,
-      "by": "memalign"
+      "id": 50366999,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "points": 94,
+      "comments": 12,
+      "by": "abrarthought"
     },
     {
       "id": 50358314,
@@ -146,6 +266,14 @@
       "points": 83,
       "comments": 17,
       "by": "ayanb9440"
+    },
+    {
+      "id": 50366575,
+      "title": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "points": 75,
+      "comments": 14,
+      "by": "SG-"
     },
     {
       "id": 50356913,
@@ -164,20 +292,20 @@
       "by": "surprisetalk"
     },
     {
-      "id": 50360573,
-      "title": "Giant canyon on Mars is still tectonically active",
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "points": 63,
-      "comments": 5,
-      "by": "gmays"
-    },
-    {
       "id": 50352641,
       "title": "There is no posttraining data commons",
       "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
       "points": 56,
       "comments": 17,
       "by": "lukasschwab"
+    },
+    {
+      "id": 50366919,
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "points": 49,
+      "comments": 30,
+      "by": "jordan_bonecut"
     },
     {
       "id": 50351463,
@@ -188,12 +316,12 @@
       "by": "rbanffy"
     },
     {
-      "id": 50361154,
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "points": 47,
-      "comments": 1,
-      "by": "gmays"
+      "id": 50366863,
+      "title": "Pierre Computer is being acquired by OpenAI",
+      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+      "points": 46,
+      "comments": 20,
+      "by": "itunpredictable"
     },
     {
       "id": 50342931,
@@ -220,6 +348,22 @@
       "by": "surprisetalk"
     },
     {
+      "id": 50366811,
+      "title": "Show HN: Codemap \u2013 one-page interactive map of any Go repository",
+      "url": "https://github.com/peterretief/codemap",
+      "points": 24,
+      "comments": 6,
+      "by": "peter_retief"
+    },
+    {
+      "id": 50366977,
+      "title": "Rosalind Franklin figured out DNA's helical structure before Watson and Crick",
+      "url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests",
+      "points": 24,
+      "comments": 2,
+      "by": "gmays"
+    },
+    {
       "id": 50361107,
       "title": "Arrows to arrows, categories to queries (2025)",
       "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
@@ -228,12 +372,44 @@
       "by": "firstbase"
     },
     {
-      "id": 50358352,
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "points": 20,
-      "comments": 9,
-      "by": "passkey1510"
+      "id": 50366860,
+      "title": "Adding Window Functions to a Spreadsheet",
+      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "points": 22,
+      "comments": 14,
+      "by": "reedciccio"
+    },
+    {
+      "id": 50367004,
+      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "points": 21,
+      "comments": 2,
+      "by": "isalexlog"
+    },
+    {
+      "id": 50366929,
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "points": 19,
+      "comments": 6,
+      "by": "adlep"
+    },
+    {
+      "id": 50365516,
+      "title": "Mocktastic: A Meshtastic Node on Arduino",
+      "url": "https://github.com/Vapmuz/Mocktastic",
+      "points": 16,
+      "comments": 1,
+      "by": "kimi"
+    },
+    {
+      "id": 50368439,
+      "title": "An end to buggy web apps",
+      "url": "https://replay.io/blog/an-end-to-buggy-web-apps",
+      "points": 15,
+      "comments": 3,
+      "by": "bhackett"
     },
     {
       "id": 50351163,
@@ -242,6 +418,14 @@
       "points": 4,
       "comments": 0,
       "by": "ibobev"
+    },
+    {
+      "id": 50368626,
+      "title": "Provable Inference",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "points": 4,
+      "comments": 0,
+      "by": "ltononro"
     }
   ]
 }
