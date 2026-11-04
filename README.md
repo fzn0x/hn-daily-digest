@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-03](archive/2026/11/2026-11-03.md)
+### Latest: [2026-11-04](archive/2026/11/2026-11-04.md)
 
-Top 10 of 78 stories so far, last updated 2026-11-03 23:26 UTC. **5** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-04 06:30 UTC. **6** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) <sub>rikiyat.github.io</sub> | 2370 | [741](https://news.ycombinator.com/item?id=50341174) |
-| 2 | [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu) <sub>chalmovsky.com</sub> | 1428 | [606](https://news.ycombinator.com/item?id=50337608) |
-| 3 | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) <sub>github.com</sub> | 928 | [300](https://news.ycombinator.com/item?id=50354960) |
-| 4 | [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading) <sub>honnibal.dev</sub> | 860 | [189](https://news.ycombinator.com/item?id=50351111) |
-| 5 | [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) <sub>news.ycombinator.com</sub> | 640 | [326](https://news.ycombinator.com/item?id=50340088) |
-| 6 | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) <sub>blog.nns.ee</sub> | 552 | [219](https://news.ycombinator.com/item?id=50339288) |
-| 7 | [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) <sub>blog.mistys-internet.website</sub> | 485 | [108](https://news.ycombinator.com/item?id=50336518) |
-| 8 | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) <sub>simonwillison.net</sub> | 434 | [138](https://news.ycombinator.com/item?id=50355251) |
-| 9 | [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) <sub>hackertimes.ca</sub> | 429 | [131](https://news.ycombinator.com/item?id=50346981) |
-| 10 | [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html) <sub>nicholas.carlini.com</sub> | 427 | [196](https://news.ycombinator.com/item?id=50349276) |
+| 1 | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) <sub>github.com</sub> | 1167 | [383](https://news.ycombinator.com/item?id=50354960) |
+| 2 | [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading) <sub>honnibal.dev</sub> | 951 | [197](https://news.ycombinator.com/item?id=50351111) |
+| 3 | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) <sub>blog.nns.ee</sub> | 721 | [295](https://news.ycombinator.com/item?id=50339288) |
+| 4 | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) <sub>simonwillison.net</sub> | 564 | [172](https://news.ycombinator.com/item?id=50355251) |
+| 5 | [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) <sub>neufangled.com</sub> | 497 | [173](https://news.ycombinator.com/item?id=50354358) |
+| 6 | [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) <sub>arstechnica.com</sub> | 435 | [181](https://news.ycombinator.com/item?id=50336918) |
+| 7 | [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) <sub>webkit.org</sub> | 382 | [209](https://news.ycombinator.com/item?id=50358562) |
+| 8 | [Mac at any scale](https://namespace.so/blog/mac-at-any-scale) <sub>namespace.so</sub> | 357 | [202](https://news.ycombinator.com/item?id=50352758) |
+| 9 | [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) <sub>arxiv.org</sub> | 300 | [49](https://news.ycombinator.com/item?id=50358582) |
+| 10 | [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) <sub>hackertv.org</sub> | 268 | [54](https://news.ycombinator.com/item?id=50346755) |
 <!-- digest:end -->

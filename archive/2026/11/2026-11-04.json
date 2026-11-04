@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T06:30:56+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": 1167,
+      "comments": 383,
+      "by": "sidgarimella"
+    },
+    {
+      "id": 50351111,
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "points": 951,
+      "comments": 197,
+      "by": "syllogism"
+    },
+    {
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "points": 721,
+      "comments": 295,
+      "by": "xx_ns"
+    },
+    {
+      "id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": 564,
+      "comments": 172,
+      "by": "theanonymousone"
+    },
+    {
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "points": 497,
+      "comments": 173,
+      "by": "nharada"
+    },
+    {
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "points": 435,
+      "comments": 181,
+      "by": "bookofjoe"
+    },
+    {
+      "id": 50358562,
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "points": 382,
+      "comments": 209,
+      "by": "paddingtone"
+    },
+    {
+      "id": 50352758,
+      "title": "Mac at any scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": 357,
+      "comments": 202,
+      "by": "anner_"
+    },
+    {
+      "id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "points": 300,
+      "comments": 49,
+      "by": "ibobev"
+    },
+    {
+      "id": 50346755,
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "points": 268,
+      "comments": 54,
+      "by": "dsalzman"
+    },
+    {
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "points": 221,
+      "comments": 13,
+      "by": "ibobev"
+    },
+    {
+      "id": 50360164,
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "points": 207,
+      "comments": 100,
+      "by": "thatxliner"
+    },
+    {
+      "id": 50333131,
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "points": 161,
+      "comments": 26,
+      "by": "zdw"
+    },
+    {
+      "id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "points": 130,
+      "comments": 111,
+      "by": "citelao"
+    },
+    {
+      "id": 50342119,
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "points": 125,
+      "comments": 18,
+      "by": "benbreen"
+    },
+    {
+      "id": 50322603,
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "points": 101,
+      "comments": 45,
+      "by": "gmays"
+    },
+    {
+      "id": 50361268,
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "points": 84,
+      "comments": 16,
+      "by": "memalign"
+    },
+    {
+      "id": 50358314,
+      "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "points": 83,
+      "comments": 17,
+      "by": "ayanb9440"
+    },
+    {
+      "id": 50356913,
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "points": 65,
+      "comments": 9,
+      "by": "ibobev"
+    },
+    {
+      "id": 50338334,
+      "title": "Curiosity Traps",
+      "url": "https://www.autodidacts.io/curiosity-traps/",
+      "points": 64,
+      "comments": 7,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50360573,
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "points": 63,
+      "comments": 5,
+      "by": "gmays"
+    },
+    {
+      "id": 50352641,
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "points": 56,
+      "comments": 17,
+      "by": "lukasschwab"
+    },
+    {
+      "id": 50351463,
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "points": 47,
+      "comments": 120,
+      "by": "rbanffy"
+    },
+    {
+      "id": 50361154,
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "points": 47,
+      "comments": 1,
+      "by": "gmays"
+    },
+    {
+      "id": 50342931,
+      "title": "Union Types and Option Types (2025)",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "points": 38,
+      "comments": 14,
+      "by": "g0xA52A2A"
+    },
+    {
+      "id": 50361936,
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "points": 36,
+      "comments": 8,
+      "by": "hkhn"
+    },
+    {
+      "id": 50351298,
+      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+      "points": 30,
+      "comments": 9,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50361107,
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "points": 23,
+      "comments": 0,
+      "by": "firstbase"
+    },
+    {
+      "id": 50358352,
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "points": 20,
+      "comments": 9,
+      "by": "passkey1510"
+    },
+    {
+      "id": 50351163,
+      "title": "Runs Scored in World Baseball Classic",
+      "url": "https://entropicthoughts.com/sums-of-overdispersed-counts",
+      "points": 4,
+      "comments": 0,
+      "by": "ibobev"
+    }
+  ]
+}
