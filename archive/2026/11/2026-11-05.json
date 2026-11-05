@@ -1,8 +1,16 @@
 {
   "date": "2026-11-05",
-  "updated_at": "2026-11-05T06:54:56+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-05T17:27:14+00:00",
+  "snapshots": 2,
   "stories": [
+    {
+      "id": 50378228,
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "points": 1342,
+      "comments": 364,
+      "by": "josemrb"
+    },
     {
       "id": 50364336,
       "title": "AI is forcing us to pay off 40 years of technical debt",
@@ -26,6 +34,14 @@
       "points": 472,
       "comments": 134,
       "by": "abrarthought"
+    },
+    {
+      "id": 50375354,
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "points": 345,
+      "comments": 69,
+      "by": "MarkBlah"
     },
     {
       "id": 50366522,
@@ -68,6 +84,14 @@
       "by": "eggbrain"
     },
     {
+      "id": 50379704,
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "points": 230,
+      "comments": 19,
+      "by": "pantalaimon"
+    },
+    {
       "id": 50365780,
       "title": "Tencent Hy4",
       "url": "https://hy.tencent.ai/research/hy4",
@@ -100,6 +124,14 @@
       "by": "speckx"
     },
     {
+      "id": 50377821,
+      "title": "Awesome repositories are no longer awesome",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "points": 213,
+      "comments": 105,
+      "by": "erikgahner"
+    },
+    {
       "id": 50368626,
       "title": "Progress on provable inference for large language models",
       "url": "https://www.anthropic.com/research/provable-inference",
@@ -114,6 +146,22 @@
       "points": 188,
       "comments": 120,
       "by": "gmays"
+    },
+    {
+      "id": 50378625,
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "points": 175,
+      "comments": 149,
+      "by": "archb"
+    },
+    {
+      "id": 50376313,
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "points": 163,
+      "comments": 73,
+      "by": "lucrbvi"
     },
     {
       "id": 50369503,
@@ -132,12 +180,44 @@
       "by": "daniel_rh"
     },
     {
+      "id": 50377976,
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "points": 155,
+      "comments": 7,
+      "by": "selckin"
+    },
+    {
+      "id": 50379249,
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 142,
+      "comments": 69,
+      "by": "rwilinski"
+    },
+    {
+      "id": 50377078,
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "points": 139,
+      "comments": 79,
+      "by": "pretext"
+    },
+    {
       "id": 50370654,
       "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
       "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
       "points": 134,
       "comments": 54,
       "by": "peter_d_sherman"
+    },
+    {
+      "id": 50378571,
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "points": 120,
+      "comments": 58,
+      "by": "surprisetalk"
     },
     {
       "id": 50338474,
@@ -148,12 +228,28 @@
       "by": "PaulHoule"
     },
     {
+      "id": 50379773,
+      "title": "Image of our satellite-choked night skies",
+      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+      "points": 107,
+      "comments": 69,
+      "by": "amatheus"
+    },
+    {
       "id": 50367653,
       "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
       "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
       "points": 106,
       "comments": 218,
       "by": "theanonymousone"
+    },
+    {
+      "id": 50378508,
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "points": 102,
+      "comments": 6,
+      "by": "frostbyte7"
     },
     {
       "id": 50372164,
@@ -164,12 +260,28 @@
       "by": "muricula"
     },
     {
+      "id": 50380810,
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "points": 97,
+      "comments": 29,
+      "by": "monneyboi"
+    },
+    {
       "id": 50368804,
       "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
       "url": null,
       "points": 83,
       "comments": 33,
       "by": "lukeigel"
+    },
+    {
+      "id": 50379576,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "points": 83,
+      "comments": 18,
+      "by": "iamnothere"
     },
     {
       "id": 50366853,
@@ -180,12 +292,28 @@
       "by": "thunderbong"
     },
     {
-      "id": 50375354,
-      "title": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings/",
-      "points": 52,
+      "id": 50378942,
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "points": 70,
+      "comments": 56,
+      "by": "freetonik"
+    },
+    {
+      "id": 50352846,
+      "title": "TextEdit vs. Pages",
+      "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+      "points": 60,
+      "comments": 45,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50381033,
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "points": 44,
       "comments": 6,
-      "by": "MarkBlah"
+      "by": "mi-rae"
     },
     {
       "id": 50339183,
@@ -204,12 +332,36 @@
       "by": "mooreds"
     },
     {
+      "id": 50349667,
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "points": 38,
+      "comments": 17,
+      "by": "marcolinux"
+    },
+    {
       "id": 50356791,
       "title": "Is Curiosity Good for Us?",
       "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
       "points": 36,
       "comments": 18,
       "by": "NaOH"
+    },
+    {
+      "id": 50381302,
+      "title": "Vibe Coding Keypad",
+      "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+      "points": 32,
+      "comments": 16,
+      "by": "ta988"
+    },
+    {
+      "id": 50380268,
+      "title": "We can do better than line-buffered output",
+      "url": "https://nullprogram.com/blog/2026/11/05/",
+      "points": 27,
+      "comments": 0,
+      "by": "zdw"
     },
     {
       "id": 50364860,
@@ -220,12 +372,68 @@
       "by": "frostbyte7"
     },
     {
+      "id": 50380170,
+      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+      "url": "https://nordstjernen.org/",
+      "points": 19,
+      "comments": 12,
+      "by": "Propelloni"
+    },
+    {
+      "id": 50368208,
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "points": 18,
+      "comments": 1,
+      "by": "schopra909"
+    },
+    {
+      "id": 50380658,
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "points": 17,
+      "comments": 5,
+      "by": "kadharmfn"
+    },
+    {
       "id": 50363353,
       "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
       "url": "https://wiredream.com/anagram-fun/",
       "points": 16,
       "comments": 2,
       "by": "ColinWright"
+    },
+    {
+      "id": 50380808,
+      "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
+      "url": "https://edera.dev/stories/ocap-bounded-authority",
+      "points": 14,
+      "comments": 0,
+      "by": "virtio_vixen"
+    },
+    {
+      "id": 50380273,
+      "title": "Offline survival assistant \u2013 local LLM and Kiwix, runs from a USB stick",
+      "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+      "points": 13,
+      "comments": 8,
+      "by": "soloyo"
+    },
+    {
+      "id": 50380979,
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "points": 12,
+      "comments": 1,
+      "by": "namanbnsl"
+    },
+    {
+      "id": 50380704,
+      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "points": 11,
+      "comments": 3,
+      "by": "agybay_07"
     },
     {
       "id": 50349165,
@@ -242,6 +450,30 @@
       "points": 7,
       "comments": 1,
       "by": "gmays"
+    },
+    {
+      "id": 50380365,
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "points": 7,
+      "comments": 2,
+      "by": "gmays"
+    },
+    {
+      "id": 50381687,
+      "title": "Launch HN: Rivet (YC F25) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "points": 3,
+      "comments": 0,
+      "by": "NathanFlurry"
+    },
+    {
+      "id": 50381512,
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "points": 0,
+      "comments": 0,
+      "by": "rooppal"
     }
   ]
 }
