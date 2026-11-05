@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-04](archive/2026/11/2026-11-04.md)
+### Latest: [2026-11-05](archive/2026/11/2026-11-05.md)
 
-Top 10 of 72 stories so far, last updated 2026-11-04 23:40 UTC. **6** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-05 06:54 UTC. **7** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) <sub>github.com</sub> | 1167 | [383](https://news.ycombinator.com/item?id=50354960) |
-| 2 | [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) <sub>spectrum.ieee.org</sub> | 1008 | [607](https://news.ycombinator.com/item?id=50364336) |
-| 3 | [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading) <sub>honnibal.dev</sub> | 951 | [197](https://news.ycombinator.com/item?id=50351111) |
-| 4 | [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) <sub>neufangled.com</sub> | 734 | [226](https://news.ycombinator.com/item?id=50354358) |
-| 5 | [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) <sub>blog.nns.ee</sub> | 721 | [295](https://news.ycombinator.com/item?id=50339288) |
-| 6 | [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461) <sub>news.ycombinator.com</sub> | 617 | [157](https://news.ycombinator.com/item?id=50363461) |
-| 7 | [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) <sub>mindstudio.ai</sub> | 578 | [266](https://news.ycombinator.com/item?id=50362905) |
-| 8 | [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) <sub>simonwillison.net</sub> | 564 | [172](https://news.ycombinator.com/item?id=50355251) |
-| 9 | [North Korean fake job interview led to $6.3B Binance heist](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398) <sub>theregister.com</sub> | 557 | [342](https://news.ycombinator.com/item?id=50365755) |
-| 10 | [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) <sub>layer3intel.com</sub> | 484 | [140](https://news.ycombinator.com/item?id=50371246) |
+| 1 | [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) <sub>spectrum.ieee.org</sub> | 1147 | [666](https://news.ycombinator.com/item?id=50364336) |
+| 2 | [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) <sub>layer3intel.com</sub> | 910 | [276](https://news.ycombinator.com/item?id=50371246) |
+| 3 | [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) <sub>huggingface.co</sub> | 472 | [134](https://news.ycombinator.com/item?id=50366999) |
+| 4 | [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) <sub>99percentinvisible.org</sub> | 284 | [206](https://news.ycombinator.com/item?id=50366522) |
+| 5 | [A new Go API for JSON](https://go.dev/blog/jsonv2) <sub>go.dev</sub> | 278 | [126](https://news.ycombinator.com/item?id=50369106) |
+| 6 | [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) <sub>ricursive.com</sub> | 274 | [99](https://news.ycombinator.com/item?id=50369925) |
+| 7 | [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) <sub>openai.com</sub> | 265 | [158](https://news.ycombinator.com/item?id=50372929) |
+| 8 | [Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117) <sub>news.ycombinator.com</sub> | 259 | [249](https://news.ycombinator.com/item?id=50366117) |
+| 9 | [Tencent Hy4](https://hy.tencent.ai/research/hy4) <sub>hy.tencent.ai</sub> | 227 | [73](https://news.ycombinator.com/item?id=50365780) |
+| 10 | [OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/) <sub>openai.com</sub> | 227 | [69](https://news.ycombinator.com/item?id=50366863) |
 <!-- digest:end -->

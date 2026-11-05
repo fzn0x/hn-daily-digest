@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T06:54:56+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 1147,
+      "comments": 666,
+      "by": "pseudolus"
+    },
+    {
+      "id": 50371246,
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "points": 910,
+      "comments": 276,
+      "by": "Rasbora"
+    },
+    {
+      "id": 50366999,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "points": 472,
+      "comments": 134,
+      "by": "abrarthought"
+    },
+    {
+      "id": 50366522,
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "points": 284,
+      "comments": 206,
+      "by": "zenincognito"
+    },
+    {
+      "id": 50369106,
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "points": 278,
+      "comments": 126,
+      "by": "olexsmir"
+    },
+    {
+      "id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "points": 274,
+      "comments": 99,
+      "by": "Philpax"
+    },
+    {
+      "id": 50372929,
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "points": 265,
+      "comments": 158,
+      "by": "dangelosaurus"
+    },
+    {
+      "id": 50366117,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": null,
+      "points": 259,
+      "comments": 249,
+      "by": "eggbrain"
+    },
+    {
+      "id": 50365780,
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "points": 227,
+      "comments": 73,
+      "by": "Philpax"
+    },
+    {
+      "id": 50366863,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "points": 227,
+      "comments": 69,
+      "by": "itunpredictable"
+    },
+    {
+      "id": 50372945,
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "points": 226,
+      "comments": 145,
+      "by": "davidbarker"
+    },
+    {
+      "id": 50370610,
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "points": 225,
+      "comments": 119,
+      "by": "speckx"
+    },
+    {
+      "id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "points": 206,
+      "comments": 91,
+      "by": "ltononro"
+    },
+    {
+      "id": 50373308,
+      "title": "Starfall \u2013 Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "points": 188,
+      "comments": 120,
+      "by": "gmays"
+    },
+    {
+      "id": 50369503,
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "points": 159,
+      "comments": 173,
+      "by": "kenrose"
+    },
+    {
+      "id": 50369895,
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "points": 155,
+      "comments": 17,
+      "by": "daniel_rh"
+    },
+    {
+      "id": 50370654,
+      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "points": 134,
+      "comments": 54,
+      "by": "peter_d_sherman"
+    },
+    {
+      "id": 50338474,
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "points": 115,
+      "comments": 208,
+      "by": "PaulHoule"
+    },
+    {
+      "id": 50367653,
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "points": 106,
+      "comments": 218,
+      "by": "theanonymousone"
+    },
+    {
+      "id": 50372164,
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "points": 100,
+      "comments": 5,
+      "by": "muricula"
+    },
+    {
+      "id": 50368804,
+      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+      "url": null,
+      "points": 83,
+      "comments": 33,
+      "by": "lukeigel"
+    },
+    {
+      "id": 50366853,
+      "title": "A wave of plastic-free coffee pods and machines",
+      "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "points": 76,
+      "comments": 89,
+      "by": "thunderbong"
+    },
+    {
+      "id": 50375354,
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "points": 52,
+      "comments": 6,
+      "by": "MarkBlah"
+    },
+    {
+      "id": 50339183,
+      "title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "points": 41,
+      "comments": 21,
+      "by": "joe-esquibel"
+    },
+    {
+      "id": 50341576,
+      "title": "Spreading Liquid with Three.js",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "points": 41,
+      "comments": 8,
+      "by": "mooreds"
+    },
+    {
+      "id": 50356791,
+      "title": "Is Curiosity Good for Us?",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "points": 36,
+      "comments": 18,
+      "by": "NaOH"
+    },
+    {
+      "id": 50364860,
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "points": 23,
+      "comments": 12,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50363353,
+      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+      "url": "https://wiredream.com/anagram-fun/",
+      "points": 16,
+      "comments": 2,
+      "by": "ColinWright"
+    },
+    {
+      "id": 50349165,
+      "title": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "points": 8,
+      "comments": 1,
+      "by": "jonesjohnson"
+    },
+    {
+      "id": 50375653,
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "points": 7,
+      "comments": 1,
+      "by": "gmays"
+    }
+  ]
+}
