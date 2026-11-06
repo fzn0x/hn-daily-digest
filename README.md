@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-05](archive/2026/11/2026-11-05.md)
+### Latest: [2026-11-06](archive/2026/11/2026-11-06.md)
 
-Top 10 of 70 stories so far, last updated 2026-11-05 23:46 UTC. **7** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-06 06:47 UTC. **8** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [sshole](https://sshhole.com) <sub>sshhole.com</sub> | 2221 | [557](https://news.ycombinator.com/item?id=50378228) |
-| 2 | [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) <sub>spectrum.ieee.org</sub> | 1147 | [666](https://news.ycombinator.com/item?id=50364336) |
-| 3 | [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) <sub>layer3intel.com</sub> | 910 | [276](https://news.ycombinator.com/item?id=50371246) |
-| 4 | [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) <sub>alpinelinux.org</sub> | 549 | [114](https://news.ycombinator.com/item?id=50379704) |
-| 5 | [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) <sub>huggingface.co</sub> | 472 | [134](https://news.ycombinator.com/item?id=50366999) |
-| 6 | [Search for everyone](https://kagi.com/changelog#11820) <sub>kagi.com</sub> | 411 | [207](https://news.ycombinator.com/item?id=50383740) |
-| 7 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) <sub>motorolanews.com</sub> | 376 | [281](https://news.ycombinator.com/item?id=50380810) |
-| 8 | [Lemmings CSS Animation](https://markblah.github.io/lemmings/) <sub>markblah.github.io</sub> | 345 | [69](https://news.ycombinator.com/item?id=50375354) |
-| 9 | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) <sub>salon.com</sub> | 343 | [119](https://news.ycombinator.com/item?id=50383739) |
-| 10 | [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) <sub>99percentinvisible.org</sub> | 284 | [206](https://news.ycombinator.com/item?id=50366522) |
+| 1 | [sshole](https://sshhole.com) <sub>sshhole.com</sub> | 2542 | [621](https://news.ycombinator.com/item?id=50378228) |
+| 2 | [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) <sub>github.com</sub> | 871 | [288](https://news.ycombinator.com/item?id=50385272) |
+| 3 | [Search for everyone](https://kagi.com/changelog#11820) <sub>kagi.com</sub> | 630 | [326](https://news.ycombinator.com/item?id=50383740) |
+| 4 | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) <sub>salon.com</sub> | 542 | [200](https://news.ycombinator.com/item?id=50383739) |
+| 5 | [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) <sub>cve.org</sub> | 447 | [171](https://news.ycombinator.com/item?id=50384233) |
+| 6 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) <sub>motorolanews.com</sub> | 446 | [325](https://news.ycombinator.com/item?id=50380810) |
+| 7 | [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) <sub>rakhim.exotext.com</sub> | 369 | [319](https://news.ycombinator.com/item?id=50378942) |
+| 8 | [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/) <sub>criminallyvulgar.dev</sub> | 318 | [147](https://news.ycombinator.com/item?id=50378571) |
+| 9 | [Window Sweaters](https://github.com/saragordic/window-sweaters) <sub>github.com</sub> | 292 | [92](https://news.ycombinator.com/item?id=50381383) |
+| 10 | [MCP Explained](https://mcp-explained.com/) <sub>mcp-explained.com</sub> | 282 | [119](https://news.ycombinator.com/item?id=50379249) |
 <!-- digest:end -->

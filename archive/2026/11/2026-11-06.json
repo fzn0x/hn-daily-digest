@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T06:47:31+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50378228,
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "points": 2542,
+      "comments": 621,
+      "by": "josemrb"
+    },
+    {
+      "id": 50385272,
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "points": 871,
+      "comments": 288,
+      "by": "motoroco"
+    },
+    {
+      "id": 50383740,
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "points": 630,
+      "comments": 326,
+      "by": "elashri"
+    },
+    {
+      "id": 50383739,
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "points": 542,
+      "comments": 200,
+      "by": "mkeeter"
+    },
+    {
+      "id": 50384233,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 447,
+      "comments": 171,
+      "by": "kuberwastaken"
+    },
+    {
+      "id": 50380810,
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "points": 446,
+      "comments": 325,
+      "by": "monneyboi"
+    },
+    {
+      "id": 50378942,
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "points": 369,
+      "comments": 319,
+      "by": "freetonik"
+    },
+    {
+      "id": 50378571,
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "points": 318,
+      "comments": 147,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50381383,
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "points": 292,
+      "comments": 92,
+      "by": "nickswalker"
+    },
+    {
+      "id": 50379249,
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 282,
+      "comments": 119,
+      "by": "rwilinski"
+    },
+    {
+      "id": 50383057,
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "points": 279,
+      "comments": 138,
+      "by": "rubatuga"
+    },
+    {
+      "id": 50385870,
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "points": 254,
+      "comments": 112,
+      "by": "randycupertino"
+    },
+    {
+      "id": 50379576,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "points": 220,
+      "comments": 53,
+      "by": "iamnothere"
+    },
+    {
+      "id": 50378508,
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "points": 218,
+      "comments": 27,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50368208,
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "points": 198,
+      "comments": 17,
+      "by": "schopra909"
+    },
+    {
+      "id": 50364860,
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "points": 196,
+      "comments": 143,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50377078,
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "points": 172,
+      "comments": 96,
+      "by": "pretext"
+    },
+    {
+      "id": 50386338,
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "points": 155,
+      "comments": 55,
+      "by": "Philpax"
+    },
+    {
+      "id": 50383294,
+      "title": "Pangram Image 1.0",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "points": 90,
+      "comments": 38,
+      "by": "gmays"
+    },
+    {
+      "id": 50381687,
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "points": 89,
+      "comments": 48,
+      "by": "NathanFlurry"
+    },
+    {
+      "id": 50378643,
+      "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
+      "url": "https://firenook.dev/",
+      "points": 88,
+      "comments": 16,
+      "by": "sanjevirau"
+    },
+    {
+      "id": 50380979,
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "points": 83,
+      "comments": 23,
+      "by": "namanbnsl"
+    },
+    {
+      "id": 50380704,
+      "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "points": 80,
+      "comments": 29,
+      "by": "agybay_07"
+    },
+    {
+      "id": 50387796,
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "points": 79,
+      "comments": 9,
+      "by": "tripdout"
+    },
+    {
+      "id": 50387546,
+      "title": "Closed AI models dominate the price-performance frontier",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "points": 51,
+      "comments": 41,
+      "by": "kevin_hu"
+    },
+    {
+      "id": 50387738,
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "points": 49,
+      "comments": 17,
+      "by": "gkapur"
+    },
+    {
+      "id": 50386789,
+      "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "points": 37,
+      "comments": 20,
+      "by": "marcusbasant"
+    },
+    {
+      "id": 50388263,
+      "title": "How accurately did science fiction stories predict AI?",
+      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "points": 28,
+      "comments": 32,
+      "by": "jamesjyu"
+    },
+    {
+      "id": 50388122,
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "points": 19,
+      "comments": 2,
+      "by": "jonbaer"
+    },
+    {
+      "id": 50381512,
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "points": 0,
+      "comments": 0,
+      "by": "rooppal"
+    }
+  ]
+}
