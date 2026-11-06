@@ -1,23 +1,31 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T06:47:31+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-06T16:47:10+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50378228,
       "title": "sshole",
       "url": "https://sshhole.com",
-      "points": 2542,
-      "comments": 621,
+      "points": 2873,
+      "comments": 700,
       "by": "josemrb"
     },
     {
       "id": 50385272,
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "points": 871,
-      "comments": 288,
+      "points": 1455,
+      "comments": 453,
       "by": "motoroco"
+    },
+    {
+      "id": 50384233,
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 660,
+      "comments": 248,
+      "by": "kuberwastaken"
     },
     {
       "id": 50383740,
@@ -36,12 +44,28 @@
       "by": "mkeeter"
     },
     {
-      "id": 50384233,
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "points": 447,
-      "comments": 171,
-      "by": "kuberwastaken"
+      "id": 50390124,
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "points": 505,
+      "comments": 306,
+      "by": "microtonal"
+    },
+    {
+      "id": 50389333,
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "points": 505,
+      "comments": 202,
+      "by": "ppmpreetham"
+    },
+    {
+      "id": 50389222,
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "points": 480,
+      "comments": 376,
+      "by": "1659447091"
     },
     {
       "id": 50380810,
@@ -50,6 +74,22 @@
       "points": 446,
       "comments": 325,
       "by": "monneyboi"
+    },
+    {
+      "id": 50381383,
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "points": 423,
+      "comments": 125,
+      "by": "nickswalker"
+    },
+    {
+      "id": 50383057,
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "points": 378,
+      "comments": 218,
+      "by": "rubatuga"
     },
     {
       "id": 50378942,
@@ -68,14 +108,6 @@
       "by": "surprisetalk"
     },
     {
-      "id": 50381383,
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "points": 292,
-      "comments": 92,
-      "by": "nickswalker"
-    },
-    {
       "id": 50379249,
       "title": "MCP Explained",
       "url": "https://mcp-explained.com/",
@@ -84,12 +116,12 @@
       "by": "rwilinski"
     },
     {
-      "id": 50383057,
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "points": 279,
-      "comments": 138,
-      "by": "rubatuga"
+      "id": 50386338,
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "points": 263,
+      "comments": 86,
+      "by": "Philpax"
     },
     {
       "id": 50385870,
@@ -98,6 +130,22 @@
       "points": 254,
       "comments": 112,
       "by": "randycupertino"
+    },
+    {
+      "id": 50387796,
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "points": 253,
+      "comments": 41,
+      "by": "tripdout"
+    },
+    {
+      "id": 50388122,
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "points": 223,
+      "comments": 76,
+      "by": "jonbaer"
     },
     {
       "id": 50379576,
@@ -124,12 +172,36 @@
       "by": "schopra909"
     },
     {
+      "id": 50389370,
+      "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "points": 198,
+      "comments": 53,
+      "by": "luoc"
+    },
+    {
       "id": 50364860,
       "title": "So my ISP was hijacking my DNS",
       "url": "https://www.karthihegde.dev/posts/dns_tampering",
       "points": 196,
       "comments": 143,
       "by": "frostbyte7"
+    },
+    {
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "points": 184,
+      "comments": 142,
+      "by": "thisisauserid"
+    },
+    {
+      "id": 50393154,
+      "title": "RIP Cybertruck",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "points": 180,
+      "comments": 227,
+      "by": "voxadam"
     },
     {
       "id": 50377078,
@@ -140,12 +212,44 @@
       "by": "pretext"
     },
     {
-      "id": 50386338,
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "points": 155,
-      "comments": 55,
-      "by": "Philpax"
+      "id": 50389420,
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "url": "https://worldstrike.fun/",
+      "points": 138,
+      "comments": 84,
+      "by": "n4ze3m"
+    },
+    {
+      "id": 50390525,
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "points": 117,
+      "comments": 41,
+      "by": "hitekker"
+    },
+    {
+      "id": 50387738,
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "points": 114,
+      "comments": 24,
+      "by": "gkapur"
+    },
+    {
+      "id": 50393758,
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "points": 98,
+      "comments": 47,
+      "by": "cybersoyuz"
+    },
+    {
+      "id": 50391145,
+      "title": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "points": 93,
+      "comments": 59,
+      "by": "ivarconr"
     },
     {
       "id": 50383294,
@@ -188,12 +292,28 @@
       "by": "agybay_07"
     },
     {
-      "id": 50387796,
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "points": 79,
-      "comments": 9,
-      "by": "tripdout"
+      "id": 50393105,
+      "title": "Ask HN: What in the world is taking Ubuntu so long?",
+      "url": null,
+      "points": 66,
+      "comments": 35,
+      "by": "linsomniac"
+    },
+    {
+      "id": 50392499,
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "points": 66,
+      "comments": 33,
+      "by": "blakesterz"
+    },
+    {
+      "id": 50389570,
+      "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "points": 56,
+      "comments": 28,
+      "by": "andsoitis"
     },
     {
       "id": 50387546,
@@ -204,12 +324,28 @@
       "by": "kevin_hu"
     },
     {
-      "id": 50387738,
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "points": 49,
-      "comments": 17,
-      "by": "gkapur"
+      "id": 50393183,
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "points": 50,
+      "comments": 35,
+      "by": "pseudolus"
+    },
+    {
+      "id": 50389990,
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "points": 43,
+      "comments": 7,
+      "by": "ersinesen"
+    },
+    {
+      "id": 50382958,
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "points": 41,
+      "comments": 0,
+      "by": "NaOH"
     },
     {
       "id": 50386789,
@@ -220,6 +356,14 @@
       "by": "marcusbasant"
     },
     {
+      "id": 50393165,
+      "title": "Where Each U.S. State Gets Its Tax Revenue From",
+      "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+      "points": 31,
+      "comments": 13,
+      "by": "peter_d_sherman"
+    },
+    {
       "id": 50388263,
       "title": "How accurately did science fiction stories predict AI?",
       "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
@@ -228,12 +372,28 @@
       "by": "jamesjyu"
     },
     {
-      "id": 50388122,
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "points": 19,
-      "comments": 2,
-      "by": "jonbaer"
+      "id": 50393089,
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "points": 17,
+      "comments": 1,
+      "by": "goopthink"
+    },
+    {
+      "id": 50392787,
+      "title": "MTG-I2 First Images",
+      "url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "points": 10,
+      "comments": 1,
+      "by": "N19PEDL2"
+    },
+    {
+      "id": 50393235,
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "points": 5,
+      "comments": 0,
+      "by": "jbspeakr"
     },
     {
       "id": 50381512,
@@ -242,6 +402,14 @@
       "points": 0,
       "comments": 0,
       "by": "rooppal"
+    },
+    {
+      "id": 50391342,
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "points": 0,
+      "comments": 0,
+      "by": "chitianhao"
     }
   ]
 }

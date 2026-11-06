@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-06](archive/2026/11/2026-11-06.md)
 
-Top 10 of 30 stories so far, last updated 2026-11-06 06:47 UTC. **8** days archived.
+Top 10 of 51 stories so far, last updated 2026-11-06 16:47 UTC. **8** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [sshole](https://sshhole.com) <sub>sshhole.com</sub> | 2542 | [621](https://news.ycombinator.com/item?id=50378228) |
-| 2 | [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) <sub>github.com</sub> | 871 | [288](https://news.ycombinator.com/item?id=50385272) |
-| 3 | [Search for everyone](https://kagi.com/changelog#11820) <sub>kagi.com</sub> | 630 | [326](https://news.ycombinator.com/item?id=50383740) |
-| 4 | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) <sub>salon.com</sub> | 542 | [200](https://news.ycombinator.com/item?id=50383739) |
-| 5 | [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) <sub>cve.org</sub> | 447 | [171](https://news.ycombinator.com/item?id=50384233) |
-| 6 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) <sub>motorolanews.com</sub> | 446 | [325](https://news.ycombinator.com/item?id=50380810) |
-| 7 | [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) <sub>rakhim.exotext.com</sub> | 369 | [319](https://news.ycombinator.com/item?id=50378942) |
-| 8 | [Download your favourite YouTube videos](https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/) <sub>criminallyvulgar.dev</sub> | 318 | [147](https://news.ycombinator.com/item?id=50378571) |
-| 9 | [Window Sweaters](https://github.com/saragordic/window-sweaters) <sub>github.com</sub> | 292 | [92](https://news.ycombinator.com/item?id=50381383) |
-| 10 | [MCP Explained](https://mcp-explained.com/) <sub>mcp-explained.com</sub> | 282 | [119](https://news.ycombinator.com/item?id=50379249) |
+| 1 | [sshole](https://sshhole.com) <sub>sshhole.com</sub> | 2873 | [700](https://news.ycombinator.com/item?id=50378228) |
+| 2 | [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) <sub>github.com</sub> | 1455 | [453](https://news.ycombinator.com/item?id=50385272) |
+| 3 | [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) <sub>cve.org</sub> | 660 | [248](https://news.ycombinator.com/item?id=50384233) |
+| 4 | [Search for everyone](https://kagi.com/changelog#11820) <sub>kagi.com</sub> | 630 | [326](https://news.ycombinator.com/item?id=50383740) |
+| 5 | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) <sub>salon.com</sub> | 542 | [200](https://news.ycombinator.com/item?id=50383739) |
+| 6 | [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105) <sub>github.com</sub> | 505 | [306](https://news.ycombinator.com/item?id=50390124) |
+| 7 | [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) <sub>github.com</sub> | 505 | [202](https://news.ycombinator.com/item?id=50389333) |
+| 8 | [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) <sub>reuters.com</sub> | 480 | [376](https://news.ycombinator.com/item?id=50389222) |
+| 9 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) <sub>motorolanews.com</sub> | 446 | [325](https://news.ycombinator.com/item?id=50380810) |
+| 10 | [Window Sweaters](https://github.com/saragordic/window-sweaters) <sub>github.com</sub> | 423 | [125](https://news.ycombinator.com/item?id=50381383) |
 <!-- digest:end -->
