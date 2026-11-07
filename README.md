@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-06](archive/2026/11/2026-11-06.md)
+### Latest: [2026-11-07](archive/2026/11/2026-11-07.md)
 
-Top 10 of 77 stories so far, last updated 2026-11-06 23:16 UTC. **8** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-07 06:07 UTC. **9** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [sshole](https://sshhole.com) <sub>sshhole.com</sub> | 2873 | [700](https://news.ycombinator.com/item?id=50378228) |
-| 2 | [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) <sub>github.com</sub> | 1455 | [453](https://news.ycombinator.com/item?id=50385272) |
-| 3 | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) <sub>nbcnews.com</sub> | 765 | [1590](https://news.ycombinator.com/item?id=50391456) |
-| 4 | [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) <sub>github.com</sub> | 671 | [270](https://news.ycombinator.com/item?id=50389333) |
-| 5 | [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) <sub>cve.org</sub> | 660 | [248](https://news.ycombinator.com/item?id=50384233) |
-| 6 | [Search for everyone](https://kagi.com/changelog#11820) <sub>kagi.com</sub> | 630 | [326](https://news.ycombinator.com/item?id=50383740) |
-| 7 | [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/) <sub>salon.com</sub> | 542 | [200](https://news.ycombinator.com/item?id=50383739) |
-| 8 | [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105) <sub>github.com</sub> | 505 | [306](https://news.ycombinator.com/item?id=50390124) |
-| 9 | [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) <sub>reuters.com</sub> | 480 | [376](https://news.ycombinator.com/item?id=50389222) |
-| 10 | [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) <sub>motorolanews.com</sub> | 446 | [325](https://news.ycombinator.com/item?id=50380810) |
+| 1 | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) <sub>nbcnews.com</sub> | 940 | [1801](https://news.ycombinator.com/item?id=50391456) |
+| 2 | [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) <sub>mitchellh.com</sub> | 444 | [71](https://news.ycombinator.com/item?id=50399933) |
+| 3 | [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) <sub>hightouch.com</sub> | 409 | [91](https://news.ycombinator.com/item?id=50397429) |
+| 4 | [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) <sub>blog.google</sub> | 311 | [225](https://news.ycombinator.com/item?id=50392118) |
+| 5 | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) <sub>reuters.com</sub> | 309 | [254](https://news.ycombinator.com/item?id=50388001) |
+| 6 | [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) <sub>planned-obsolescence.org</sub> | 254 | [205](https://news.ycombinator.com/item?id=50397994) |
+| 7 | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) <sub>kevinboone.me</sub> | 209 | [39](https://news.ycombinator.com/item?id=50394855) |
+| 8 | [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) <sub>pwn.ai</sub> | 205 | [104](https://news.ycombinator.com/item?id=50397219) |
+| 9 | [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/) <sub>pv-magazine.com</sub> | 158 | [78](https://news.ycombinator.com/item?id=50399657) |
+| 10 | [Devvm.dev: One VM for every project](https://devvm.dev/) <sub>devvm.dev</sub> | 141 | [55](https://news.ycombinator.com/item?id=50395450) |
 <!-- digest:end -->

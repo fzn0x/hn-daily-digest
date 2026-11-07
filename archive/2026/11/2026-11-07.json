@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07T06:07:51+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50391456,
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "points": 940,
+      "comments": 1801,
+      "by": "PLenz"
+    },
+    {
+      "id": 50399933,
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "points": 444,
+      "comments": 71,
+      "by": "mfiguiere"
+    },
+    {
+      "id": 50397429,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "points": 409,
+      "comments": 91,
+      "by": "theanomaly"
+    },
+    {
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "points": 311,
+      "comments": 225,
+      "by": "thisisauserid"
+    },
+    {
+      "id": 50388001,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "points": 309,
+      "comments": 254,
+      "by": "ChrisArchitect"
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "points": 254,
+      "comments": 205,
+      "by": "yurivish"
+    },
+    {
+      "id": 50394855,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "points": 209,
+      "comments": 39,
+      "by": "LaSombra"
+    },
+    {
+      "id": 50397219,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "points": 205,
+      "comments": 104,
+      "by": "SerCe"
+    },
+    {
+      "id": 50399657,
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "points": 158,
+      "comments": 78,
+      "by": "doener"
+    },
+    {
+      "id": 50395450,
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "points": 141,
+      "comments": 55,
+      "by": "luispa"
+    },
+    {
+      "id": 50397017,
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "points": 109,
+      "comments": 56,
+      "by": "fiej"
+    },
+    {
+      "id": 50397099,
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "points": 104,
+      "comments": 20,
+      "by": "DAlperin"
+    },
+    {
+      "id": 50400597,
+      "title": "I toured Unitree's factory. I'm more bullish on the West",
+      "url": "https://josef.cn/blog/unitree",
+      "points": 88,
+      "comments": 56,
+      "by": "josefchen"
+    },
+    {
+      "id": 50399991,
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "points": 78,
+      "comments": 35,
+      "by": "raybb"
+    },
+    {
+      "id": 50354097,
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "points": 62,
+      "comments": 6,
+      "by": "ntur1337"
+    },
+    {
+      "id": 50397711,
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "points": 60,
+      "comments": 11,
+      "by": "rexbee"
+    },
+    {
+      "id": 50360810,
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "points": 59,
+      "comments": 4,
+      "by": "derbOac"
+    },
+    {
+      "id": 50379221,
+      "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
+      "url": "https://github.com/piercefreeman/waymark",
+      "points": 56,
+      "comments": 16,
+      "by": "icyfox"
+    },
+    {
+      "id": 50401029,
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "points": 39,
+      "comments": 27,
+      "by": "hubraumhugo"
+    },
+    {
+      "id": 50395183,
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "points": 38,
+      "comments": 10,
+      "by": "yorwba"
+    },
+    {
+      "id": 50384263,
+      "title": "What do the next 4000 emoji look like?",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+      "points": 33,
+      "comments": 20,
+      "by": "lacieargyle"
+    },
+    {
+      "id": 50356722,
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "url": "https://github.com/AmpereComputing/panthera",
+      "points": 26,
+      "comments": 7,
+      "by": "mshockwave"
+    },
+    {
+      "id": 50355009,
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "points": 23,
+      "comments": 9,
+      "by": "boldi"
+    },
+    {
+      "id": 50352701,
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "points": 22,
+      "comments": 2,
+      "by": "AlexeyBrin"
+    },
+    {
+      "id": 50401451,
+      "title": "Show HN: Did prediction markets do any predicting this midterms?",
+      "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+      "points": 21,
+      "comments": 10,
+      "by": "nuwandavek"
+    },
+    {
+      "id": 50401740,
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "points": 14,
+      "comments": 3,
+      "by": "benbreen"
+    },
+    {
+      "id": 50401414,
+      "title": "Lighting the Skies",
+      "url": "https://computer.rip/2026-10-25-searchlights.html",
+      "points": 11,
+      "comments": 2,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50370551,
+      "title": "Project Sync: The journey to sample-perfect audio/video sync with WebCodecs",
+      "url": "https://mediabunny.dev/blog/project-sync",
+      "points": 5,
+      "comments": 0,
+      "by": "vanilagy"
+    },
+    {
+      "id": 50401867,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "points": 4,
+      "comments": 0,
+      "by": "ackyshake"
+    },
+    {
+      "id": 50395043,
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "points": 0,
+      "comments": 0,
+      "by": "Old_Thrashbarg"
+    }
+  ]
+}
