@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "updated_at": "2026-11-07T13:02:53+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-07T19:27:13+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50391456,
@@ -15,24 +15,40 @@
       "id": 50399933,
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "points": 737,
-      "comments": 121,
+      "points": 955,
+      "comments": 162,
       "by": "mfiguiere"
+    },
+    {
+      "id": 50403052,
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "points": 592,
+      "comments": 176,
+      "by": "fluxusars"
     },
     {
       "id": 50397429,
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "points": 508,
-      "comments": 122,
+      "points": 564,
+      "comments": 138,
       "by": "theanomaly"
+    },
+    {
+      "id": 50403097,
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "points": 467,
+      "comments": 269,
+      "by": "infwhispers"
     },
     {
       "id": 50388001,
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "points": 356,
-      "comments": 288,
+      "points": 395,
+      "comments": 320,
       "by": "ChrisArchitect"
     },
     {
@@ -68,12 +84,20 @@
       "by": "LaSombra"
     },
     {
-      "id": 50403097,
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "points": 180,
-      "comments": 97,
-      "by": "infwhispers"
+      "id": 50360810,
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "points": 187,
+      "comments": 26,
+      "by": "derbOac"
+    },
+    {
+      "id": 50403066,
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "points": 172,
+      "comments": 81,
+      "by": "DeepLogin"
     },
     {
       "id": 50395450,
@@ -100,6 +124,14 @@
       "by": "doener"
     },
     {
+      "id": 50404599,
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "points": 153,
+      "comments": 62,
+      "by": "zenincognito"
+    },
+    {
       "id": 50403214,
       "title": "Upload Your RAM",
       "url": "https://uploadyourram.org",
@@ -124,14 +156,6 @@
       "by": "fiej"
     },
     {
-      "id": 50360810,
-      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-      "points": 134,
-      "comments": 14,
-      "by": "derbOac"
-    },
-    {
       "id": 50401740,
       "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
       "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
@@ -140,12 +164,20 @@
       "by": "benbreen"
     },
     {
-      "id": 50403052,
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
-      "points": 104,
-      "comments": 35,
-      "by": "fluxusars"
+      "id": 50405678,
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "url": "https://kevinboone.me/tpwin.html",
+      "points": 120,
+      "comments": 75,
+      "by": "andsoitis"
+    },
+    {
+      "id": 50406563,
+      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+      "points": 98,
+      "comments": 24,
+      "by": "srean"
     },
     {
       "id": 50354097,
@@ -172,12 +204,36 @@
       "by": "yorwba"
     },
     {
+      "id": 50406292,
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "points": 87,
+      "comments": 21,
+      "by": "hedgerow-dev"
+    },
+    {
       "id": 50397711,
       "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
       "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
       "points": 82,
       "comments": 29,
       "by": "rexbee"
+    },
+    {
+      "id": 50406111,
+      "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "points": 81,
+      "comments": 57,
+      "by": "user_7832"
+    },
+    {
+      "id": 50356037,
+      "title": "ToothPaste",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "points": 79,
+      "comments": 17,
+      "by": "speckx"
     },
     {
       "id": 50402212,
@@ -188,6 +244,22 @@
       "by": "geoffbp"
     },
     {
+      "id": 50405789,
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "points": 68,
+      "comments": 25,
+      "by": "Ariarule"
+    },
+    {
+      "id": 50406589,
+      "title": "The End of AI Frontiers",
+      "url": "https://hunch.net/?p=13764006",
+      "points": 68,
+      "comments": 20,
+      "by": "andsoitis"
+    },
+    {
       "id": 50352701,
       "title": "The Flash C Compiler",
       "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
@@ -196,12 +268,68 @@
       "by": "AlexeyBrin"
     },
     {
+      "id": 50406222,
+      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "points": 61,
+      "comments": 9,
+      "by": "antiuniverse"
+    },
+    {
+      "id": 50406670,
+      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "points": 58,
+      "comments": 9,
+      "by": "LaurensBER"
+    },
+    {
       "id": 50379221,
       "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
       "url": "https://github.com/piercefreeman/waymark",
       "points": 56,
       "comments": 16,
       "by": "icyfox"
+    },
+    {
+      "id": 50361657,
+      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "url": "https://textjs.org/",
+      "points": 54,
+      "comments": 22,
+      "by": "nateb2022"
+    },
+    {
+      "id": 50361417,
+      "title": "Building the NBC News Big Board",
+      "url": "https://ejfox.com/projects/nbc-big-board",
+      "points": 54,
+      "comments": 20,
+      "by": "whalesalad"
+    },
+    {
+      "id": 50377613,
+      "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
+      "url": "https://github.com/hyphatech/spindle",
+      "points": 50,
+      "comments": 8,
+      "by": "zaiev"
+    },
+    {
+      "id": 50352791,
+      "title": "British Library Legal deposit and web archiving",
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "points": 48,
+      "comments": 24,
+      "by": "robtherobber"
+    },
+    {
+      "id": 50358094,
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "url": "https://www.hamza.se/blog/tasfer",
+      "points": 47,
+      "comments": 20,
+      "by": "hamza512b"
     },
     {
       "id": 50361765,
@@ -252,12 +380,28 @@
       "by": "cosmojg"
     },
     {
+      "id": 50404747,
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "points": 28,
+      "comments": 19,
+      "by": "tylerdane"
+    },
+    {
       "id": 50356722,
       "title": "Panthera: Ampere's CPU Performance Model",
       "url": "https://github.com/AmpereComputing/panthera",
       "points": 26,
       "comments": 7,
       "by": "mshockwave"
+    },
+    {
+      "id": 50406319,
+      "title": "Five Memorable Books About Programming",
+      "url": "https://prog21.dadgum.com/19.html",
+      "points": 24,
+      "comments": 6,
+      "by": "andsoitis"
     },
     {
       "id": 50355009,
@@ -276,6 +420,14 @@
       "by": "nuwandavek"
     },
     {
+      "id": 50405263,
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "points": 21,
+      "comments": 8,
+      "by": "jiant"
+    },
+    {
       "id": 50403063,
       "title": "Port 0: The Port That Does Not Exist",
       "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
@@ -284,20 +436,44 @@
       "by": "NewCzech"
     },
     {
-      "id": 50403066,
-      "title": "Running a law firm on Free software",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "points": 16,
-      "comments": 0,
-      "by": "DeepLogin"
+      "id": 50405782,
+      "title": "Every processor die anyone has photographed and given away",
+      "url": "https://sheets.works/data-viz/cpu-dies",
+      "points": 20,
+      "comments": 4,
+      "by": "user_7832"
     },
     {
-      "id": 50356037,
-      "title": "ToothPaste",
-      "url": "https://brisk4t.github.io/blog/toothpaste/",
-      "points": 13,
-      "comments": 3,
-      "by": "speckx"
+      "id": 50370787,
+      "title": "The Typo Generation Is Damaging Literature",
+      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+      "points": 16,
+      "comments": 6,
+      "by": "bryanrasmussen"
+    },
+    {
+      "id": 50357763,
+      "title": "Optimising the Rail Cube",
+      "url": "https://owenlacey.dev/railcube-optimisation/post",
+      "points": 16,
+      "comments": 1,
+      "by": "owenlacey"
+    },
+    {
+      "id": 50354763,
+      "title": "ZeBridge \u2013 PostgreSQL replicas on devices, synchronized over NATS",
+      "url": "https://github.com/ndrean/ZeBridge",
+      "points": 14,
+      "comments": 1,
+      "by": "ndrean"
+    },
+    {
+      "id": 50405674,
+      "title": "Terry Pratchett's Study",
+      "url": "https://www.sussi.dk/terry-pratchetts-study",
+      "points": 12,
+      "comments": 1,
+      "by": "ColinWright"
     },
     {
       "id": 50401414,
@@ -314,14 +490,6 @@
       "points": 5,
       "comments": 0,
       "by": "vanilagy"
-    },
-    {
-      "id": 50377613,
-      "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
-      "url": "https://github.com/hyphatech/spindle",
-      "points": 5,
-      "comments": 0,
-      "by": "zaiev"
     },
     {
       "id": 50401867,
