@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-07](archive/2026/11/2026-11-07.md)
+### Latest: [2026-11-08](archive/2026/11/2026-11-08.md)
 
-Top 10 of 63 stories so far, last updated 2026-11-07 19:27 UTC. **9** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-08 00:36 UTC. **10** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) <sub>nbcnews.com</sub> | 1048 | [1905](https://news.ycombinator.com/item?id=50391456) |
-| 2 | [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) <sub>mitchellh.com</sub> | 955 | [162](https://news.ycombinator.com/item?id=50399933) |
-| 3 | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) <sub>nfsu2.xyz</sub> | 592 | [176](https://news.ycombinator.com/item?id=50403052) |
-| 4 | [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) <sub>hightouch.com</sub> | 564 | [138](https://news.ycombinator.com/item?id=50397429) |
-| 5 | [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) <sub>8rank.ai</sub> | 467 | [269](https://news.ycombinator.com/item?id=50403097) |
-| 6 | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) <sub>reuters.com</sub> | 395 | [320](https://news.ycombinator.com/item?id=50388001) |
-| 7 | [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) <sub>blog.google</sub> | 346 | [233](https://news.ycombinator.com/item?id=50392118) |
-| 8 | [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) <sub>planned-obsolescence.org</sub> | 331 | [293](https://news.ycombinator.com/item?id=50397994) |
-| 9 | [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) <sub>pwn.ai</sub> | 254 | [110](https://news.ycombinator.com/item?id=50397219) |
-| 10 | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) <sub>kevinboone.me</sub> | 230 | [43](https://news.ycombinator.com/item?id=50394855) |
+| 1 | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) <sub>nfsu2.xyz</sub> | 783 | [223](https://news.ycombinator.com/item?id=50403052) |
+| 2 | [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) <sub>8rank.ai</sub> | 582 | [333](https://news.ycombinator.com/item?id=50403097) |
+| 3 | [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) <sub>hunch.net</sub> | 343 | [198](https://news.ycombinator.com/item?id=50406563) |
+| 4 | [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) <sub>theguardian.com</sub> | 331 | [224](https://news.ycombinator.com/item?id=50406111) |
+| 5 | [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/) <sub>asahilinux.org</sub> | 309 | [253](https://news.ycombinator.com/item?id=50401867) |
+| 6 | [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) <sub>blog.bosscher.ch</sub> | 304 | [75](https://news.ycombinator.com/item?id=50406670) |
+| 7 | [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/) <sub>decoded.legal</sub> | 229 | [108](https://news.ycombinator.com/item?id=50403066) |
+| 8 | [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals) <sub>science.org</sub> | 206 | [184](https://news.ycombinator.com/item?id=50401740) |
+| 9 | [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) <sub>windowslatest.com</sub> | 199 | [196](https://news.ycombinator.com/item?id=50403507) |
+| 10 | [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) <sub>thelittleengineerthatcould.blogspot.com</sub> | 192 | [84](https://news.ycombinator.com/item?id=50404599) |
 <!-- digest:end -->
