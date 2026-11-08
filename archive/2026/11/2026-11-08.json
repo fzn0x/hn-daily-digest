@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "updated_at": "2026-11-08T18:05:18+00:00",
-  "snapshots": 3,
+  "updated_at": "2026-11-08T22:10:34+00:00",
+  "snapshots": 4,
   "stories": [
     {
       "id": 50403052,
@@ -23,24 +23,24 @@
       "id": 50406670,
       "title": "What I run on my $10 USD OpenStick homelab",
       "url": "https://blog.bosscher.ch/posts/openstick/",
-      "points": 705,
-      "comments": 126,
+      "points": 759,
+      "comments": 130,
       "by": "LaurensBER"
     },
     {
       "id": 50410107,
       "title": "Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
-      "points": 568,
-      "comments": 356,
+      "points": 648,
+      "comments": 413,
       "by": "karagenit"
     },
     {
       "id": 50407882,
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "points": 507,
-      "comments": 370,
+      "points": 558,
+      "comments": 387,
       "by": "shmulc"
     },
     {
@@ -50,6 +50,14 @@
       "points": 465,
       "comments": 293,
       "by": "user_7832"
+    },
+    {
+      "id": 50415628,
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "points": 464,
+      "comments": 284,
+      "by": "TheWiggles"
     },
     {
       "id": 50406563,
@@ -74,6 +82,14 @@
       "points": 381,
       "comments": 331,
       "by": "ackyshake"
+    },
+    {
+      "id": 50411961,
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "points": 317,
+      "comments": 120,
+      "by": "joshcsimmons"
     },
     {
       "id": 50406222,
@@ -108,6 +124,14 @@
       "by": "zenincognito"
     },
     {
+      "id": 50412067,
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "points": 233,
+      "comments": 73,
+      "by": "jruohonen"
+    },
+    {
       "id": 50403066,
       "title": "Running a law firm on Free software",
       "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
@@ -116,12 +140,12 @@
       "by": "DeepLogin"
     },
     {
-      "id": 50411961,
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
+      "id": 50416801,
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
       "points": 223,
-      "comments": 66,
-      "by": "joshcsimmons"
+      "comments": 174,
+      "by": "vincentchau"
     },
     {
       "id": 50401740,
@@ -140,12 +164,44 @@
       "by": "rbanffy"
     },
     {
+      "id": 50368481,
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "points": 186,
+      "comments": 19,
+      "by": "smusamashah"
+    },
+    {
       "id": 50408713,
       "title": "Making any integer with four 2s (2025)",
       "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
       "points": 184,
       "comments": 48,
       "by": "germanrabbit"
+    },
+    {
+      "id": 50411467,
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "points": 159,
+      "comments": 102,
+      "by": "mthines"
+    },
+    {
+      "id": 50366902,
+      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "points": 155,
+      "comments": 59,
+      "by": "simonpure"
+    },
+    {
+      "id": 50412152,
+      "title": "Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "points": 153,
+      "comments": 90,
+      "by": "adrianhoward"
     },
     {
       "id": 50413822,
@@ -164,28 +220,20 @@
       "by": "xiaoyu2006"
     },
     {
-      "id": 50411467,
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "points": 130,
-      "comments": 92,
-      "by": "mthines"
+      "id": 50366821,
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "points": 138,
+      "comments": 40,
+      "by": "z1xus"
     },
     {
-      "id": 50366902,
-      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-      "url": "https://clj.rs/",
+      "id": 50416158,
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "points": 127,
-      "comments": 48,
-      "by": "simonpure"
-    },
-    {
-      "id": 50412067,
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "points": 126,
-      "comments": 37,
-      "by": "jruohonen"
+      "comments": 107,
+      "by": "xmddmx"
     },
     {
       "id": 50405782,
@@ -196,12 +244,12 @@
       "by": "user_7832"
     },
     {
-      "id": 50412152,
-      "title": "Petered",
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "points": 122,
-      "comments": 77,
-      "by": "adrianhoward"
+      "id": 50362963,
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "points": 120,
+      "comments": 23,
+      "by": "jrcplus"
     },
     {
       "id": 50405789,
@@ -228,12 +276,28 @@
       "by": "xnx"
     },
     {
-      "id": 50366821,
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "points": 93,
-      "comments": 32,
-      "by": "z1xus"
+      "id": 50416053,
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "points": 98,
+      "comments": 33,
+      "by": "indigodaddy"
+    },
+    {
+      "id": 50416363,
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "points": 96,
+      "comments": 84,
+      "by": "kyunez"
+    },
+    {
+      "id": 50415281,
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "points": 91,
+      "comments": 18,
+      "by": "mgh2"
     },
     {
       "id": 50405674,
@@ -244,12 +308,28 @@
       "by": "ColinWright"
     },
     {
+      "id": 50412072,
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "points": 89,
+      "comments": 15,
+      "by": "dmit"
+    },
+    {
       "id": 50361657,
       "title": "Text.js: Build full-stack React apps that render inside console.log",
       "url": "https://textjs.org/",
       "points": 80,
       "comments": 47,
       "by": "nateb2022"
+    },
+    {
+      "id": 50389923,
+      "title": "The Reconstruction of Torn Documents",
+      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+      "points": 80,
+      "comments": 47,
+      "by": "jacquesm"
     },
     {
       "id": 50409855,
@@ -260,6 +340,14 @@
       "by": "handfuloflight"
     },
     {
+      "id": 50413769,
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "points": 74,
+      "comments": 32,
+      "by": "maxloh"
+    },
+    {
       "id": 50404747,
       "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
       "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
@@ -268,12 +356,12 @@
       "by": "tylerdane"
     },
     {
-      "id": 50412072,
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "id": 50415135,
+      "title": "A Little Snitch for Windows",
+      "url": "https://packethound.app/",
       "points": 69,
-      "comments": 11,
-      "by": "dmit"
+      "comments": 33,
+      "by": "BadBoyBubby"
     },
     {
       "id": 50358094,
@@ -308,6 +396,14 @@
       "by": "andsoitis"
     },
     {
+      "id": 50412830,
+      "title": "How to prove equations using diagrams, part 1",
+      "url": "https://www.epatters.org/post/e-graphs-1/",
+      "points": 54,
+      "comments": 4,
+      "by": "frostbyte7"
+    },
+    {
       "id": 50409856,
       "title": "Consumer brain wave headsets threaten privacy",
       "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
@@ -340,6 +436,14 @@
       "by": "evakhoury"
     },
     {
+      "id": 50416471,
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "points": 43,
+      "comments": 20,
+      "by": "spikels"
+    },
+    {
       "id": 50351954,
       "title": "Amsterdam School",
       "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
@@ -348,20 +452,20 @@
       "by": "bondarchuk"
     },
     {
-      "id": 50389923,
-      "title": "The Reconstruction of Torn Documents",
-      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "points": 42,
-      "comments": 19,
-      "by": "jacquesm"
-    },
-    {
       "id": 50371360,
       "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
       "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
       "points": 40,
       "comments": 11,
       "by": "bryanrasmussen"
+    },
+    {
+      "id": 50372838,
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "points": 39,
+      "comments": 9,
+      "by": "prismatic"
     },
     {
       "id": 50413885,
@@ -380,12 +484,12 @@
       "by": "andsoitis"
     },
     {
-      "id": 50362963,
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "id": 50415078,
+      "title": "A field guide to CAPTCHA types and how they break",
+      "url": "https://github.com/vsmutok/FuckCaptcha",
       "points": 37,
-      "comments": 6,
-      "by": "jrcplus"
+      "comments": 12,
+      "by": "vasylsmutok"
     },
     {
       "id": 50411818,
@@ -404,20 +508,20 @@
       "by": "hentrep"
     },
     {
-      "id": 50413769,
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "points": 29,
-      "comments": 13,
-      "by": "maxloh"
-    },
-    {
       "id": 50408350,
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
       "url": "https://eyesrhythm.com/",
       "points": 22,
       "comments": 6,
       "by": "prnysoni"
+    },
+    {
+      "id": 50415750,
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "url": "https://kevinboone.me/cpmzork.html",
+      "points": 20,
+      "comments": 11,
+      "by": "linuxkernal"
     },
     {
       "id": 50358337,
@@ -428,20 +532,20 @@
       "by": "hasley"
     },
     {
+      "id": 50416456,
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "points": 19,
+      "comments": 5,
+      "by": "edward"
+    },
+    {
       "id": 50408104,
       "title": "Shadow of the Sun (2021)",
       "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
       "points": 18,
       "comments": 4,
       "by": "andsoitis"
-    },
-    {
-      "id": 50412830,
-      "title": "How to prove equations using diagrams, part 1",
-      "url": "https://www.epatters.org/post/e-graphs-1/",
-      "points": 16,
-      "comments": 3,
-      "by": "frostbyte7"
     },
     {
       "id": 50408129,
@@ -452,12 +556,28 @@
       "by": "tomcam"
     },
     {
+      "id": 50417407,
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": null,
+      "points": 13,
+      "comments": 150,
+      "by": "david927"
+    },
+    {
       "id": 50411083,
       "title": "WaveDudeNext 2D Wave Simulator",
       "url": "https://github.com/graealex/WaveDudeNext",
       "points": 9,
       "comments": 3,
       "by": "sweetdingoes"
+    },
+    {
+      "id": 50416014,
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "points": 9,
+      "comments": 1,
+      "by": "dverlaeckt80"
     },
     {
       "id": 50361212,
@@ -468,12 +588,12 @@
       "by": "gmays"
     },
     {
-      "id": 50415281,
-      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "id": 50353814,
+      "title": "The History of Djgpp",
+      "url": "https://www.delorie.com/djgpp/history.html",
       "points": 8,
-      "comments": 0,
-      "by": "mgh2"
+      "comments": 1,
+      "by": "atan2"
     },
     {
       "id": 50408750,
