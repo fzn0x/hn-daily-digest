@@ -1,55 +1,103 @@
 {
   "date": "2026-11-08",
-  "updated_at": "2026-11-08T00:36:34+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-08T10:27:34+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50403052,
       "title": "Need for Speed Underground 2 online in the browser",
       "url": "https://nfsu2.xyz/",
-      "points": 783,
-      "comments": 223,
+      "points": 992,
+      "comments": 250,
       "by": "fluxusars"
     },
     {
       "id": 50403097,
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "points": 582,
-      "comments": 333,
+      "points": 733,
+      "comments": 385,
       "by": "infwhispers"
-    },
-    {
-      "id": 50406563,
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "points": 343,
-      "comments": 198,
-      "by": "srean"
-    },
-    {
-      "id": 50406111,
-      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "points": 331,
-      "comments": 224,
-      "by": "user_7832"
-    },
-    {
-      "id": 50401867,
-      "title": "Asahi Linux Progress Linux 7.3",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "points": 309,
-      "comments": 253,
-      "by": "ackyshake"
     },
     {
       "id": 50406670,
       "title": "What I run on my $10 USD OpenStick homelab",
       "url": "https://blog.bosscher.ch/posts/openstick/",
-      "points": 304,
-      "comments": 75,
+      "points": 589,
+      "comments": 110,
       "by": "LaurensBER"
+    },
+    {
+      "id": 50406111,
+      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "points": 465,
+      "comments": 293,
+      "by": "user_7832"
+    },
+    {
+      "id": 50406563,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "points": 457,
+      "comments": 277,
+      "by": "srean"
+    },
+    {
+      "id": 50407882,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "points": 397,
+      "comments": 273,
+      "by": "shmulc"
+    },
+    {
+      "id": 50401867,
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "points": 381,
+      "comments": 331,
+      "by": "ackyshake"
+    },
+    {
+      "id": 50403507,
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "points": 330,
+      "comments": 304,
+      "by": "thunderbong"
+    },
+    {
+      "id": 50410107,
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "points": 318,
+      "comments": 191,
+      "by": "karagenit"
+    },
+    {
+      "id": 50406222,
+      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "points": 313,
+      "comments": 83,
+      "by": "antiuniverse"
+    },
+    {
+      "id": 50406292,
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "points": 238,
+      "comments": 59,
+      "by": "hedgerow-dev"
+    },
+    {
+      "id": 50404599,
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "points": 237,
+      "comments": 92,
+      "by": "zenincognito"
     },
     {
       "id": 50403066,
@@ -68,44 +116,36 @@
       "by": "benbreen"
     },
     {
-      "id": 50403507,
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "points": 199,
-      "comments": 196,
-      "by": "thunderbong"
+      "id": 50408713,
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "points": 145,
+      "comments": 33,
+      "by": "germanrabbit"
     },
     {
-      "id": 50404599,
-      "title": "The $8 Linux Computer (2022)",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "points": 192,
-      "comments": 84,
-      "by": "zenincognito"
+      "id": 50408931,
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "points": 143,
+      "comments": 94,
+      "by": "xiaoyu2006"
     },
     {
-      "id": 50406292,
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "points": 185,
-      "comments": 39,
-      "by": "hedgerow-dev"
+      "id": 50377661,
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "points": 138,
+      "comments": 90,
+      "by": "rbanffy"
     },
     {
-      "id": 50406222,
-      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "points": 183,
-      "comments": 55,
-      "by": "antiuniverse"
-    },
-    {
-      "id": 50407882,
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "points": 131,
-      "comments": 95,
-      "by": "shmulc"
+      "id": 50405782,
+      "title": "Every processor die anyone has photographed and given away",
+      "url": "https://sheets.works/data-viz/cpu-dies",
+      "points": 125,
+      "comments": 25,
+      "by": "user_7832"
     },
     {
       "id": 50405789,
@@ -114,6 +154,14 @@
       "points": 119,
       "comments": 69,
       "by": "Ariarule"
+    },
+    {
+      "id": 50406319,
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "points": 116,
+      "comments": 76,
+      "by": "andsoitis"
     },
     {
       "id": 50405674,
@@ -132,36 +180,60 @@
       "by": "nateb2022"
     },
     {
-      "id": 50406319,
-      "title": "Five memorable books about programming (2008)",
-      "url": "https://prog21.dadgum.com/19.html",
-      "points": 79,
-      "comments": 50,
+      "id": 50409855,
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "url": "https://github.com/crmne/zapfast",
+      "points": 76,
+      "comments": 48,
+      "by": "handfuloflight"
+    },
+    {
+      "id": 50366902,
+      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "points": 57,
+      "comments": 4,
+      "by": "simonpure"
+    },
+    {
+      "id": 50408961,
+      "title": "Commodore PET \u2013 The Worlds First Personal Computer",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "points": 56,
+      "comments": 19,
       "by": "andsoitis"
     },
     {
-      "id": 50405782,
-      "title": "Every processor die anyone has photographed and given away",
-      "url": "https://sheets.works/data-viz/cpu-dies",
-      "points": 69,
-      "comments": 16,
-      "by": "user_7832"
+      "id": 50409856,
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "points": 50,
+      "comments": 20,
+      "by": "maxall4"
     },
     {
-      "id": 50377661,
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "points": 51,
-      "comments": 11,
-      "by": "rbanffy"
-    },
-    {
-      "id": 50408713,
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "points": 40,
+      "id": 50410359,
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "points": 49,
       "comments": 8,
-      "by": "germanrabbit"
+      "by": "joebig"
+    },
+    {
+      "id": 50351954,
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "points": 42,
+      "comments": 8,
+      "by": "bondarchuk"
+    },
+    {
+      "id": 50410249,
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "url": "https://github.com/dmunozv04/isponsorblocktv",
+      "points": 41,
+      "comments": 10,
+      "by": "xnx"
     },
     {
       "id": 50406502,
@@ -172,12 +244,12 @@
       "by": "andsoitis"
     },
     {
-      "id": 50408931,
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "points": 30,
-      "comments": 21,
-      "by": "xiaoyu2006"
+      "id": 50411818,
+      "title": "GitHub Down Again?",
+      "url": "https://github.com/torvalds/linux",
+      "points": 32,
+      "comments": 22,
+      "by": "ridowk"
     },
     {
       "id": 50405172,
@@ -186,6 +258,14 @@
       "points": 29,
       "comments": 7,
       "by": "hentrep"
+    },
+    {
+      "id": 50411467,
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "points": 24,
+      "comments": 13,
+      "by": "mthines"
     },
     {
       "id": 50408350,
@@ -212,12 +292,28 @@
       "by": "andsoitis"
     },
     {
+      "id": 50378974,
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "points": 18,
+      "comments": 0,
+      "by": "speckx"
+    },
+    {
       "id": 50408129,
       "title": "MeccanicOS",
       "url": "https://meccanicos.com/",
       "points": 14,
       "comments": 4,
       "by": "tomcam"
+    },
+    {
+      "id": 50411083,
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "url": "https://github.com/graealex/WaveDudeNext",
+      "points": 9,
+      "comments": 3,
+      "by": "sweetdingoes"
     },
     {
       "id": 50361212,
@@ -236,12 +332,20 @@
       "by": "erickhill"
     },
     {
-      "id": 50408961,
-      "title": "Commodore PET \u2013 The Worlds First Personal Computer",
-      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "points": 3,
+      "id": 50371360,
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+      "points": 4,
+      "comments": 1,
+      "by": "bryanrasmussen"
+    },
+    {
+      "id": 50411522,
+      "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+      "url": "https://github.com/kobaltgit/StatCraft",
+      "points": 4,
       "comments": 0,
-      "by": "andsoitis"
+      "by": "kobaltGIT"
     }
   ]
 }
