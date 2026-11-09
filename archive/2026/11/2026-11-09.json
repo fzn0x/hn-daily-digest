@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "updated_at": "2026-11-09T06:29:22+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-09T19:57:22+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50410107,
@@ -20,12 +20,28 @@
       "by": "TheWiggles"
     },
     {
+      "id": 50424581,
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "points": 661,
+      "comments": 119,
+      "by": "vismit2000"
+    },
+    {
       "id": 50407882,
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "points": 599,
       "comments": 407,
       "by": "shmulc"
+    },
+    {
+      "id": 50422069,
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "points": 533,
+      "comments": 380,
+      "by": "rzk"
     },
     {
       "id": 50418016,
@@ -52,6 +68,14 @@
       "by": "joshcsimmons"
     },
     {
+      "id": 50429906,
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "points": 372,
+      "comments": 159,
+      "by": "meetpateltech"
+    },
+    {
       "id": 50418176,
       "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
       "url": "https://ketchup3d.github.io/app/",
@@ -76,6 +100,14 @@
       "by": "jruohonen"
     },
     {
+      "id": 50427362,
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "points": 324,
+      "comments": 178,
+      "by": "ocd"
+    },
+    {
       "id": 50420035,
       "title": "RIP, Harvest",
       "url": "https://aphyr.com/posts/427-rip-harvest",
@@ -90,6 +122,14 @@
       "points": 242,
       "comments": 77,
       "by": "indigodaddy"
+    },
+    {
+      "id": 50429475,
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+      "points": 227,
+      "comments": 192,
+      "by": "nosecreek"
     },
     {
       "id": 50416363,
@@ -116,12 +156,52 @@
       "by": "david927"
     },
     {
+      "id": 50428724,
+      "title": "Going back two years on Hacker News is like entering another, better universe",
+      "url": "https://news.ycombinator.com/front?day=2024-11-08",
+      "points": 181,
+      "comments": 94,
+      "by": "EmX_3000"
+    },
+    {
+      "id": 50424157,
+      "title": "What is malloc doing, anyway?",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "points": 176,
+      "comments": 38,
+      "by": "benmandrew"
+    },
+    {
+      "id": 50426175,
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "points": 169,
+      "comments": 81,
+      "by": "speckx"
+    },
+    {
       "id": 50418182,
       "title": "Chimera Vocal Synth",
       "url": "https://chimera-vocal-synth.vercel.app/",
       "points": 164,
       "comments": 23,
       "by": "nmstoker"
+    },
+    {
+      "id": 50428801,
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "points": 163,
+      "comments": 137,
+      "by": "pera"
+    },
+    {
+      "id": 50416456,
+      "title": "The Web Is More Than Enough",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "points": 161,
+      "comments": 116,
+      "by": "edward"
     },
     {
       "id": 50418975,
@@ -132,12 +212,20 @@
       "by": "matteoraso"
     },
     {
-      "id": 50416456,
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "points": 113,
-      "comments": 69,
-      "by": "edward"
+      "id": 50426899,
+      "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "points": 125,
+      "comments": 131,
+      "by": "ceejayoz"
+    },
+    {
+      "id": 50425303,
+      "title": "Children of Men: The future is a mirror for the present",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "points": 118,
+      "comments": 93,
+      "by": "speckx"
     },
     {
       "id": 50418818,
@@ -148,12 +236,44 @@
       "by": "acossta"
     },
     {
+      "id": 50429024,
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "points": 104,
+      "comments": 47,
+      "by": "dvaplima"
+    },
+    {
       "id": 50412072,
       "title": "JIT bitmap text rendering for microcontrollers",
       "url": "https://linebender.org/blog/jit-bitmap-text/",
       "points": 96,
       "comments": 20,
       "by": "dmit"
+    },
+    {
+      "id": 50426207,
+      "title": "Zebkit \u2013 Chromium as an embeddable library",
+      "url": "https://github.com/ikey4u/zebkit",
+      "points": 96,
+      "comments": 36,
+      "by": "Riiiiichard"
+    },
+    {
+      "id": 50424366,
+      "title": "Try Gleam",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "points": 88,
+      "comments": 100,
+      "by": "nchagnet"
+    },
+    {
+      "id": 50427934,
+      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
+      "url": null,
+      "points": 61,
+      "comments": 21,
+      "by": "shayan_abbas"
     },
     {
       "id": 50420857,
@@ -172,12 +292,44 @@
       "by": "dverlaeckt80"
     },
     {
+      "id": 50428907,
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "points": 50,
+      "comments": 6,
+      "by": "a585gupt"
+    },
+    {
       "id": 50405043,
       "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
       "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
       "points": 43,
       "comments": 5,
       "by": "bookofjoe"
+    },
+    {
+      "id": 50420599,
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "points": 42,
+      "comments": 2,
+      "by": "niceguitars"
+    },
+    {
+      "id": 50429430,
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "points": 42,
+      "comments": 10,
+      "by": "sshah03"
+    },
+    {
+      "id": 50426831,
+      "title": "Pigshell: Unix the Web",
+      "url": "http://pigshell.com/v/0.6.4/",
+      "points": 41,
+      "comments": 15,
+      "by": "pbohun"
     },
     {
       "id": 50403153,
@@ -188,12 +340,36 @@
       "by": "Michel_Aventin"
     },
     {
+      "id": 50429545,
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "points": 40,
+      "comments": 3,
+      "by": "giuliomagnifico"
+    },
+    {
+      "id": 50429636,
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "points": 28,
+      "comments": 13,
+      "by": "raiseCatError"
+    },
+    {
       "id": 50401844,
       "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
       "url": "https://github.com/rkaehn/uniform",
       "points": 19,
       "comments": 4,
       "by": "rkaehn"
+    },
+    {
+      "id": 50429734,
+      "title": "E-means: 10x faster k-means at equal loss",
+      "url": "https://e-means.github.io/",
+      "points": 19,
+      "comments": 0,
+      "by": "porridgeraisin"
     },
     {
       "id": 50420383,
@@ -204,20 +380,20 @@
       "by": "vinhnx"
     },
     {
+      "id": 50386246,
+      "title": "A primer on GPUs and kernel optimization",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "points": 17,
+      "comments": 0,
+      "by": "nomi_uw"
+    },
+    {
       "id": 50421426,
       "title": "Apple capped engineers at a $200 daily AI budget",
       "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
       "points": 16,
       "comments": 14,
       "by": "GloVin"
-    },
-    {
-      "id": 50420599,
-      "title": "The Qlobe: Rotating Quine (2010)",
-      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-      "points": 15,
-      "comments": 0,
-      "by": "niceguitars"
     },
     {
       "id": 50390822,
@@ -228,6 +404,30 @@
       "by": "dnetesn"
     },
     {
+      "id": 50426681,
+      "title": "On Being an Engineer in 2026",
+      "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
+      "points": 9,
+      "comments": 1,
+      "by": "talboren"
+    },
+    {
+      "id": 50429652,
+      "title": "I Am Done Using Your UI",
+      "url": "https://killianc.com/i-am-done-using-your-ui/",
+      "points": 9,
+      "comments": 0,
+      "by": "killiancarroll"
+    },
+    {
+      "id": 50413970,
+      "title": "Show HN: Recalc \u2013 Spreadsheet where cells can be Claude Code or Codex terminals",
+      "url": "https://github.com/sshah03/recalc",
+      "points": 8,
+      "comments": 0,
+      "by": "sshah03"
+    },
+    {
       "id": 50404428,
       "title": "Ur-Nammu Founder of the Sumerian Renaissance",
       "url": "https://www.worldhistory.org/Ur-Nammu/",
@@ -236,12 +436,36 @@
       "by": "Bluestein"
     },
     {
+      "id": 50426593,
+      "title": "Show HN: My daily word puzzle Jointter revisited",
+      "url": null,
+      "points": 4,
+      "comments": 0,
+      "by": "proy87"
+    },
+    {
       "id": 50371886,
       "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
       "url": "https://github.com/RenderBear/haci",
       "points": 3,
       "comments": 0,
       "by": "RenderBear"
+    },
+    {
+      "id": 50430621,
+      "title": "CUI \u2013 Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
+      "points": 3,
+      "comments": 1,
+      "by": "hilti"
+    },
+    {
+      "id": 50428266,
+      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+      "points": 0,
+      "comments": 0,
+      "by": "gabrielbirnbaum"
     }
   ]
 }
