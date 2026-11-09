@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-08](archive/2026/11/2026-11-08.md)
+### Latest: [2026-11-09](archive/2026/11/2026-11-09.md)
 
-Top 10 of 76 stories so far, last updated 2026-11-08 22:10 UTC. **10** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-09 06:29 UTC. **11** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) <sub>nfsu2.xyz</sub> | 992 | [250](https://news.ycombinator.com/item?id=50403052) |
-| 2 | [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) <sub>8rank.ai</sub> | 811 | [433](https://news.ycombinator.com/item?id=50403097) |
-| 3 | [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) <sub>blog.bosscher.ch</sub> | 759 | [130](https://news.ycombinator.com/item?id=50406670) |
-| 4 | [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) <sub>caleb.software</sub> | 648 | [413](https://news.ycombinator.com/item?id=50410107) |
-| 5 | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) <sub>apiiro.com</sub> | 558 | [387](https://news.ycombinator.com/item?id=50407882) |
-| 6 | [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) <sub>theguardian.com</sub> | 465 | [293](https://news.ycombinator.com/item?id=50406111) |
-| 7 | [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) <sub>thestateofai.com</sub> | 464 | [284](https://news.ycombinator.com/item?id=50415628) |
-| 8 | [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) <sub>hunch.net</sub> | 457 | [277](https://news.ycombinator.com/item?id=50406563) |
-| 9 | [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) <sub>windowslatest.com</sub> | 414 | [418](https://news.ycombinator.com/item?id=50403507) |
-| 10 | [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/) <sub>asahilinux.org</sub> | 381 | [331](https://news.ycombinator.com/item?id=50401867) |
+| 1 | [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) <sub>caleb.software</sub> | 729 | [451](https://news.ycombinator.com/item?id=50410107) |
+| 2 | [Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) <sub>thestateofai.com</sub> | 696 | [386](https://news.ycombinator.com/item?id=50415628) |
+| 3 | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) <sub>apiiro.com</sub> | 599 | [407](https://news.ycombinator.com/item?id=50407882) |
+| 4 | [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company) <sub>nvidianews.nvidia.com</sub> | 503 | [544](https://news.ycombinator.com/item?id=50418016) |
+| 5 | [Declarative Dragging](https://declarative-dragging.github.io/) <sub>declarative-dragging.github.io</sub> | 458 | [60](https://news.ycombinator.com/item?id=50368481) |
+| 6 | [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) <sub>github.com</sub> | 402 | [180](https://news.ycombinator.com/item?id=50411961) |
+| 7 | [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) <sub>ketchup3d.github.io</sub> | 363 | [96](https://news.ycombinator.com/item?id=50418176) |
+| 8 | [Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) <sub>mailroute.net</sub> | 339 | [255](https://news.ycombinator.com/item?id=50416158) |
+| 9 | [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) <sub>muratbuffalo.blogspot.com</sub> | 324 | [85](https://news.ycombinator.com/item?id=50412067) |
+| 10 | [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) <sub>aphyr.com</sub> | 262 | [79](https://news.ycombinator.com/item?id=50420035) |
 <!-- digest:end -->

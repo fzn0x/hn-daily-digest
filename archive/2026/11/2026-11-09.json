@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T06:29:22+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50410107,
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "points": 729,
+      "comments": 451,
+      "by": "karagenit"
+    },
+    {
+      "id": 50415628,
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "points": 696,
+      "comments": 386,
+      "by": "TheWiggles"
+    },
+    {
+      "id": 50407882,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "points": 599,
+      "comments": 407,
+      "by": "shmulc"
+    },
+    {
+      "id": 50418016,
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "points": 503,
+      "comments": 544,
+      "by": "karimf"
+    },
+    {
+      "id": 50368481,
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "points": 458,
+      "comments": 60,
+      "by": "smusamashah"
+    },
+    {
+      "id": 50411961,
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "points": 402,
+      "comments": 180,
+      "by": "joshcsimmons"
+    },
+    {
+      "id": 50418176,
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "points": 363,
+      "comments": 96,
+      "by": "dcoulmbe"
+    },
+    {
+      "id": 50416158,
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "points": 339,
+      "comments": 255,
+      "by": "xmddmx"
+    },
+    {
+      "id": 50412067,
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "points": 324,
+      "comments": 85,
+      "by": "jruohonen"
+    },
+    {
+      "id": 50420035,
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "points": 262,
+      "comments": 79,
+      "by": "zdw"
+    },
+    {
+      "id": 50416053,
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "points": 242,
+      "comments": 77,
+      "by": "indigodaddy"
+    },
+    {
+      "id": 50416363,
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "points": 207,
+      "comments": 158,
+      "by": "kyunez"
+    },
+    {
+      "id": 50419215,
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "points": 206,
+      "comments": 73,
+      "by": "infosecau"
+    },
+    {
+      "id": 50417407,
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": null,
+      "points": 186,
+      "comments": 625,
+      "by": "david927"
+    },
+    {
+      "id": 50418182,
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "points": 164,
+      "comments": 23,
+      "by": "nmstoker"
+    },
+    {
+      "id": 50418975,
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "points": 145,
+      "comments": 202,
+      "by": "matteoraso"
+    },
+    {
+      "id": 50416456,
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "points": 113,
+      "comments": 69,
+      "by": "edward"
+    },
+    {
+      "id": 50418818,
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "points": 106,
+      "comments": 91,
+      "by": "acossta"
+    },
+    {
+      "id": 50412072,
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "points": 96,
+      "comments": 20,
+      "by": "dmit"
+    },
+    {
+      "id": 50420857,
+      "title": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "points": 58,
+      "comments": 24,
+      "by": "ByteAtATime"
+    },
+    {
+      "id": 50416014,
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "points": 53,
+      "comments": 32,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50405043,
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "points": 43,
+      "comments": 5,
+      "by": "bookofjoe"
+    },
+    {
+      "id": 50403153,
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": null,
+      "points": 40,
+      "comments": 33,
+      "by": "Michel_Aventin"
+    },
+    {
+      "id": 50401844,
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "url": "https://github.com/rkaehn/uniform",
+      "points": 19,
+      "comments": 4,
+      "by": "rkaehn"
+    },
+    {
+      "id": 50420383,
+      "title": "A Bit about Email",
+      "url": "https://maurycyz.com/misc/email/",
+      "points": 18,
+      "comments": 2,
+      "by": "vinhnx"
+    },
+    {
+      "id": 50421426,
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "points": 16,
+      "comments": 14,
+      "by": "GloVin"
+    },
+    {
+      "id": 50420599,
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "points": 15,
+      "comments": 0,
+      "by": "niceguitars"
+    },
+    {
+      "id": 50390822,
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "url": "https://blue-continuum.com/branching-beyond-leonardo",
+      "points": 10,
+      "comments": 0,
+      "by": "dnetesn"
+    },
+    {
+      "id": 50404428,
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "points": 6,
+      "comments": 0,
+      "by": "Bluestein"
+    },
+    {
+      "id": 50371886,
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "url": "https://github.com/RenderBear/haci",
+      "points": 3,
+      "comments": 0,
+      "by": "RenderBear"
+    }
+  ]
+}
