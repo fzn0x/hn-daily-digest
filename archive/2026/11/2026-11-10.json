@@ -1,31 +1,47 @@
 {
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T03:34:57+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-10T14:58:21+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50424581,
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://www.foldableflight.com",
-      "points": 877,
-      "comments": 141,
+      "points": 1116,
+      "comments": 156,
       "by": "vismit2000"
+    },
+    {
+      "id": 50429068,
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "points": 737,
+      "comments": 893,
+      "by": "lairv"
     },
     {
       "id": 50431058,
       "title": "USPS now offers official ZIP Code boundary polygons",
       "url": "https://postalpro.usps.com/zcb",
-      "points": 516,
-      "comments": 266,
+      "points": 680,
+      "comments": 345,
       "by": "munro"
     },
     {
       "id": 50427362,
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "points": 482,
-      "comments": 266,
+      "points": 559,
+      "comments": 321,
       "by": "ocd"
+    },
+    {
+      "id": 50436640,
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "points": 474,
+      "comments": 173,
+      "by": "aloukissas"
     },
     {
       "id": 50429426,
@@ -36,28 +52,28 @@
       "by": "gf74918"
     },
     {
-      "id": 50431144,
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "points": 301,
-      "comments": 226,
-      "by": "theanonymousone"
-    },
-    {
       "id": 50429734,
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "url": "https://e-means.github.io/",
-      "points": 295,
-      "comments": 22,
+      "points": 449,
+      "comments": 57,
       "by": "porridgeraisin"
     },
     {
       "id": 50426175,
       "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "points": 286,
-      "comments": 185,
+      "points": 335,
+      "comments": 227,
       "by": "speckx"
+    },
+    {
+      "id": 50431144,
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "points": 301,
+      "comments": 226,
+      "by": "theanonymousone"
     },
     {
       "id": 50429024,
@@ -68,12 +84,20 @@
       "by": "dvaplima"
     },
     {
-      "id": 50429068,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "points": 251,
-      "comments": 626,
-      "by": "lairv"
+      "id": 50439193,
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "points": 259,
+      "comments": 97,
+      "by": "ilreb"
+    },
+    {
+      "id": 50434310,
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "points": 257,
+      "comments": 131,
+      "by": "bigwheels"
     },
     {
       "id": 50428907,
@@ -108,6 +132,22 @@
       "by": "_benx_"
     },
     {
+      "id": 50434264,
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "points": 208,
+      "comments": 71,
+      "by": "Curiositry"
+    },
+    {
+      "id": 50436410,
+      "title": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
+      "points": 206,
+      "comments": 84,
+      "by": "Curiositry"
+    },
+    {
       "id": 50430621,
       "title": "CUI \u2013 Native UI components for C",
       "url": "https://yappologistic.github.io/CUI/",
@@ -124,12 +164,76 @@
       "by": "sshah03"
     },
     {
+      "id": 50435898,
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "points": 111,
+      "comments": 33,
+      "by": "Ivoah"
+    },
+    {
+      "id": 50437752,
+      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "points": 105,
+      "comments": 127,
+      "by": "giuliomagnifico"
+    },
+    {
       "id": 50386246,
       "title": "A primer on GPUs and kernel optimization",
       "url": "https://www.nabo.dev/blogs/kernel-primer",
       "points": 103,
       "comments": 12,
       "by": "nomi_uw"
+    },
+    {
+      "id": 50437106,
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "points": 100,
+      "comments": 33,
+      "by": "werrett"
+    },
+    {
+      "id": 50437790,
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org/",
+      "points": 96,
+      "comments": 71,
+      "by": "rustyhancock"
+    },
+    {
+      "id": 50439805,
+      "title": "Don't buy AR glasses",
+      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "points": 94,
+      "comments": 98,
+      "by": "Bluestein"
+    },
+    {
+      "id": 50439695,
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "points": 90,
+      "comments": 98,
+      "by": "phaser"
+    },
+    {
+      "id": 50439000,
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "points": 86,
+      "comments": 48,
+      "by": "CoderLuii"
+    },
+    {
+      "id": 50392733,
+      "title": "How hard is it to check for whitespace?",
+      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "points": 82,
+      "comments": 18,
+      "by": "theanonymousone"
     },
     {
       "id": 50429636,
@@ -146,6 +250,14 @@
       "points": 75,
       "comments": 31,
       "by": "vmg12"
+    },
+    {
+      "id": 50436706,
+      "title": "ClickHouse Acquires Xata",
+      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "points": 72,
+      "comments": 7,
+      "by": "mebcitto"
     },
     {
       "id": 50429812,
@@ -172,12 +284,12 @@
       "by": "parkgraph"
     },
     {
-      "id": 50434264,
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "points": 51,
-      "comments": 20,
-      "by": "Curiositry"
+      "id": 50408336,
+      "title": "Billion Watts in the Speaker [video]",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "points": 60,
+      "comments": 31,
+      "by": "Element_"
     },
     {
       "id": 50426681,
@@ -188,12 +300,28 @@
       "by": "talboren"
     },
     {
-      "id": 50434310,
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "points": 35,
-      "comments": 15,
-      "by": "bigwheels"
+      "id": 50439284,
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "points": 45,
+      "comments": 11,
+      "by": "stevefan1999"
+    },
+    {
+      "id": 50438377,
+      "title": "'C:\\> FORMAT C:' \u2013 relax, it's just a screen saver",
+      "url": "https://fakedos.com/",
+      "points": 40,
+      "comments": 27,
+      "by": "TheIncredibleCh"
+    },
+    {
+      "id": 50414117,
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
+      "points": 40,
+      "comments": 8,
+      "by": "samuelaidoo45"
     },
     {
       "id": 50411515,
@@ -204,12 +332,36 @@
       "by": "zeristor"
     },
     {
+      "id": 50412554,
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "points": 35,
+      "comments": 2,
+      "by": "jaypatelani"
+    },
+    {
       "id": 50405274,
       "title": "An ode to livelyness analysis; SSA to registers",
       "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
       "points": 34,
       "comments": 0,
       "by": "xnacly"
+    },
+    {
+      "id": 50440668,
+      "title": "The U.S. Is Driving Away Young Scientists",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+      "points": 34,
+      "comments": 20,
+      "by": "digital55"
+    },
+    {
+      "id": 50410329,
+      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "points": 30,
+      "comments": 10,
+      "by": "benbreen"
     },
     {
       "id": 50411106,
@@ -234,6 +386,30 @@
       "points": 9,
       "comments": 1,
       "by": "oldnetguy"
+    },
+    {
+      "id": 50439448,
+      "title": "Let over Lambda\u201350 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "points": 7,
+      "comments": 0,
+      "by": "theanonymousone"
+    },
+    {
+      "id": 50431075,
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "url": "https://hannahilea.com/blog/daylight-clock/",
+      "points": 7,
+      "comments": 0,
+      "by": "evakhoury"
+    },
+    {
+      "id": 50426294,
+      "title": "Taking another shot at the cheap IP camera, part 2",
+      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+      "points": 7,
+      "comments": 0,
+      "by": "ericswpark"
     },
     {
       "id": 50428266,
