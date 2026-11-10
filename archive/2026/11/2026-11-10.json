@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T14:58:21+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-10T21:23:14+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50424581,
@@ -28,6 +28,14 @@
       "by": "munro"
     },
     {
+      "id": 50436640,
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "points": 669,
+      "comments": 233,
+      "by": "aloukissas"
+    },
+    {
       "id": 50427362,
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
@@ -36,12 +44,28 @@
       "by": "ocd"
     },
     {
-      "id": 50436640,
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "points": 474,
-      "comments": 173,
-      "by": "aloukissas"
+      "id": 50439193,
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "points": 531,
+      "comments": 168,
+      "by": "ilreb"
+    },
+    {
+      "id": 50442736,
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "points": 517,
+      "comments": 101,
+      "by": "p4bl0"
+    },
+    {
+      "id": 50441707,
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "points": 497,
+      "comments": 177,
+      "by": "skittleson"
     },
     {
       "id": 50429426,
@@ -60,6 +84,14 @@
       "by": "porridgeraisin"
     },
     {
+      "id": 50442426,
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "points": 357,
+      "comments": 48,
+      "by": "amlib"
+    },
+    {
       "id": 50426175,
       "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
@@ -76,20 +108,20 @@
       "by": "theanonymousone"
     },
     {
+      "id": 50438318,
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "points": 274,
+      "comments": 340,
+      "by": "plun9"
+    },
+    {
       "id": 50429024,
       "title": "Muse Ember: Our smallest, most efficient model",
       "url": "https://research.meta.ai/blog/muse-ember",
       "points": 259,
       "comments": 109,
       "by": "dvaplima"
-    },
-    {
-      "id": 50439193,
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "points": 259,
-      "comments": 97,
-      "by": "ilreb"
     },
     {
       "id": 50434310,
@@ -124,12 +156,28 @@
       "by": "lexandstuff"
     },
     {
+      "id": 50439695,
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "points": 226,
+      "comments": 249,
+      "by": "phaser"
+    },
+    {
       "id": 50432831,
       "title": "TPU 8tx and TPU 8i Max",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "points": 223,
       "comments": 67,
       "by": "_benx_"
+    },
+    {
+      "id": 50443427,
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "points": 212,
+      "comments": 53,
+      "by": "tosh"
     },
     {
       "id": 50434264,
@@ -148,12 +196,92 @@
       "by": "Curiositry"
     },
     {
+      "id": 50439284,
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "points": 194,
+      "comments": 139,
+      "by": "stevefan1999"
+    },
+    {
+      "id": 50443824,
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "points": 186,
+      "comments": 81,
+      "by": "speckx"
+    },
+    {
+      "id": 50382401,
+      "title": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "points": 183,
+      "comments": 76,
+      "by": "speckx"
+    },
+    {
+      "id": 50444129,
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "points": 171,
+      "comments": 181,
+      "by": "robertjfclarke"
+    },
+    {
+      "id": 50438480,
+      "title": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "points": 167,
+      "comments": 159,
+      "by": "FinnLobsien"
+    },
+    {
+      "id": 50443812,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "points": 160,
+      "comments": 45,
+      "by": "paulirish"
+    },
+    {
       "id": 50430621,
       "title": "CUI \u2013 Native UI components for C",
       "url": "https://yappologistic.github.io/CUI/",
       "points": 159,
       "comments": 84,
       "by": "hilti"
+    },
+    {
+      "id": 50441518,
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "points": 141,
+      "comments": 35,
+      "by": "leugim"
+    },
+    {
+      "id": 50441338,
+      "title": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "points": 135,
+      "comments": 29,
+      "by": "thatslast"
+    },
+    {
+      "id": 50443090,
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "points": 127,
+      "comments": 44,
+      "by": "pixelpoet"
+    },
+    {
+      "id": 50412554,
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "points": 115,
+      "comments": 68,
+      "by": "jaypatelani"
     },
     {
       "id": 50429430,
@@ -170,6 +298,22 @@
       "points": 111,
       "comments": 33,
       "by": "Ivoah"
+    },
+    {
+      "id": 50437242,
+      "title": "M John Harrison becomes first science fiction author to win the Booker",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "points": 107,
+      "comments": 85,
+      "by": "sorokod"
+    },
+    {
+      "id": 50443716,
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "points": 106,
+      "comments": 81,
+      "by": "Yorothegoat"
     },
     {
       "id": 50437752,
@@ -212,14 +356,6 @@
       "by": "Bluestein"
     },
     {
-      "id": 50439695,
-      "title": "Ableton Live 13",
-      "url": "https://www.ableton.com/en/live/",
-      "points": 90,
-      "comments": 98,
-      "by": "phaser"
-    },
-    {
       "id": 50439000,
       "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
       "url": "https://github.com/HolyArrs/HolyArrs",
@@ -234,6 +370,14 @@
       "points": 82,
       "comments": 18,
       "by": "theanonymousone"
+    },
+    {
+      "id": 50433216,
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "points": 81,
+      "comments": 35,
+      "by": "ingve"
     },
     {
       "id": 50429636,
@@ -292,6 +436,14 @@
       "by": "Element_"
     },
     {
+      "id": 50445013,
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "points": 48,
+      "comments": 18,
+      "by": "gmays"
+    },
+    {
       "id": 50426681,
       "title": "On Being an Engineer in 2026",
       "url": "https://twitter.com/shaharglazner/status/2119796029256032278",
@@ -300,12 +452,12 @@
       "by": "talboren"
     },
     {
-      "id": 50439284,
-      "title": "What's new in the .NET 11 runtime",
-      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "id": 50443587,
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
       "points": 45,
-      "comments": 11,
-      "by": "stevefan1999"
+      "comments": 7,
+      "by": "reasonableklout"
     },
     {
       "id": 50438377,
@@ -324,6 +476,14 @@
       "by": "samuelaidoo45"
     },
     {
+      "id": 50443714,
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "points": 40,
+      "comments": 4,
+      "by": "d-ramdass"
+    },
+    {
       "id": 50411515,
       "title": "Deuterium's Impact on OLED Displays (2024)",
       "url": "https://www.oled-info.com/deuteriums-impact-oled-displays",
@@ -332,12 +492,12 @@
       "by": "zeristor"
     },
     {
-      "id": 50412554,
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "id": 50444684,
+      "title": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
       "points": 35,
-      "comments": 2,
-      "by": "jaypatelani"
+      "comments": 3,
+      "by": "tomrittervg"
     },
     {
       "id": 50405274,
@@ -364,6 +524,30 @@
       "by": "benbreen"
     },
     {
+      "id": 50404969,
+      "title": "The planet Vulcan: a cautionary tale",
+      "url": "https://kevinboone.me/vulcan.html",
+      "points": 27,
+      "comments": 1,
+      "by": "andsoitis"
+    },
+    {
+      "id": 50445401,
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "points": 26,
+      "comments": 4,
+      "by": "NaOH"
+    },
+    {
+      "id": 50446219,
+      "title": "Sherman Anti-Trust Act (1890",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "points": 22,
+      "comments": 4,
+      "by": "hashmap"
+    },
+    {
       "id": 50411106,
       "title": "Never Gonna Print You Up",
       "url": "https://dixken.de/blog/never-gonna-print-you-up",
@@ -378,6 +562,14 @@
       "points": 16,
       "comments": 12,
       "by": "areoform"
+    },
+    {
+      "id": 50446246,
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "points": 12,
+      "comments": 1,
+      "by": "digital55"
     },
     {
       "id": 50425847,
@@ -410,6 +602,14 @@
       "points": 7,
       "comments": 0,
       "by": "ericswpark"
+    },
+    {
+      "id": 50410621,
+      "title": "What It Costs to Run 4 Apps on My Own Servers",
+      "url": "https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/",
+      "points": 7,
+      "comments": 0,
+      "by": "ghostfoxgod"
     },
     {
       "id": 50428266,
