@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-10](archive/2026/11/2026-11-10.md)
+### Latest: [2026-11-11](archive/2026/11/2026-11-11.md)
 
-Top 10 of 77 stories so far, last updated 2026-11-10 21:23 UTC. **12** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-11 06:22 UTC. **13** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) <sub>foldableflight.com</sub> | 1116 | [156](https://news.ycombinator.com/item?id=50424581) |
-| 2 | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) <sub>anthropic.com</sub> | 737 | [893](https://news.ycombinator.com/item?id=50429068) |
-| 3 | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) <sub>postalpro.usps.com</sub> | 680 | [345](https://news.ycombinator.com/item?id=50431058) |
-| 4 | [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) <sub>strandsagents.com</sub> | 669 | [233](https://news.ycombinator.com/item?id=50436640) |
-| 5 | [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) <sub>payments.ca</sub> | 559 | [321](https://news.ycombinator.com/item?id=50427362) |
-| 6 | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) <sub>deepmind.google</sub> | 531 | [168](https://news.ycombinator.com/item?id=50439193) |
-| 7 | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) <sub>neil.fraser.name</sub> | 517 | [101](https://news.ycombinator.com/item?id=50442736) |
-| 8 | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) <sub>docodethatmatters.com</sub> | 497 | [177](https://news.ycombinator.com/item?id=50441707) |
-| 9 | [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) <sub>github.com</sub> | 461 | [111](https://news.ycombinator.com/item?id=50429426) |
-| 10 | [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) <sub>e-means.github.io</sub> | 449 | [57](https://news.ycombinator.com/item?id=50429734) |
+| 1 | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) <sub>docodethatmatters.com</sub> | 835 | [298](https://news.ycombinator.com/item?id=50441707) |
+| 2 | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) <sub>neil.fraser.name</sub> | 756 | [169](https://news.ycombinator.com/item?id=50442736) |
+| 3 | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) <sub>deepmind.google</sub> | 606 | [181](https://news.ycombinator.com/item?id=50439193) |
+| 4 | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) <sub>evanxmerz.com</sub> | 467 | [457](https://news.ycombinator.com/item?id=50438318) |
+| 5 | [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) <sub>theautopian.com</sub> | 423 | [288](https://news.ycombinator.com/item?id=50445401) |
+| 6 | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) <sub>vulncheck.com</sub> | 370 | [169](https://news.ycombinator.com/item?id=50447074) |
+| 7 | [Starlink Mini 2](https://starlink.com/mini-2) <sub>starlink.com</sub> | 358 | [362](https://news.ycombinator.com/item?id=50444129) |
+| 8 | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) <sub>lwn.net</sub> | 354 | [207](https://news.ycombinator.com/item?id=50443824) |
+| 9 | [Val Town is winding down](https://blog.val.town/winding-down) <sub>blog.val.town</sub> | 352 | [91](https://news.ycombinator.com/item?id=50443427) |
+| 10 | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) <sub>github.com</sub> | 326 | [101](https://news.ycombinator.com/item?id=50443812) |
 <!-- digest:end -->
