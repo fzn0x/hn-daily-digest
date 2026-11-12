@@ -1,87 +1,143 @@
 {
   "date": "2026-11-12",
-  "updated_at": "2026-11-12T00:48:55+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-12T11:17:37+00:00",
+  "snapshots": 2,
   "stories": [
-    {
-      "id": 50452455,
-      "title": "My AI agents found an unmapped Maya site",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "points": 918,
-      "comments": 335,
-      "by": "eyvindn"
-    },
     {
       "id": 50450488,
       "title": "Tim Peters has died",
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "points": 817,
-      "comments": 86,
+      "points": 1234,
+      "comments": 135,
       "by": "ayhanfuat"
-    },
-    {
-      "id": 50456631,
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "points": 630,
-      "comments": 209,
-      "by": "super_linear"
-    },
-    {
-      "id": 50455394,
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "points": 396,
-      "comments": 196,
-      "by": "mbac32768"
     },
     {
       "id": 50459703,
       "title": "Nvidia is preparing to oust Jensen Huang",
       "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "points": 367,
-      "comments": 364,
+      "points": 1060,
+      "comments": 1419,
       "by": "jbredeche"
+    },
+    {
+      "id": 50452455,
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "points": 995,
+      "comments": 365,
+      "by": "eyvindn"
+    },
+    {
+      "id": 50456631,
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "points": 862,
+      "comments": 237,
+      "by": "super_linear"
     },
     {
       "id": 50458900,
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 315,
-      "comments": 292,
+      "points": 563,
+      "comments": 565,
       "by": "herpderperator"
+    },
+    {
+      "id": 50455394,
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "points": 499,
+      "comments": 238,
+      "by": "mbac32768"
+    },
+    {
+      "id": 50459745,
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "points": 449,
+      "comments": 58,
+      "by": "zenincognito"
+    },
+    {
+      "id": 50456791,
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "points": 444,
+      "comments": 135,
+      "by": "iamdelirium"
     },
     {
       "id": 50453288,
       "title": "Hyper-Realistic Sand with WebGL2",
       "url": "https://av.github.io/safe-sand/",
-      "points": 294,
-      "comments": 62,
+      "points": 391,
+      "comments": 74,
       "by": "everlier"
     },
     {
       "id": 50451903,
       "title": "Using voltage glitching to unleash the A100 in my mining card",
       "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "points": 257,
-      "comments": 104,
+      "points": 309,
+      "comments": 123,
       "by": "lae"
-    },
-    {
-      "id": 50456791,
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "points": 242,
-      "comments": 76,
-      "by": "iamdelirium"
     },
     {
       "id": 50452655,
       "title": "Can a Linear Program Do Weight-Space Programming?",
       "url": "https://nathan.rs/posts/weight-space-lp/",
-      "points": 236,
-      "comments": 35,
+      "points": 284,
+      "comments": 38,
       "by": "emschwartz"
+    },
+    {
+      "id": 50459485,
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "points": 261,
+      "comments": 53,
+      "by": "gslin"
+    },
+    {
+      "id": 50438261,
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "points": 257,
+      "comments": 61,
+      "by": "tosh"
+    },
+    {
+      "id": 50454625,
+      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "points": 245,
+      "comments": 95,
+      "by": "brownrout"
+    },
+    {
+      "id": 50458208,
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "points": 244,
+      "comments": 108,
+      "by": "ggcr"
+    },
+    {
+      "id": 50462177,
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "points": 222,
+      "comments": 106,
+      "by": "soheilpro"
+    },
+    {
+      "id": 50455633,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "points": 210,
+      "comments": 38,
+      "by": "zerop"
     },
     {
       "id": 50459776,
@@ -100,20 +156,20 @@
       "by": "linsomniac"
     },
     {
-      "id": 50454625,
-      "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "points": 161,
-      "comments": 71,
-      "by": "brownrout"
-    },
-    {
       "id": 50457230,
       "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
       "url": "https://termsheetplease.com/",
       "points": 157,
       "comments": 72,
       "by": "bolau"
+    },
+    {
+      "id": 50457618,
+      "title": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "points": 149,
+      "comments": 34,
+      "by": "cobbal"
     },
     {
       "id": 50459321,
@@ -124,20 +180,20 @@
       "by": "louiereederson"
     },
     {
-      "id": 50455633,
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "points": 143,
-      "comments": 24,
-      "by": "zerop"
+      "id": 50460154,
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "points": 113,
+      "comments": 44,
+      "by": "iceboundrock"
     },
     {
-      "id": 50458208,
-      "title": "Emacs in the Age of Magic",
-      "url": "https://commandlinesystems.com/magic.txt",
-      "points": 133,
-      "comments": 48,
-      "by": "ggcr"
+      "id": 50458166,
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "points": 111,
+      "comments": 26,
+      "by": "thefox96"
     },
     {
       "id": 50449440,
@@ -148,36 +204,28 @@
       "by": "tech234a"
     },
     {
-      "id": 50459485,
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "points": 95,
-      "comments": 18,
-      "by": "gslin"
+      "id": 50415162,
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "points": 98,
+      "comments": 44,
+      "by": "jatorre"
     },
     {
-      "id": 50459745,
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "points": 87,
-      "comments": 17,
-      "by": "zenincognito"
+      "id": 50425017,
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "points": 96,
+      "comments": 29,
+      "by": "orhunp_"
     },
     {
-      "id": 50457618,
-      "title": "The Utah Teapot",
-      "url": "https://graphics.cs.utah.edu/teapot/",
-      "points": 62,
-      "comments": 14,
-      "by": "cobbal"
-    },
-    {
-      "id": 50458166,
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "points": 52,
-      "comments": 18,
-      "by": "thefox96"
+      "id": 50428619,
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "points": 63,
+      "comments": 30,
+      "by": "acossta"
     },
     {
       "id": 50454995,
@@ -186,6 +234,14 @@
       "points": 49,
       "comments": 59,
       "by": "udit99"
+    },
+    {
+      "id": 50463540,
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "points": 47,
+      "comments": 19,
+      "by": "sysrpl"
     },
     {
       "id": 50457669,
@@ -204,6 +260,14 @@
       "by": "alanjm23"
     },
     {
+      "id": 50462375,
+      "title": "Lean Grimoire",
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "points": 41,
+      "comments": 8,
+      "by": "smilelamp"
+    },
+    {
       "id": 50433042,
       "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
       "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
@@ -212,12 +276,28 @@
       "by": "rmason"
     },
     {
-      "id": 50460154,
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "url": "https://github.com/tylertms/Stela",
+      "id": 50420905,
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "points": 33,
+      "comments": 8,
+      "by": "lermontov"
+    },
+    {
+      "id": 50463103,
+      "title": "Darling Development Update \u2013 Q4 2026",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
       "points": 27,
-      "comments": 10,
-      "by": "iceboundrock"
+      "comments": 6,
+      "by": "tech234a"
+    },
+    {
+      "id": 50438958,
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "url": "https://blog.benjamin.ie/legocam",
+      "points": 23,
+      "comments": 20,
+      "by": "benkelly"
     },
     {
       "id": 50435240,
@@ -234,6 +314,22 @@
       "points": 18,
       "comments": 0,
       "by": "nayak"
+    },
+    {
+      "id": 50465352,
+      "title": "Why Writing Correct Software Is Hard",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "points": 11,
+      "comments": 1,
+      "by": "AriFordsham"
+    },
+    {
+      "id": 50416606,
+      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+      "points": 7,
+      "comments": 0,
+      "by": "NaOH"
     },
     {
       "id": 50422216,
