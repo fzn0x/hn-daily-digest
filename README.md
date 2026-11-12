@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-11](archive/2026/11/2026-11-11.md)
+### Latest: [2026-11-12](archive/2026/11/2026-11-12.md)
 
-Top 10 of 56 stories so far, last updated 2026-11-11 17:10 UTC. **13** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-12 00:48 UTC. **14** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) <sub>docodethatmatters.com</sub> | 835 | [298](https://news.ycombinator.com/item?id=50441707) |
-| 2 | [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) <sub>neil.fraser.name</sub> | 756 | [169](https://news.ycombinator.com/item?id=50442736) |
-| 3 | [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) <sub>pietromiotti.com</sub> | 696 | [258](https://news.ycombinator.com/item?id=50452455) |
-| 4 | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) <sub>deepmind.google</sub> | 606 | [181](https://news.ycombinator.com/item?id=50439193) |
-| 5 | [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) <sub>theautopian.com</sub> | 540 | [373](https://news.ycombinator.com/item?id=50445401) |
-| 6 | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) <sub>evanxmerz.com</sub> | 467 | [457](https://news.ycombinator.com/item?id=50438318) |
-| 7 | [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) <sub>9to5mac.com</sub> | 448 | [464](https://news.ycombinator.com/item?id=50446520) |
-| 8 | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) <sub>vulncheck.com</sub> | 370 | [169](https://news.ycombinator.com/item?id=50447074) |
-| 9 | [Starlink Mini 2](https://starlink.com/mini-2) <sub>starlink.com</sub> | 358 | [362](https://news.ycombinator.com/item?id=50444129) |
-| 10 | [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) <sub>lwn.net</sub> | 354 | [207](https://news.ycombinator.com/item?id=50443824) |
+| 1 | [My AI agents found an unmapped Maya site](https://pietromiotti.com/latest/maya-site) <sub>pietromiotti.com</sub> | 918 | [335](https://news.ycombinator.com/item?id=50452455) |
+| 2 | [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) <sub>discuss.python.org</sub> | 817 | [86](https://news.ycombinator.com/item?id=50450488) |
+| 3 | [AWS emulator](https://github.com/aws/aws-emulator) <sub>github.com</sub> | 630 | [209](https://news.ycombinator.com/item?id=50456631) |
+| 4 | [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) <sub>michael.bacarella.com</sub> | 396 | [196](https://news.ycombinator.com/item?id=50455394) |
+| 5 | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) <sub>wsj.com</sub> | 367 | [364](https://news.ycombinator.com/item?id=50459703) |
+| 6 | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) <sub>cbsnews.com</sub> | 315 | [292](https://news.ycombinator.com/item?id=50458900) |
+| 7 | [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) <sub>av.github.io</sub> | 294 | [62](https://news.ycombinator.com/item?id=50453288) |
+| 8 | [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) <sub>blog.kate.land</sub> | 257 | [104](https://news.ycombinator.com/item?id=50451903) |
+| 9 | [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) <sub>blog.google</sub> | 242 | [76](https://news.ycombinator.com/item?id=50456791) |
+| 10 | [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/) <sub>nathan.rs</sub> | 236 | [35](https://news.ycombinator.com/item?id=50452655) |
 <!-- digest:end -->
