@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-12](archive/2026/11/2026-11-12.md)
 
-Top 10 of 42 stories so far, last updated 2026-11-12 11:17 UTC. **14** days archived.
+Top 10 of 69 stories so far, last updated 2026-11-12 19:56 UTC. **14** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) <sub>discuss.python.org</sub> | 1234 | [135](https://news.ycombinator.com/item?id=50450488) |
-| 2 | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) <sub>wsj.com</sub> | 1060 | [1419](https://news.ycombinator.com/item?id=50459703) |
-| 3 | [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) <sub>pietromiotti.com</sub> | 995 | [365](https://news.ycombinator.com/item?id=50452455) |
-| 4 | [AWS emulator](https://github.com/aws/aws-emulator) <sub>github.com</sub> | 862 | [237](https://news.ycombinator.com/item?id=50456631) |
-| 5 | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) <sub>cbsnews.com</sub> | 563 | [565](https://news.ycombinator.com/item?id=50458900) |
-| 6 | [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) <sub>michael.bacarella.com</sub> | 499 | [238](https://news.ycombinator.com/item?id=50455394) |
-| 7 | [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) <sub>mcmillen.dev</sub> | 449 | [58](https://news.ycombinator.com/item?id=50459745) |
-| 8 | [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) <sub>blog.google</sub> | 444 | [135](https://news.ycombinator.com/item?id=50456791) |
-| 9 | [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) <sub>av.github.io</sub> | 391 | [74](https://news.ycombinator.com/item?id=50453288) |
-| 10 | [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) <sub>blog.kate.land</sub> | 309 | [123](https://news.ycombinator.com/item?id=50451903) |
+| 1 | [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) <sub>apnews.com</sub> | 2095 | [2118](https://news.ycombinator.com/item?id=50467087) |
+| 2 | [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) <sub>discuss.python.org</sub> | 1234 | [135](https://news.ycombinator.com/item?id=50450488) |
+| 3 | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) <sub>wsj.com</sub> | 1060 | [1419](https://news.ycombinator.com/item?id=50459703) |
+| 4 | [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) <sub>pietromiotti.com</sub> | 995 | [365](https://news.ycombinator.com/item?id=50452455) |
+| 5 | [AWS emulator](https://github.com/aws/aws-emulator) <sub>github.com</sub> | 862 | [237](https://news.ycombinator.com/item?id=50456631) |
+| 6 | [Anthropic IPO](https://ipo.anthropic.com/us/) <sub>ipo.anthropic.com</sub> | 697 | [702](https://news.ycombinator.com/item?id=50465829) |
+| 7 | [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) <sub>github.com</sub> | 603 | [136](https://news.ycombinator.com/item?id=50438261) |
+| 8 | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) <sub>cbsnews.com</sub> | 563 | [565](https://news.ycombinator.com/item?id=50458900) |
+| 9 | [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) <sub>michael.bacarella.com</sub> | 499 | [238](https://news.ycombinator.com/item?id=50455394) |
+| 10 | [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) <sub>mcmillen.dev</sub> | 449 | [58](https://news.ycombinator.com/item?id=50459745) |
 <!-- digest:end -->
