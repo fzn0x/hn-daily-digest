@@ -1,47 +1,79 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T01:52:29+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-13T11:08:20+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50467087,
       "title": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "points": 2955,
-      "comments": 2795,
+      "points": 3598,
+      "comments": 3168,
       "by": "lldb"
     },
     {
       "id": 50465829,
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
-      "points": 821,
-      "comments": 806,
+      "points": 941,
+      "comments": 869,
       "by": "josephljohnston"
     },
     {
       "id": 50471731,
       "title": "Service degradation on Microsoft 365",
       "url": "https://status.cloud.microsoft/",
-      "points": 511,
-      "comments": 466,
+      "points": 922,
+      "comments": 800,
       "by": "dkpk"
-    },
-    {
-      "id": 50471431,
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "points": 464,
-      "comments": 297,
-      "by": "dvaplima"
     },
     {
       "id": 50472038,
       "title": "Rust 1.100",
       "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "points": 421,
-      "comments": 172,
+      "points": 701,
+      "comments": 262,
       "by": "mbStavola"
+    },
+    {
+      "id": 50477231,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "points": 614,
+      "comments": 455,
+      "by": "lavendermon"
+    },
+    {
+      "id": 50470488,
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "points": 539,
+      "comments": 184,
+      "by": "simpsoka"
+    },
+    {
+      "id": 50471431,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 532,
+      "comments": 334,
+      "by": "dvaplima"
+    },
+    {
+      "id": 50472260,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 422,
+      "comments": 117,
+      "by": "jonbaer"
+    },
+    {
+      "id": 50468888,
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "points": 380,
+      "comments": 135,
+      "by": "mrashad74"
     },
     {
       "id": 50465352,
@@ -52,52 +84,76 @@
       "by": "AriFordsham"
     },
     {
-      "id": 50470488,
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "points": 341,
-      "comments": 138,
-      "by": "simpsoka"
-    },
-    {
-      "id": 50472260,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "points": 304,
-      "comments": 72,
-      "by": "jonbaer"
-    },
-    {
-      "id": 50468888,
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "points": 279,
-      "comments": 95,
-      "by": "mrashad74"
-    },
-    {
-      "id": 50467618,
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "points": 239,
-      "comments": 82,
-      "by": "klaussilveira"
+      "id": 50478609,
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "points": 323,
+      "comments": 230,
+      "by": "player85"
     },
     {
       "id": 50472490,
       "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
       "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "points": 199,
-      "comments": 94,
+      "points": 320,
+      "comments": 131,
       "by": "cybermango"
+    },
+    {
+      "id": 50473190,
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "points": 290,
+      "comments": 311,
+      "by": "jbredeche"
+    },
+    {
+      "id": 50467618,
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "points": 274,
+      "comments": 102,
+      "by": "klaussilveira"
+    },
+    {
+      "id": 50475713,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "points": 264,
+      "comments": 74,
+      "by": "sroussey"
     },
     {
       "id": 50467460,
       "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
       "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "points": 187,
-      "comments": 2,
+      "points": 221,
+      "comments": 6,
       "by": "dverlaeckt80"
+    },
+    {
+      "id": 50474361,
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "points": 215,
+      "comments": 31,
+      "by": "kermatt"
+    },
+    {
+      "id": 50471761,
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "points": 198,
+      "comments": 38,
+      "by": "ozirus"
+    },
+    {
+      "id": 50478515,
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "points": 194,
+      "comments": 99,
+      "by": "inatreecrown2"
     },
     {
       "id": 50467297,
@@ -116,28 +172,44 @@
       "by": "firloop"
     },
     {
-      "id": 50471761,
-      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "points": 145,
-      "comments": 20,
-      "by": "ozirus"
-    },
-    {
-      "id": 50474361,
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "points": 128,
-      "comments": 16,
-      "by": "kermatt"
-    },
-    {
       "id": 50458849,
       "title": "Relax: JIT compiler for Rust to reduce build times",
       "url": "https://makepad.github.io/relax/",
-      "points": 118,
-      "comments": 50,
+      "points": 163,
+      "comments": 76,
       "by": "adamnemecek"
+    },
+    {
+      "id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "points": 137,
+      "comments": 86,
+      "by": "__vivek"
+    },
+    {
+      "id": 50479098,
+      "title": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "points": 122,
+      "comments": 64,
+      "by": "TechTechTech"
+    },
+    {
+      "id": 50477649,
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "points": 111,
+      "comments": 74,
+      "by": "sjdh76"
+    },
+    {
+      "id": 50471650,
+      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "points": 108,
+      "comments": 28,
+      "by": "miguelrios"
     },
     {
       "id": 50468944,
@@ -148,6 +220,14 @@
       "by": "Qision"
     },
     {
+      "id": 50477714,
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "points": 101,
+      "comments": 29,
+      "by": "sammatilda"
+    },
+    {
       "id": 50474311,
       "title": "AI is turning Apple's app review process into a nightmare for synth developers",
       "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
@@ -156,12 +236,36 @@
       "by": "anigbrowl"
     },
     {
-      "id": 50471650,
-      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "points": 76,
-      "comments": 16,
-      "by": "miguelrios"
+      "id": 50479721,
+      "title": "TSMC Hacked",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+      "points": 70,
+      "comments": 9,
+      "by": "gmays"
+    },
+    {
+      "id": 50479045,
+      "title": "Microsoft says attempts to fix global outage not going 'as expected'",
+      "url": "https://www.bbc.com/news/live/cq5y10ge3dp3t",
+      "points": 68,
+      "comments": 41,
+      "by": "saikatsg"
+    },
+    {
+      "id": 50481220,
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "points": 64,
+      "comments": 44,
+      "by": "cornfieldlabs"
+    },
+    {
+      "id": 50460263,
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "url": "https://github.com/jjba23/sift",
+      "points": 59,
+      "comments": 8,
+      "by": "jjba23"
     },
     {
       "id": 50459508,
@@ -172,12 +276,12 @@
       "by": "gumby"
     },
     {
-      "id": 50475713,
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "points": 42,
-      "comments": 12,
-      "by": "sroussey"
+      "id": 50471281,
+      "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+      "url": null,
+      "points": 46,
+      "comments": 11,
+      "by": "alirezamshi"
     },
     {
       "id": 50466410,
@@ -188,20 +292,20 @@
       "by": "frostbyte7"
     },
     {
-      "id": 50471281,
-      "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
-      "url": null,
-      "points": 37,
-      "comments": 9,
-      "by": "alirezamshi"
-    },
-    {
       "id": 50472505,
       "title": "Distributed Ray Tracer",
       "url": "https://ray.hatchet.run",
       "points": 36,
       "comments": 12,
       "by": "juliusgeo"
+    },
+    {
+      "id": 50480480,
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "points": 35,
+      "comments": 32,
+      "by": "jonbaer"
     },
     {
       "id": 50439283,
@@ -226,14 +330,6 @@
       "points": 15,
       "comments": 0,
       "by": "surprisetalk"
-    },
-    {
-      "id": 50460263,
-      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "url": "https://github.com/jjba23/sift",
-      "points": 10,
-      "comments": 0,
-      "by": "jjba23"
     },
     {
       "id": 50473888,
