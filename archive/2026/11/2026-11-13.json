@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T01:52:29+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50467087,
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "points": 2955,
+      "comments": 2795,
+      "by": "lldb"
+    },
+    {
+      "id": 50465829,
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "points": 821,
+      "comments": 806,
+      "by": "josephljohnston"
+    },
+    {
+      "id": 50471731,
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "points": 511,
+      "comments": 466,
+      "by": "dkpk"
+    },
+    {
+      "id": 50471431,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 464,
+      "comments": 297,
+      "by": "dvaplima"
+    },
+    {
+      "id": 50472038,
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "points": 421,
+      "comments": 172,
+      "by": "mbStavola"
+    },
+    {
+      "id": 50465352,
+      "title": "Writing correct software is hard and math alone won\u2019t help us (2016)",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "points": 358,
+      "comments": 168,
+      "by": "AriFordsham"
+    },
+    {
+      "id": 50470488,
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "points": 341,
+      "comments": 138,
+      "by": "simpsoka"
+    },
+    {
+      "id": 50472260,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 304,
+      "comments": 72,
+      "by": "jonbaer"
+    },
+    {
+      "id": 50468888,
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "points": 279,
+      "comments": 95,
+      "by": "mrashad74"
+    },
+    {
+      "id": 50467618,
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "points": 239,
+      "comments": 82,
+      "by": "klaussilveira"
+    },
+    {
+      "id": 50472490,
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "points": 199,
+      "comments": 94,
+      "by": "cybermango"
+    },
+    {
+      "id": 50467460,
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "points": 187,
+      "comments": 2,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50467297,
+      "title": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "points": 170,
+      "comments": 163,
+      "by": "maitland"
+    },
+    {
+      "id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "points": 170,
+      "comments": 47,
+      "by": "firloop"
+    },
+    {
+      "id": 50471761,
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "points": 145,
+      "comments": 20,
+      "by": "ozirus"
+    },
+    {
+      "id": 50474361,
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "points": 128,
+      "comments": 16,
+      "by": "kermatt"
+    },
+    {
+      "id": 50458849,
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "points": 118,
+      "comments": 50,
+      "by": "adamnemecek"
+    },
+    {
+      "id": 50468944,
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "url": "https://github.com/chocoford/ExcalidrawZ",
+      "points": 107,
+      "comments": 24,
+      "by": "Qision"
+    },
+    {
+      "id": 50474311,
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "points": 96,
+      "comments": 88,
+      "by": "anigbrowl"
+    },
+    {
+      "id": 50471650,
+      "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "points": 76,
+      "comments": 16,
+      "by": "miguelrios"
+    },
+    {
+      "id": 50459508,
+      "title": "Words of warning about radiocarbon dating medieval human bones",
+      "url": "https://www.nature.com/articles/s40494-026-02958-x",
+      "points": 55,
+      "comments": 9,
+      "by": "gumby"
+    },
+    {
+      "id": 50475713,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "points": 42,
+      "comments": 12,
+      "by": "sroussey"
+    },
+    {
+      "id": 50466410,
+      "title": "Adapting CPython for Yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "points": 42,
+      "comments": 2,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50471281,
+      "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+      "url": null,
+      "points": 37,
+      "comments": 9,
+      "by": "alirezamshi"
+    },
+    {
+      "id": 50472505,
+      "title": "Distributed Ray Tracer",
+      "url": "https://ray.hatchet.run",
+      "points": 36,
+      "comments": 12,
+      "by": "juliusgeo"
+    },
+    {
+      "id": 50439283,
+      "title": "Safety in Algae Home Experiments",
+      "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+      "points": 28,
+      "comments": 2,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50476586,
+      "title": "Chicago schools to Google \u2013 we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "points": 25,
+      "comments": 4,
+      "by": "thunderbong"
+    },
+    {
+      "id": 50454700,
+      "title": "Before Pixels: Speed-Minder",
+      "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "points": 15,
+      "comments": 0,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50460263,
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "url": "https://github.com/jjba23/sift",
+      "points": 10,
+      "comments": 0,
+      "by": "jjba23"
+    },
+    {
+      "id": 50473888,
+      "title": "Announcement: Conductor Is Back",
+      "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+      "points": 8,
+      "comments": 1,
+      "by": "jahala"
+    }
+  ]
+}

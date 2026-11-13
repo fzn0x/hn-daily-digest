@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-12](archive/2026/11/2026-11-12.md)
+### Latest: [2026-11-13](archive/2026/11/2026-11-13.md)
 
-Top 10 of 69 stories so far, last updated 2026-11-12 19:56 UTC. **14** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-13 01:52 UTC. **15** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) <sub>apnews.com</sub> | 2095 | [2118](https://news.ycombinator.com/item?id=50467087) |
-| 2 | [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) <sub>discuss.python.org</sub> | 1234 | [135](https://news.ycombinator.com/item?id=50450488) |
-| 3 | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) <sub>wsj.com</sub> | 1060 | [1419](https://news.ycombinator.com/item?id=50459703) |
-| 4 | [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) <sub>pietromiotti.com</sub> | 995 | [365](https://news.ycombinator.com/item?id=50452455) |
-| 5 | [AWS emulator](https://github.com/aws/aws-emulator) <sub>github.com</sub> | 862 | [237](https://news.ycombinator.com/item?id=50456631) |
-| 6 | [Anthropic IPO](https://ipo.anthropic.com/us/) <sub>ipo.anthropic.com</sub> | 697 | [702](https://news.ycombinator.com/item?id=50465829) |
-| 7 | [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) <sub>github.com</sub> | 603 | [136](https://news.ycombinator.com/item?id=50438261) |
-| 8 | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) <sub>cbsnews.com</sub> | 563 | [565](https://news.ycombinator.com/item?id=50458900) |
-| 9 | [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) <sub>michael.bacarella.com</sub> | 499 | [238](https://news.ycombinator.com/item?id=50455394) |
-| 10 | [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) <sub>mcmillen.dev</sub> | 449 | [58](https://news.ycombinator.com/item?id=50459745) |
+| 1 | [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) <sub>apnews.com</sub> | 2955 | [2795](https://news.ycombinator.com/item?id=50467087) |
+| 2 | [Anthropic IPO](https://ipo.anthropic.com/us/) <sub>ipo.anthropic.com</sub> | 821 | [806](https://news.ycombinator.com/item?id=50465829) |
+| 3 | [Service degradation on Microsoft 365](https://status.cloud.microsoft/) <sub>status.cloud.microsoft</sub> | 511 | [466](https://news.ycombinator.com/item?id=50471731) |
+| 4 | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) <sub>blog.google</sub> | 464 | [297](https://news.ycombinator.com/item?id=50471431) |
+| 5 | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) <sub>blog.rust-lang.org</sub> | 421 | [172](https://news.ycombinator.com/item?id=50472038) |
+| 6 | [Writing correct software is hard and math alone won’t help us (2016)](https://pron.github.io/posts/correctness-and-complexity) <sub>pron.github.io</sub> | 358 | [168](https://news.ycombinator.com/item?id=50465352) |
+| 7 | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) <sub>github.com</sub> | 341 | [138](https://news.ycombinator.com/item?id=50470488) |
+| 8 | [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) <sub>antigravity.google</sub> | 304 | [72](https://news.ycombinator.com/item?id=50472260) |
+| 9 | [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) <sub>github.com</sub> | 279 | [95](https://news.ycombinator.com/item?id=50468888) |
+| 10 | [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64) <sub>moddb.com</sub> | 239 | [82](https://news.ycombinator.com/item?id=50467618) |
 <!-- digest:end -->
