@@ -1,15 +1,23 @@
 {
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T10:29:30+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-14T18:05:46+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50489641,
       "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
       "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "points": 1546,
-      "comments": 1173,
+      "points": 1622,
+      "comments": 1251,
       "by": "zulln"
+    },
+    {
+      "id": 50493251,
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "points": 952,
+      "comments": 576,
+      "by": "speckx"
     },
     {
       "id": 50474959,
@@ -20,20 +28,44 @@
       "by": "scottjg"
     },
     {
-      "id": 50493251,
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "points": 581,
-      "comments": 337,
-      "by": "speckx"
-    },
-    {
       "id": 50482379,
       "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
       "points": 449,
       "comments": 308,
       "by": "voxleone"
+    },
+    {
+      "id": 50491423,
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "points": 384,
+      "comments": 165,
+      "by": "vinhnx"
+    },
+    {
+      "id": 50440709,
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "points": 384,
+      "comments": 231,
+      "by": "casi"
+    },
+    {
+      "id": 50493062,
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "points": 380,
+      "comments": 64,
+      "by": "cobychapple"
+    },
+    {
+      "id": 50493904,
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "points": 362,
+      "comments": 123,
+      "by": "maximilianburke"
     },
     {
       "id": 50486748,
@@ -68,14 +100,6 @@
       "by": "BobaFloutist"
     },
     {
-      "id": 50493062,
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "points": 267,
-      "comments": 43,
-      "by": "cobychapple"
-    },
-    {
       "id": 50490593,
       "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
       "url": "https://orcasairband.com/",
@@ -92,12 +116,12 @@
       "by": "halcdev"
     },
     {
-      "id": 50491423,
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "points": 258,
-      "comments": 112,
-      "by": "vinhnx"
+      "id": 50496602,
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "points": 251,
+      "comments": 97,
+      "by": "gslin"
     },
     {
       "id": 50488325,
@@ -106,6 +130,14 @@
       "points": 238,
       "comments": 158,
       "by": "simonebrunozzi"
+    },
+    {
+      "id": 50491980,
+      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "points": 226,
+      "comments": 71,
+      "by": "Retro_Dev"
     },
     {
       "id": 50487228,
@@ -132,6 +164,30 @@
       "by": "gumby"
     },
     {
+      "id": 50491545,
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "points": 198,
+      "comments": 24,
+      "by": "gvsi"
+    },
+    {
+      "id": 50491830,
+      "title": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "points": 193,
+      "comments": 110,
+      "by": "gvieri"
+    },
+    {
+      "id": 50496976,
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "points": 177,
+      "comments": 28,
+      "by": "mrkn1"
+    },
+    {
       "id": 50484650,
       "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
       "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
@@ -156,28 +212,12 @@
       "by": "defly"
     },
     {
-      "id": 50491545,
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "points": 148,
-      "comments": 21,
-      "by": "gvsi"
-    },
-    {
-      "id": 50491980,
-      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "points": 146,
-      "comments": 43,
-      "by": "Retro_Dev"
-    },
-    {
-      "id": 50491830,
-      "title": "What happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "points": 144,
-      "comments": 74,
-      "by": "gvieri"
+      "id": 50497009,
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "points": 158,
+      "comments": 79,
+      "by": "giuliomagnifico"
     },
     {
       "id": 50484007,
@@ -212,14 +252,6 @@
       "by": "gmays"
     },
     {
-      "id": 50493904,
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev/",
-      "points": 117,
-      "comments": 22,
-      "by": "maximilianburke"
-    },
-    {
       "id": 50491400,
       "title": "How Not to Build a Music Player",
       "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
@@ -244,12 +276,60 @@
       "by": "billybuckwheat"
     },
     {
+      "id": 50441444,
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "points": 101,
+      "comments": 69,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50497892,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "points": 101,
+      "comments": 35,
+      "by": "rbanffy"
+    },
+    {
+      "id": 50498063,
+      "title": "Italy fines Meta \u20ac805M over photo privacy",
+      "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+      "points": 99,
+      "comments": 53,
+      "by": "jruohonen"
+    },
+    {
       "id": 50487605,
       "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
       "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
       "points": 88,
       "comments": 42,
       "by": "dethmasque"
+    },
+    {
+      "id": 50497132,
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "points": 85,
+      "comments": 14,
+      "by": "snipedbywifi"
+    },
+    {
+      "id": 50497155,
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "points": 83,
+      "comments": 39,
+      "by": "wondersky"
+    },
+    {
+      "id": 50496811,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "points": 76,
+      "comments": 19,
+      "by": "acossta"
     },
     {
       "id": 50483959,
@@ -260,12 +340,44 @@
       "by": "marc__1"
     },
     {
-      "id": 50440709,
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "points": 48,
-      "comments": 29,
-      "by": "casi"
+      "id": 50478632,
+      "title": "Let's Write a PostScript Interpreter",
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "points": 67,
+      "comments": 11,
+      "by": "RebelPotato"
+    },
+    {
+      "id": 50497900,
+      "title": "Formalizing US Tax Code (Using Lean)",
+      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+      "points": 61,
+      "comments": 27,
+      "by": "dnw"
+    },
+    {
+      "id": 50497147,
+      "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "points": 50,
+      "comments": 17,
+      "by": "paul_nameless"
+    },
+    {
+      "id": 50496885,
+      "title": "A visual explanation of reinforcement learning",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "points": 43,
+      "comments": 2,
+      "by": "aatish"
+    },
+    {
+      "id": 50467278,
+      "title": "Testing a Trash Can Faraday Cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "points": 40,
+      "comments": 22,
+      "by": "torutofu"
     },
     {
       "id": 50444761,
@@ -276,12 +388,36 @@
       "by": "0xdeadf1sh"
     },
     {
+      "id": 50497137,
+      "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "points": 34,
+      "comments": 9,
+      "by": "fursoy"
+    },
+    {
       "id": 50494696,
       "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
       "url": null,
       "points": 24,
       "comments": 26,
       "by": "shnock"
+    },
+    {
+      "id": 50416011,
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "points": 24,
+      "comments": 1,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50497589,
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "points": 22,
+      "comments": 0,
+      "by": "VaibhaavTiwari"
     },
     {
       "id": 50462975,
@@ -300,6 +436,14 @@
       "by": "JDevlieghere"
     },
     {
+      "id": 50465926,
+      "title": "Bilingualism and Denaskuleco",
+      "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+      "points": 16,
+      "comments": 12,
+      "by": "surprisetalk"
+    },
+    {
       "id": 50492456,
       "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
       "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
@@ -308,12 +452,36 @@
       "by": "kaycebasques"
     },
     {
+      "id": 50499017,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "points": 14,
+      "comments": 1,
+      "by": "armcat"
+    },
+    {
+      "id": 50467987,
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "url": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "points": 12,
+      "comments": 1,
+      "by": "DASD"
+    },
+    {
       "id": 50491295,
       "title": "Lying to Zed to get its remote server running on FreeBSD",
       "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
       "points": 11,
       "comments": 3,
       "by": "arch1e"
+    },
+    {
+      "id": 50498073,
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+      "points": 8,
+      "comments": 0,
+      "by": "fagnerbrack"
     },
     {
       "id": 50492141,
