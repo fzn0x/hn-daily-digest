@@ -1,15 +1,23 @@
 {
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T16:22:02+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-15T22:51:20+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50500963,
       "title": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
-      "points": 1456,
-      "comments": 981,
+      "points": 1616,
+      "comments": 1188,
       "by": "ls612"
+    },
+    {
+      "id": 50507303,
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "points": 1014,
+      "comments": 561,
+      "by": "jcubic"
     },
     {
       "id": 50499017,
@@ -36,6 +44,14 @@
       "by": "mrkn1"
     },
     {
+      "id": 50506180,
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "points": 440,
+      "comments": 189,
+      "by": "JumpCrisscross"
+    },
+    {
       "id": 50501631,
       "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
       "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
@@ -52,6 +68,14 @@
       "by": "umerf"
     },
     {
+      "id": 50506719,
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "points": 373,
+      "comments": 202,
+      "by": "MacAnorak"
+    },
+    {
       "id": 50502988,
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
@@ -60,12 +84,28 @@
       "by": "ybathaee"
     },
     {
+      "id": 50463399,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "points": 277,
+      "comments": 145,
+      "by": "envoked"
+    },
+    {
       "id": 50501594,
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "points": 271,
       "comments": 142,
       "by": "Skyfall106"
+    },
+    {
+      "id": 50509411,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "points": 270,
+      "comments": 137,
+      "by": "DeepLogin"
     },
     {
       "id": 50497892,
@@ -92,12 +132,12 @@
       "by": "VaibhaavTiwari"
     },
     {
-      "id": 50507303,
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "points": 204,
-      "comments": 139,
-      "by": "jcubic"
+      "id": 50505271,
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "points": 212,
+      "comments": 141,
+      "by": "Skyfall106"
     },
     {
       "id": 50441444,
@@ -116,12 +156,20 @@
       "by": "acossta"
     },
     {
-      "id": 50506180,
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "points": 172,
-      "comments": 64,
-      "by": "JumpCrisscross"
+      "id": 50506376,
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "points": 184,
+      "comments": 23,
+      "by": "vismit2000"
+    },
+    {
+      "id": 50506894,
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "points": 175,
+      "comments": 88,
+      "by": "ksec"
     },
     {
       "id": 50503255,
@@ -132,20 +180,20 @@
       "by": "nobody9999"
     },
     {
-      "id": 50506719,
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "points": 167,
-      "comments": 87,
-      "by": "MacAnorak"
-    },
-    {
       "id": 50503465,
       "title": "My favourite modern NES games",
       "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
       "points": 166,
       "comments": 23,
       "by": "jordigh"
+    },
+    {
+      "id": 50507553,
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "points": 159,
+      "comments": 81,
+      "by": "nyc111"
     },
     {
       "id": 50497132,
@@ -156,20 +204,36 @@
       "by": "snipedbywifi"
     },
     {
-      "id": 50505271,
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "points": 134,
-      "comments": 88,
-      "by": "Skyfall106"
-    },
-    {
       "id": 50471874,
       "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
       "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
       "points": 130,
       "comments": 76,
       "by": "NaOH"
+    },
+    {
+      "id": 50509308,
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "points": 130,
+      "comments": 41,
+      "by": "nharada"
+    },
+    {
+      "id": 50509023,
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "points": 117,
+      "comments": 87,
+      "by": "gumby"
+    },
+    {
+      "id": 50481321,
+      "title": "What thousands of conversations look like inside a language model",
+      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "points": 104,
+      "comments": 29,
+      "by": "josip208"
     },
     {
       "id": 50504718,
@@ -180,20 +244,28 @@
       "by": "num42"
     },
     {
+      "id": 50506588,
+      "title": "A NES emulator written in Odin",
+      "url": "https://lucypero.com/lucynes.html",
+      "points": 96,
+      "comments": 34,
+      "by": "frostbyte7"
+    },
+    {
+      "id": 50510005,
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "url": "https://arkanumdata.com/research/house-trades",
+      "points": 92,
+      "comments": 96,
+      "by": "Bluestein"
+    },
+    {
       "id": 50453901,
       "title": "Seagate's new hybrid drive raises some old questions",
       "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
       "points": 91,
       "comments": 41,
       "by": "PaulHoule"
-    },
-    {
-      "id": 50506376,
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "points": 87,
-      "comments": 1,
-      "by": "vismit2000"
     },
     {
       "id": 50482222,
@@ -220,20 +292,60 @@
       "by": "torutofu"
     },
     {
-      "id": 50506894,
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "points": 71,
-      "comments": 22,
-      "by": "ksec"
-    },
-    {
       "id": 50484234,
       "title": "Semicircle Packing",
       "url": "https://rorz.io/writing/semicircle-packing",
       "points": 69,
       "comments": 8,
       "by": "sarreph"
+    },
+    {
+      "id": 50508715,
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "points": 67,
+      "comments": 41,
+      "by": "molenzwiebel"
+    },
+    {
+      "id": 50467539,
+      "title": "20 Years of Pyrolog",
+      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "points": 66,
+      "comments": 4,
+      "by": "lumpa"
+    },
+    {
+      "id": 50509837,
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "points": 63,
+      "comments": 14,
+      "by": "bcye"
+    },
+    {
+      "id": 50488916,
+      "title": "Your room can be as bright as the outdoors (2019)",
+      "url": "https://www.benkuhn.net/lux/",
+      "points": 61,
+      "comments": 41,
+      "by": "mday404"
+    },
+    {
+      "id": 50510442,
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "points": 60,
+      "comments": 22,
+      "by": "jonbaer"
+    },
+    {
+      "id": 50452621,
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "points": 59,
+      "comments": 15,
+      "by": "the-mitr"
     },
     {
       "id": 50448895,
@@ -244,20 +356,20 @@
       "by": "wmchen"
     },
     {
-      "id": 50481321,
-      "title": "What thousands of conversations look like inside a language model",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "points": 56,
-      "comments": 18,
-      "by": "josip208"
-    },
-    {
       "id": 50452037,
       "title": "Open-Source HF Communications for Remote Communities and Experimenters",
       "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
       "points": 55,
       "comments": 5,
       "by": "tejtm"
+    },
+    {
+      "id": 50509416,
+      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "points": 52,
+      "comments": 19,
+      "by": "gregsadetsky"
     },
     {
       "id": 50503588,
@@ -276,12 +388,12 @@
       "by": "nephihaha"
     },
     {
-      "id": 50506588,
-      "title": "A NES emulator written in Odin",
-      "url": "https://lucypero.com/lucynes.html",
-      "points": 47,
-      "comments": 4,
-      "by": "frostbyte7"
+      "id": 50510799,
+      "title": "Your Agent Will Pick the Hackable One",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "points": 49,
+      "comments": 29,
+      "by": "tensafefrogs"
     },
     {
       "id": 50507206,
@@ -292,6 +404,14 @@
       "by": "rbanffy"
     },
     {
+      "id": 50509972,
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "points": 40,
+      "comments": 6,
+      "by": "coinfused"
+    },
+    {
       "id": 50478701,
       "title": "Memory Safety Bugs in Rust Standard Library",
       "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
@@ -300,12 +420,28 @@
       "by": "pjmlp"
     },
     {
+      "id": 50465676,
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "points": 38,
+      "comments": 17,
+      "by": "ezrasu"
+    },
+    {
       "id": 50483431,
       "title": "500 Lines or Less A 3D Modeller",
       "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
       "points": 37,
       "comments": 4,
       "by": "myth_drannon"
+    },
+    {
+      "id": 50468445,
+      "title": "Bullet Dodged",
+      "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
+      "points": 34,
+      "comments": 28,
+      "by": "surprisetalk"
     },
     {
       "id": 50455732,
@@ -332,20 +468,20 @@
       "by": "ireflect"
     },
     {
+      "id": 50510296,
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "points": 30,
+      "comments": 7,
+      "by": "ranger_danger"
+    },
+    {
       "id": 50481056,
       "title": "Strictly monotonic timestamps and gapless sequences in Rust",
       "url": "https://tsoracle.rs/",
       "points": 28,
       "comments": 14,
       "by": "znano"
-    },
-    {
-      "id": 50463399,
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "points": 28,
-      "comments": 6,
-      "by": "envoked"
     },
     {
       "id": 50504072,
@@ -388,12 +524,20 @@
       "by": "NaOH"
     },
     {
-      "id": 50507553,
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "points": 18,
-      "comments": 1,
-      "by": "nyc111"
+      "id": 50511395,
+      "title": "Old Bitly Links Are Being Hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "points": 22,
+      "comments": 7,
+      "by": "hspeiser"
+    },
+    {
+      "id": 50511072,
+      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "points": 21,
+      "comments": 9,
+      "by": "rexbee"
     },
     {
       "id": 50503930,
@@ -410,6 +554,14 @@
       "points": 17,
       "comments": 4,
       "by": "speckx"
+    },
+    {
+      "id": 50465522,
+      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+      "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
+      "points": 9,
+      "comments": 0,
+      "by": "BoxOfRain"
     }
   ]
 }
