@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-14](archive/2026/11/2026-11-14.md)
+### Latest: [2026-11-15](archive/2026/11/2026-11-15.md)
 
-Top 10 of 75 stories so far, last updated 2026-11-14 22:27 UTC. **16** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-15 06:37 UTC. **17** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) <sub>nbcnews.com</sub> | 1622 | [1251](https://news.ycombinator.com/item?id=50489641) |
-| 2 | [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) <sub>techpowerup.com</sub> | 952 | [576](https://news.ycombinator.com/item?id=50493251) |
-| 3 | [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) <sub>scottjg.com</sub> | 751 | [213](https://news.ycombinator.com/item?id=50474959) |
-| 4 | [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) <sub>crissyfield.de</sub> | 509 | [184](https://news.ycombinator.com/item?id=50499017) |
-| 5 | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) <sub>so.long.thanks.fish</sub> | 473 | [268](https://news.ycombinator.com/item?id=50440709) |
-| 6 | [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291) <sub>science.org</sub> | 449 | [308](https://news.ycombinator.com/item?id=50482379) |
-| 7 | [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) <sub>monkeyisland.pages.dev</sub> | 445 | [141](https://news.ycombinator.com/item?id=50493904) |
-| 8 | [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) <sub>eff.org</sub> | 405 | [152](https://news.ycombinator.com/item?id=50496602) |
-| 9 | [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) <sub>joshka.net</sub> | 384 | [165](https://news.ycombinator.com/item?id=50491423) |
-| 10 | [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) <sub>github.com</sub> | 380 | [64](https://news.ycombinator.com/item?id=50493062) |
+| 1 | [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) <sub>spacex.com</sub> | 1021 | [682](https://news.ycombinator.com/item?id=50500963) |
+| 2 | [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) <sub>crissyfield.de</sub> | 750 | [298](https://news.ycombinator.com/item?id=50499017) |
+| 3 | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) <sub>so.long.thanks.fish</sub> | 536 | [292](https://news.ycombinator.com/item?id=50440709) |
+| 4 | [KDE: The documentary \[video\]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) <sub>tube.kockatoo.org</sub> | 433 | [92](https://news.ycombinator.com/item?id=50496976) |
+| 5 | [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) <sub>techspot.com</sub> | 401 | [198](https://news.ycombinator.com/item?id=50501631) |
+| 6 | [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) <sub>zwischenzugs.com</sub> | 270 | [130](https://news.ycombinator.com/item?id=50499038) |
+| 7 | [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) <sub>blog.pypi.org</sub> | 228 | [99](https://news.ycombinator.com/item?id=50497892) |
+| 8 | [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html) <sub>projectzero.google</sub> | 223 | [84](https://news.ycombinator.com/item?id=50496051) |
+| 9 | [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) <sub>github.com</sub> | 216 | [14](https://news.ycombinator.com/item?id=50497589) |
+| 10 | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) <sub>news.umich.edu</sub> | 198 | [104](https://news.ycombinator.com/item?id=50441444) |
 <!-- digest:end -->

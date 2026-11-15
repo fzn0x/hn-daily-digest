@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T06:37:29+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50500963,
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "points": 1021,
+      "comments": 682,
+      "by": "ls612"
+    },
+    {
+      "id": 50499017,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "points": 750,
+      "comments": 298,
+      "by": "armcat"
+    },
+    {
+      "id": 50440709,
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "points": 536,
+      "comments": 292,
+      "by": "casi"
+    },
+    {
+      "id": 50496976,
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "points": 433,
+      "comments": 92,
+      "by": "mrkn1"
+    },
+    {
+      "id": 50501631,
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "points": 401,
+      "comments": 198,
+      "by": "madihaa"
+    },
+    {
+      "id": 50499038,
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "points": 270,
+      "comments": 130,
+      "by": "umerf"
+    },
+    {
+      "id": 50497892,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "points": 228,
+      "comments": 99,
+      "by": "rbanffy"
+    },
+    {
+      "id": 50496051,
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "points": 223,
+      "comments": 84,
+      "by": "hacb"
+    },
+    {
+      "id": 50497589,
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "points": 216,
+      "comments": 14,
+      "by": "VaibhaavTiwari"
+    },
+    {
+      "id": 50441444,
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "points": 198,
+      "comments": 104,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50496811,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "points": 189,
+      "comments": 40,
+      "by": "acossta"
+    },
+    {
+      "id": 50501594,
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "points": 170,
+      "comments": 75,
+      "by": "Skyfall106"
+    },
+    {
+      "id": 50503255,
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "points": 170,
+      "comments": 43,
+      "by": "nobody9999"
+    },
+    {
+      "id": 50497132,
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "points": 152,
+      "comments": 37,
+      "by": "snipedbywifi"
+    },
+    {
+      "id": 50471874,
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+      "points": 130,
+      "comments": 76,
+      "by": "NaOH"
+    },
+    {
+      "id": 50453901,
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "points": 91,
+      "comments": 41,
+      "by": "PaulHoule"
+    },
+    {
+      "id": 50467278,
+      "title": "Testing a trash can Faraday cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "points": 72,
+      "comments": 57,
+      "by": "torutofu"
+    },
+    {
+      "id": 50448895,
+      "title": "The Sicilian Citrus Family Tree",
+      "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+      "points": 58,
+      "comments": 20,
+      "by": "wmchen"
+    },
+    {
+      "id": 50503588,
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "points": 51,
+      "comments": 28,
+      "by": "lxm"
+    },
+    {
+      "id": 50502988,
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "points": 41,
+      "comments": 3,
+      "by": "ybathaee"
+    },
+    {
+      "id": 50478701,
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "points": 38,
+      "comments": 5,
+      "by": "pjmlp"
+    },
+    {
+      "id": 50483431,
+      "title": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "points": 37,
+      "comments": 4,
+      "by": "myth_drannon"
+    },
+    {
+      "id": 50455732,
+      "title": "Oxford Molecular Motors",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "points": 33,
+      "comments": 5,
+      "by": "handfuloflight"
+    },
+    {
+      "id": 50504072,
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "points": 26,
+      "comments": 8,
+      "by": "MarinhoD"
+    },
+    {
+      "id": 50482222,
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "points": 26,
+      "comments": 1,
+      "by": "pseudolus"
+    },
+    {
+      "id": 50502839,
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "points": 25,
+      "comments": 5,
+      "by": "bobbiechen"
+    },
+    {
+      "id": 50475692,
+      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+      "points": 23,
+      "comments": 0,
+      "by": "CharlesW"
+    },
+    {
+      "id": 50486880,
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "points": 22,
+      "comments": 2,
+      "by": "Kaibeezy"
+    },
+    {
+      "id": 50503465,
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "points": 20,
+      "comments": 0,
+      "by": "jordigh"
+    },
+    {
+      "id": 50503930,
+      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "points": 17,
+      "comments": 1,
+      "by": "tthanh2k6"
+    }
+  ]
+}
