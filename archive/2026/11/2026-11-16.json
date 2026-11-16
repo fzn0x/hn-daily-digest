@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T06:34:40+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50509411,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "points": 477,
+      "comments": 207,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50506719,
+      "title": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "points": 461,
+      "comments": 255,
+      "by": "MacAnorak"
+    },
+    {
+      "id": 50463399,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "points": 401,
+      "comments": 196,
+      "by": "envoked"
+    },
+    {
+      "id": 50513215,
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "points": 337,
+      "comments": 112,
+      "by": "ilreb"
+    },
+    {
+      "id": 50509837,
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "points": 266,
+      "comments": 51,
+      "by": "bcye"
+    },
+    {
+      "id": 50511395,
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "points": 243,
+      "comments": 127,
+      "by": "hspeiser"
+    },
+    {
+      "id": 50513160,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "points": 243,
+      "comments": 61,
+      "by": "zaik"
+    },
+    {
+      "id": 50506894,
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "points": 221,
+      "comments": 116,
+      "by": "ksec"
+    },
+    {
+      "id": 50509308,
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "points": 216,
+      "comments": 92,
+      "by": "nharada"
+    },
+    {
+      "id": 50509972,
+      "title": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "points": 215,
+      "comments": 44,
+      "by": "coinfused"
+    },
+    {
+      "id": 50509023,
+      "title": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "points": 212,
+      "comments": 146,
+      "by": "gumby"
+    },
+    {
+      "id": 50512235,
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "points": 185,
+      "comments": 244,
+      "by": "zdw"
+    },
+    {
+      "id": 50511806,
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "points": 133,
+      "comments": 37,
+      "by": "CharlesW"
+    },
+    {
+      "id": 50508715,
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "points": 128,
+      "comments": 76,
+      "by": "molenzwiebel"
+    },
+    {
+      "id": 50510296,
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "points": 117,
+      "comments": 23,
+      "by": "ranger_danger"
+    },
+    {
+      "id": 50512441,
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "points": 110,
+      "comments": 25,
+      "by": "aillia"
+    },
+    {
+      "id": 50512824,
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "points": 84,
+      "comments": 61,
+      "by": "sagunsh"
+    },
+    {
+      "id": 50509416,
+      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "points": 83,
+      "comments": 30,
+      "by": "gregsadetsky"
+    },
+    {
+      "id": 50513451,
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": null,
+      "points": 67,
+      "comments": 16,
+      "by": "eks391"
+    },
+    {
+      "id": 50486880,
+      "title": "A quest to create the perfect whiskey glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "points": 60,
+      "comments": 60,
+      "by": "Kaibeezy"
+    },
+    {
+      "id": 50484998,
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "points": 56,
+      "comments": 6,
+      "by": "philippemnoel"
+    },
+    {
+      "id": 50512231,
+      "title": "Mini.nvim Is Now on Tangled",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "points": 53,
+      "comments": 14,
+      "by": "nerdypepper"
+    },
+    {
+      "id": 50490583,
+      "title": "1900s How do you Wash a Kimono?",
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
+      "points": 44,
+      "comments": 10,
+      "by": "Matrixik"
+    },
+    {
+      "id": 50514180,
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "points": 40,
+      "comments": 1,
+      "by": "artooro"
+    },
+    {
+      "id": 50479405,
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "points": 30,
+      "comments": 16,
+      "by": "mutexjp"
+    },
+    {
+      "id": 50512296,
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "points": 27,
+      "comments": 2,
+      "by": "Gaishan"
+    },
+    {
+      "id": 50514470,
+      "title": "How to Make Almost Anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "points": 22,
+      "comments": 0,
+      "by": "o4c"
+    },
+    {
+      "id": 50514093,
+      "title": "Stop Filming in Log",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "points": 21,
+      "comments": 7,
+      "by": "dabinat"
+    },
+    {
+      "id": 50485275,
+      "title": "Artificial Intelligence for the Z80",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "points": 19,
+      "comments": 2,
+      "by": "AlexeyBrin"
+    },
+    {
+      "id": 50467599,
+      "title": "Simple 8085 Computer",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "points": 16,
+      "comments": 1,
+      "by": "AlexeyBrin"
+    }
+  ]
+}

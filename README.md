@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-15](archive/2026/11/2026-11-15.md)
+### Latest: [2026-11-16](archive/2026/11/2026-11-16.md)
 
-Top 10 of 70 stories so far, last updated 2026-11-15 22:51 UTC. **17** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-16 06:34 UTC. **18** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) <sub>spacex.com</sub> | 1616 | [1188](https://news.ycombinator.com/item?id=50500963) |
-| 2 | [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) <sub>jakub.jankiewicz.org</sub> | 1014 | [561](https://news.ycombinator.com/item?id=50507303) |
-| 3 | [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) <sub>crissyfield.de</sub> | 938 | [358](https://news.ycombinator.com/item?id=50499017) |
-| 4 | [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) <sub>so.long.thanks.fish</sub> | 600 | [318](https://news.ycombinator.com/item?id=50440709) |
-| 5 | [KDE: The documentary \[video\]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) <sub>tube.kockatoo.org</sub> | 539 | [122](https://news.ycombinator.com/item?id=50496976) |
-| 6 | [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) <sub>nytimes.com</sub> | 440 | [189](https://news.ycombinator.com/item?id=50506180) |
-| 7 | [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) <sub>techspot.com</sub> | 401 | [198](https://news.ycombinator.com/item?id=50501631) |
-| 8 | [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) <sub>zwischenzugs.com</sub> | 383 | [190](https://news.ycombinator.com/item?id=50499038) |
-| 9 | [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) <sub>macanorak.com</sub> | 373 | [202](https://news.ycombinator.com/item?id=50506719) |
-| 10 | [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) <sub>litnews.ai</sub> | 361 | [151](https://news.ycombinator.com/item?id=50502988) |
+| 1 | [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) <sub>www1.wdr.de</sub> | 477 | [207](https://news.ycombinator.com/item?id=50509411) |
+| 2 | [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) <sub>macanorak.com</sub> | 461 | [255](https://news.ycombinator.com/item?id=50506719) |
+| 3 | [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino \[video\]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) <sub>youtube.com</sub> | 401 | [196](https://news.ycombinator.com/item?id=50463399) |
+| 4 | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) <sub>qwen.ai</sub> | 337 | [112](https://news.ycombinator.com/item?id=50513215) |
+| 5 | [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) <sub>bruceroettgers.eu</sub> | 266 | [51](https://news.ycombinator.com/item?id=50509837) |
+| 6 | [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) <sub>ransomnews.com</sub> | 243 | [127](https://news.ycombinator.com/item?id=50511395) |
+| 7 | [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) <sub>iter.ca</sub> | 243 | [61](https://news.ycombinator.com/item?id=50513160) |
+| 8 | [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) <sub>prog21.dadgum.com</sub> | 221 | [116](https://news.ycombinator.com/item?id=50506894) |
+| 9 | [A short explainer on how El Niño works \[video\]](https://www.youtube.com/watch?v=7_JF3etiAv8) <sub>youtube.com</sub> | 216 | [92](https://news.ycombinator.com/item?id=50509308) |
+| 10 | [Handwriting, as a Font](https://ductus.sorenblank.com) <sub>ductus.sorenblank.com</sub> | 215 | [44](https://news.ycombinator.com/item?id=50509972) |
 <!-- digest:end -->
