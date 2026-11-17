@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-16](archive/2026/11/2026-11-16.md)
+### Latest: [2026-11-17](archive/2026/11/2026-11-17.md)
 
-Top 10 of 57 stories so far, last updated 2026-11-16 19:41 UTC. **18** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-17 03:59 UTC. **19** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [How to make almost anything](https://pub.cba.mit.edu/863.26/site/) <sub>pub.cba.mit.edu</sub> | 767 | [128](https://news.ycombinator.com/item?id=50514470) |
-| 2 | [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) <sub>groundworkcollaborative.org</sub> | 635 | [388](https://news.ycombinator.com/item?id=50517488) |
-| 3 | [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) <sub>iter.ca</sub> | 579 | [164](https://news.ycombinator.com/item?id=50513160) |
-| 4 | [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) <sub>www1.wdr.de</sub> | 477 | [207](https://news.ycombinator.com/item?id=50509411) |
-| 5 | [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) <sub>macanorak.com</sub> | 461 | [255](https://news.ycombinator.com/item?id=50506719) |
-| 6 | [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino \[video\]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) <sub>youtube.com</sub> | 401 | [196](https://news.ycombinator.com/item?id=50463399) |
-| 7 | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) <sub>qwen.ai</sub> | 337 | [112](https://news.ycombinator.com/item?id=50513215) |
-| 8 | [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate) <sub>jack.cab</sub> | 294 | [135](https://news.ycombinator.com/item?id=50517602) |
-| 9 | [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) <sub>bruceroettgers.eu</sub> | 266 | [51](https://news.ycombinator.com/item?id=50509837) |
-| 10 | [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) <sub>masnick.com</sub> | 253 | [100](https://news.ycombinator.com/item?id=50516473) |
+| 1 | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) <sub>cs.cmu.edu</sub> | 906 | [144](https://news.ycombinator.com/item?id=50522980) |
+| 2 | [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) <sub>apnews.com</sub> | 735 | [609](https://news.ycombinator.com/item?id=50521045) |
+| 3 | [BugMeNot has closed](https://www.bugmenot.com/) <sub>bugmenot.com</sub> | 381 | [192](https://news.ycombinator.com/item?id=50523601) |
+| 4 | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) <sub>trmnl.com</sub> | 333 | [236](https://news.ycombinator.com/item?id=50519354) |
+| 5 | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) <sub>burntsushi.net</sub> | 333 | [77](https://news.ycombinator.com/item?id=50519744) |
+| 6 | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) <sub>xusheng.dev</sub> | 330 | [199](https://news.ycombinator.com/item?id=50524736) |
+| 7 | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) <sub>theregister.com</sub> | 246 | [178](https://news.ycombinator.com/item?id=50517321) |
+| 8 | [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) <sub>news.cornell.edu</sub> | 234 | [233](https://news.ycombinator.com/item?id=50520182) |
+| 9 | [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) <sub>blog.startifact.com</sub> | 208 | [132](https://news.ycombinator.com/item?id=50522563) |
+| 10 | [United Airlines experiencing a widespread system outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage) <sub>cnn.com</sub> | 203 | [106](https://news.ycombinator.com/item?id=50524165) |
 <!-- digest:end -->

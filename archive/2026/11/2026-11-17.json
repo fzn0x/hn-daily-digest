@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T03:59:08+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50522980,
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "points": 906,
+      "comments": 144,
+      "by": "pcompeau"
+    },
+    {
+      "id": 50521045,
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "points": 735,
+      "comments": 609,
+      "by": "samk3nny"
+    },
+    {
+      "id": 50523601,
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "points": 381,
+      "comments": 192,
+      "by": "lode"
+    },
+    {
+      "id": 50519354,
+      "title": "Frame \u2013 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "points": 333,
+      "comments": 236,
+      "by": "geerlingguy"
+    },
+    {
+      "id": 50519744,
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "points": 333,
+      "comments": 77,
+      "by": "burntsushi"
+    },
+    {
+      "id": 50524736,
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "points": 330,
+      "comments": 199,
+      "by": "cwaffles"
+    },
+    {
+      "id": 50517321,
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "points": 246,
+      "comments": 178,
+      "by": "Bender"
+    },
+    {
+      "id": 50520182,
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "points": 234,
+      "comments": 233,
+      "by": "PaulHoule"
+    },
+    {
+      "id": 50522563,
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "points": 208,
+      "comments": 132,
+      "by": "speckx"
+    },
+    {
+      "id": 50524165,
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "points": 203,
+      "comments": 106,
+      "by": "bearsyankees"
+    },
+    {
+      "id": 50524767,
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "points": 159,
+      "comments": 83,
+      "by": "kristjansson"
+    },
+    {
+      "id": 50523459,
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "points": 154,
+      "comments": 70,
+      "by": "mfiguiere"
+    },
+    {
+      "id": 50515151,
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "points": 148,
+      "comments": 45,
+      "by": "raphlinus"
+    },
+    {
+      "id": 50522643,
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "points": 144,
+      "comments": 68,
+      "by": "sebg"
+    },
+    {
+      "id": 50520270,
+      "title": "Aristotle Expands into Rust",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "points": 109,
+      "comments": 57,
+      "by": "maufl"
+    },
+    {
+      "id": 50523291,
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "points": 106,
+      "comments": 42,
+      "by": "bhouston"
+    },
+    {
+      "id": 50524225,
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "points": 88,
+      "comments": 21,
+      "by": "ronfriedhaber"
+    },
+    {
+      "id": 50497621,
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "points": 83,
+      "comments": 21,
+      "by": "zdw"
+    },
+    {
+      "id": 50525658,
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+      "points": 67,
+      "comments": 15,
+      "by": "petethomas"
+    },
+    {
+      "id": 50526152,
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "points": 51,
+      "comments": 20,
+      "by": "antoniomika"
+    },
+    {
+      "id": 50516689,
+      "title": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "points": 44,
+      "comments": 14,
+      "by": "max_sendfeld"
+    },
+    {
+      "id": 50525052,
+      "title": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "points": 41,
+      "comments": 16,
+      "by": "0nelight"
+    },
+    {
+      "id": 50522776,
+      "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+      "url": null,
+      "points": 31,
+      "comments": 11,
+      "by": "arshpatankar"
+    },
+    {
+      "id": 50526560,
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "points": 27,
+      "comments": 13,
+      "by": "jshier"
+    },
+    {
+      "id": 50514680,
+      "title": "Atomic Nuked Veteran",
+      "url": "https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
+      "points": 27,
+      "comments": 5,
+      "by": "hubraumhugo"
+    },
+    {
+      "id": 50507870,
+      "title": "New open source C4 Diagram tool",
+      "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+      "points": 24,
+      "comments": 6,
+      "by": "oliveralbertini"
+    },
+    {
+      "id": 50526537,
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "points": 21,
+      "comments": 20,
+      "by": "qainsights"
+    },
+    {
+      "id": 50525575,
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "points": 20,
+      "comments": 0,
+      "by": "mfiguiere"
+    },
+    {
+      "id": 50526527,
+      "title": "Show HN: A free interactive course on AI agent governance",
+      "url": "https://studio.sinapsdata.com.br",
+      "points": 11,
+      "comments": 5,
+      "by": "sadrk"
+    },
+    {
+      "id": 50526621,
+      "title": "The most expensive bargaining chip in history",
+      "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/",
+      "points": 9,
+      "comments": 6,
+      "by": "vext_cwm_fly"
+    }
+  ]
+}
