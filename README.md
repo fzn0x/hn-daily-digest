@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-17](archive/2026/11/2026-11-17.md)
 
-Top 10 of 30 stories so far, last updated 2026-11-17 03:59 UTC. **19** days archived.
+Top 10 of 50 stories so far, last updated 2026-11-17 16:03 UTC. **19** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) <sub>cs.cmu.edu</sub> | 906 | [144](https://news.ycombinator.com/item?id=50522980) |
+| 1 | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) <sub>cs.cmu.edu</sub> | 1997 | [268](https://news.ycombinator.com/item?id=50522980) |
 | 2 | [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) <sub>apnews.com</sub> | 735 | [609](https://news.ycombinator.com/item?id=50521045) |
-| 3 | [BugMeNot has closed](https://www.bugmenot.com/) <sub>bugmenot.com</sub> | 381 | [192](https://news.ycombinator.com/item?id=50523601) |
-| 4 | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) <sub>trmnl.com</sub> | 333 | [236](https://news.ycombinator.com/item?id=50519354) |
-| 5 | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) <sub>burntsushi.net</sub> | 333 | [77](https://news.ycombinator.com/item?id=50519744) |
-| 6 | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) <sub>xusheng.dev</sub> | 330 | [199](https://news.ycombinator.com/item?id=50524736) |
-| 7 | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) <sub>theregister.com</sub> | 246 | [178](https://news.ycombinator.com/item?id=50517321) |
-| 8 | [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) <sub>news.cornell.edu</sub> | 234 | [233](https://news.ycombinator.com/item?id=50520182) |
-| 9 | [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/) <sub>blog.startifact.com</sub> | 208 | [132](https://news.ycombinator.com/item?id=50522563) |
-| 10 | [United Airlines experiencing a widespread system outage, airline says](https://www.cnn.com/2026/11/16/us/united-airlines-outage) <sub>cnn.com</sub> | 203 | [106](https://news.ycombinator.com/item?id=50524165) |
+| 3 | [BugMeNot has closed](https://www.bugmenot.com/) <sub>bugmenot.com</sub> | 661 | [297](https://news.ycombinator.com/item?id=50523601) |
+| 4 | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) <sub>nytimes.com</sub> | 612 | [310](https://news.ycombinator.com/item?id=50530163) |
+| 5 | [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) <sub>blog.report-uri.com</sub> | 524 | [208](https://news.ycombinator.com/item?id=50524767) |
+| 6 | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) <sub>trmnl.com</sub> | 492 | [352](https://news.ycombinator.com/item?id=50519354) |
+| 7 | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) <sub>burntsushi.net</sub> | 419 | [91](https://news.ycombinator.com/item?id=50519744) |
+| 8 | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) <sub>theregister.com</sub> | 405 | [302](https://news.ycombinator.com/item?id=50517321) |
+| 9 | [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate) <sub>jack.cab</sub> | 390 | [155](https://news.ycombinator.com/item?id=50517602) |
+| 10 | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) <sub>xusheng.dev</sub> | 330 | [199](https://news.ycombinator.com/item?id=50524736) |
 <!-- digest:end -->
