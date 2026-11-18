@@ -1,8 +1,16 @@
 {
   "date": "2026-11-18",
-  "updated_at": "2026-11-18T01:06:37+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-18T11:48:56+00:00",
+  "snapshots": 2,
   "stories": [
+    {
+      "id": 50535230,
+      "title": "GPT\u20116.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "points": 1283,
+      "comments": 798,
+      "by": "jasondavies"
+    },
     {
       "id": 50530163,
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
@@ -12,12 +20,20 @@
       "by": "donohoe"
     },
     {
-      "id": 50535230,
-      "title": "GPT\u20116.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "points": 1064,
-      "comments": 679,
-      "by": "jasondavies"
+      "id": 50538240,
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "points": 964,
+      "comments": 246,
+      "by": "werrett"
+    },
+    {
+      "id": 50538994,
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "points": 634,
+      "comments": 221,
+      "by": "subset"
     },
     {
       "id": 50535238,
@@ -28,52 +44,100 @@
       "by": "willy_k"
     },
     {
-      "id": 50538240,
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "url": "https://calif.io/java4shell/",
-      "points": 472,
-      "comments": 125,
-      "by": "werrett"
-    },
-    {
       "id": 50532849,
       "title": "Highly classified US national security communications network goes down",
       "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "points": 455,
-      "comments": 538,
+      "points": 593,
+      "comments": 679,
       "by": "monkeydust"
     },
     {
       "id": 50534631,
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "points": 377,
-      "comments": 181,
+      "points": 558,
+      "comments": 249,
       "by": "louiereederson"
+    },
+    {
+      "id": 50540178,
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "points": 425,
+      "comments": 311,
+      "by": "slashdev"
+    },
+    {
+      "id": 50535992,
+      "title": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "points": 390,
+      "comments": 53,
+      "by": "notmine1337"
     },
     {
       "id": 50532191,
       "title": "What is the best harness for each model?",
       "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-      "points": 332,
-      "comments": 114,
+      "points": 379,
+      "comments": 128,
       "by": "Edward40"
+    },
+    {
+      "id": 50542705,
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "points": 375,
+      "comments": 346,
+      "by": "grey-area"
+    },
+    {
+      "id": 50540437,
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "points": 371,
+      "comments": 166,
+      "by": "DeepLogin"
     },
     {
       "id": 50535885,
       "title": "MAI Code 2 and Code 2 Flash",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "points": 277,
-      "comments": 130,
+      "points": 367,
+      "comments": 155,
       "by": "lemonish97"
     },
     {
-      "id": 50535992,
-      "title": "Phrack 73 Released",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "points": 262,
-      "comments": 29,
-      "by": "notmine1337"
+      "id": 50539610,
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "points": 340,
+      "comments": 73,
+      "by": "nvader"
+    },
+    {
+      "id": 50536813,
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "points": 339,
+      "comments": 108,
+      "by": "dxs"
+    },
+    {
+      "id": 50537156,
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "points": 329,
+      "comments": 167,
+      "by": "petecooper"
+    },
+    {
+      "id": 50536387,
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "points": 319,
+      "comments": 98,
+      "by": "pier25"
     },
     {
       "id": 50529612,
@@ -84,36 +148,20 @@
       "by": "craigmart"
     },
     {
-      "id": 50537156,
-      "title": "jQuery 4.1.0",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "points": 244,
-      "comments": 134,
-      "by": "petecooper"
-    },
-    {
-      "id": 50538994,
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "points": 236,
-      "comments": 67,
-      "by": "subset"
-    },
-    {
-      "id": 50536813,
-      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-      "points": 232,
+      "id": 50539747,
+      "title": "Archive Team is archiving the Apple Support Community",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "points": 201,
       "comments": 72,
-      "by": "dxs"
+      "by": "digitaldragon"
     },
     {
-      "id": 50536387,
-      "title": "Solid 2.0",
-      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-      "points": 214,
-      "comments": 56,
-      "by": "pier25"
+      "id": 50538303,
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "points": 193,
+      "comments": 270,
+      "by": "judahmeek"
     },
     {
       "id": 50532385,
@@ -124,12 +172,28 @@
       "by": "prafandy"
     },
     {
+      "id": 50544261,
+      "title": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "points": 133,
+      "comments": 68,
+      "by": "hans_castorp"
+    },
+    {
       "id": 50537290,
       "title": "Web Browser Engineering (2021)",
       "url": "https://browser.engineering/",
       "points": 115,
       "comments": 20,
       "by": "ibobev"
+    },
+    {
+      "id": 50541790,
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "points": 110,
+      "comments": 54,
+      "by": "deenadz"
     },
     {
       "id": 50535208,
@@ -148,12 +212,28 @@
       "by": "speckx"
     },
     {
-      "id": 50539610,
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "points": 86,
-      "comments": 17,
-      "by": "nvader"
+      "id": 50540472,
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "points": 85,
+      "comments": 19,
+      "by": "emschwartz"
+    },
+    {
+      "id": 50536468,
+      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+      "url": null,
+      "points": 81,
+      "comments": 39,
+      "by": "yonasb"
+    },
+    {
+      "id": 50503492,
+      "title": "Fun with Constrained Programming (2012)",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "points": 76,
+      "comments": 3,
+      "by": "colejohnson66"
     },
     {
       "id": 50537120,
@@ -162,6 +242,14 @@
       "points": 72,
       "comments": 43,
       "by": "PaulHoule"
+    },
+    {
+      "id": 50541619,
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "points": 66,
+      "comments": 26,
+      "by": "gmays"
     },
     {
       "id": 50537962,
@@ -180,20 +268,12 @@
       "by": "bookofjoe"
     },
     {
-      "id": 50536468,
-      "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
-      "url": "https://starsling.dev",
-      "points": 52,
-      "comments": 28,
-      "by": "yonasb"
-    },
-    {
-      "id": 50539747,
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "points": 45,
-      "comments": 11,
-      "by": "digitaldragon"
+      "id": 50543343,
+      "title": "Talos Linux",
+      "url": "https://www.siderolabs.com/talos-linux",
+      "points": 48,
+      "comments": 22,
+      "by": "SweetSoftPillow"
     },
     {
       "id": 50538184,
@@ -204,12 +284,44 @@
       "by": "lyra1337"
     },
     {
-      "id": 50538303,
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "points": 30,
-      "comments": 59,
-      "by": "judahmeek"
+      "id": 50542264,
+      "title": "Why Fibonacci?",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "points": 39,
+      "comments": 5,
+      "by": "_Microft"
+    },
+    {
+      "id": 50517410,
+      "title": "Show HN: Unref \u2013 A Python dead code finder built on Ruff's parser",
+      "url": "https://github.com/Apakottur/unref",
+      "points": 31,
+      "comments": 5,
+      "by": "McAvey"
+    },
+    {
+      "id": 50542863,
+      "title": "Australia's full national topographic library at your fingertips",
+      "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+      "points": 23,
+      "comments": 11,
+      "by": "bryanrasmussen"
+    },
+    {
+      "id": 50543989,
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "points": 19,
+      "comments": 2,
+      "by": "frenchmajesty"
+    },
+    {
+      "id": 50517929,
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "points": 17,
+      "comments": 0,
+      "by": "xenodium"
     },
     {
       "id": 50539039,
@@ -220,14 +332,6 @@
       "by": "E-Reverance"
     },
     {
-      "id": 50540178,
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "points": 13,
-      "comments": 5,
-      "by": "slashdev"
-    },
-    {
       "id": 50504105,
       "title": "Munich Laser Emits a Beam of Matter Waves (1999)",
       "url": "https://www.sciencedaily.com/releases/1999/03/990317060831.htm",
@@ -236,12 +340,12 @@
       "by": "peter_d_sherman"
     },
     {
-      "id": 50540437,
-      "title": "ID.me terms required for IRS sign-in",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-      "points": 3,
-      "comments": 0,
-      "by": "DeepLogin"
+      "id": 50503899,
+      "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+      "url": "https://arxiv.org/abs/2609.14306",
+      "points": 5,
+      "comments": 1,
+      "by": "gmays"
     }
   ]
 }
