@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-17](archive/2026/11/2026-11-17.md)
+### Latest: [2026-11-18](archive/2026/11/2026-11-18.md)
 
-Top 10 of 50 stories so far, last updated 2026-11-17 16:03 UTC. **19** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-18 01:06 UTC. **20** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) <sub>cs.cmu.edu</sub> | 1997 | [268](https://news.ycombinator.com/item?id=50522980) |
-| 2 | [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) <sub>apnews.com</sub> | 735 | [609](https://news.ycombinator.com/item?id=50521045) |
-| 3 | [BugMeNot has closed](https://www.bugmenot.com/) <sub>bugmenot.com</sub> | 661 | [297](https://news.ycombinator.com/item?id=50523601) |
-| 4 | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) <sub>nytimes.com</sub> | 612 | [310](https://news.ycombinator.com/item?id=50530163) |
-| 5 | [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) <sub>blog.report-uri.com</sub> | 524 | [208](https://news.ycombinator.com/item?id=50524767) |
-| 6 | [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) <sub>trmnl.com</sub> | 492 | [352](https://news.ycombinator.com/item?id=50519354) |
-| 7 | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) <sub>burntsushi.net</sub> | 419 | [91](https://news.ycombinator.com/item?id=50519744) |
-| 8 | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) <sub>theregister.com</sub> | 405 | [302](https://news.ycombinator.com/item?id=50517321) |
-| 9 | [What is w2rt6byl5nf1opmc-a.com?](https://jack.cab/blog/siterate) <sub>jack.cab</sub> | 390 | [155](https://news.ycombinator.com/item?id=50517602) |
-| 10 | [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) <sub>xusheng.dev</sub> | 330 | [199](https://news.ycombinator.com/item?id=50524736) |
+| 1 | [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) <sub>nytimes.com</sub> | 1149 | [575](https://news.ycombinator.com/item?id=50530163) |
+| 2 | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) <sub>openai.com</sub> | 1064 | [679](https://news.ycombinator.com/item?id=50535230) |
+| 3 | [Apple Services Down](https://developer.apple.com/system-status/) <sub>developer.apple.com</sub> | 619 | [343](https://news.ycombinator.com/item?id=50535238) |
+| 4 | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) <sub>calif.io</sub> | 472 | [125](https://news.ycombinator.com/item?id=50538240) |
+| 5 | [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) <sub>cnn.com</sub> | 455 | [538](https://news.ycombinator.com/item?id=50532849) |
+| 6 | [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) <sub>ft.com</sub> | 377 | [181](https://news.ycombinator.com/item?id=50534631) |
+| 7 | [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) <sub>runta.com</sub> | 332 | [114](https://news.ycombinator.com/item?id=50532191) |
+| 8 | [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) <sub>microsoft.ai</sub> | 277 | [130](https://news.ycombinator.com/item?id=50535885) |
+| 9 | [Phrack 73 Released](https://phrack.org/issues/73/introduction_md) <sub>phrack.org</sub> | 262 | [29](https://news.ycombinator.com/item?id=50535992) |
+| 10 | [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) <sub>claude.dev</sub> | 261 | [202](https://news.ycombinator.com/item?id=50529612) |
 <!-- digest:end -->
