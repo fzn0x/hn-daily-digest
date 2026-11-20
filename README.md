@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-19](archive/2026/11/2026-11-19.md)
+### Latest: [2026-11-20](archive/2026/11/2026-11-20.md)
 
-Top 10 of 69 stories so far, last updated 2026-11-19 20:38 UTC. **21** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-20 02:21 UTC. **22** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) <sub>wiz.io</sub> | 1408 | [605](https://news.ycombinator.com/item?id=50547374) |
-| 2 | [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) <sub>blog.google</sub> | 860 | [684](https://news.ycombinator.com/item?id=50552424) |
-| 3 | [Inside Deutsche Bank](https://www.inside-db.com/) <sub>inside-db.com</sub> | 710 | [241](https://news.ycombinator.com/item?id=50547620) |
-| 4 | [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) <sub>blog.harrison.page</sub> | 618 | [261](https://news.ycombinator.com/item?id=50519231) |
-| 5 | [DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) <sub>techstackups.com</sub> | 611 | [226](https://news.ycombinator.com/item?id=50545958) |
-| 6 | [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) <sub>element.io</sub> | 601 | [286](https://news.ycombinator.com/item?id=50558533) |
-| 7 | [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) <sub>microsoft.ai</sub> | 548 | [355](https://news.ycombinator.com/item?id=50548021) |
-| 8 | [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) <sub>reuters.com</sub> | 534 | [843](https://news.ycombinator.com/item?id=50562754) |
-| 9 | [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) <sub>europeanbusinessmagazine.com</sub> | 372 | [165](https://news.ycombinator.com/item?id=50547777) |
-| 10 | [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) <sub>verialabs.com</sub> | 346 | [140](https://news.ycombinator.com/item?id=50556287) |
+| 1 | [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) <sub>reuters.com</sub> | 926 | [1828](https://news.ycombinator.com/item?id=50562754) |
+| 2 | [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) <sub>blog.harrison.page</sub> | 762 | [318](https://news.ycombinator.com/item?id=50519231) |
+| 3 | [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) <sub>element.io</sub> | 666 | [323](https://news.ycombinator.com/item?id=50558533) |
+| 4 | [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) <sub>newscientist.com</sub> | 604 | [92](https://news.ycombinator.com/item?id=50563066) |
+| 5 | [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) <sub>macanorak.com</sub> | 515 | [235](https://news.ycombinator.com/item?id=50562113) |
+| 6 | [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) <sub>anthropic.com</sub> | 398 | [183](https://news.ycombinator.com/item?id=50563148) |
+| 7 | [Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781) <sub>github.com</sub> | 374 | [96](https://news.ycombinator.com/item?id=50558906) |
+| 8 | [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php) <sub>php.net</sub> | 276 | [127](https://news.ycombinator.com/item?id=50557870) |
+| 9 | [Do not buy RAM, compress](https://curiousbits.nl/blog/do-not-buy-ram-compress/) <sub>curiousbits.nl</sub> | 262 | [212](https://news.ycombinator.com/item?id=50557661) |
+| 10 | [Nintendo takes Picofly firmware down from GitHub \[video\]](https://www.youtube.com/watch?v=-TLCGUpoD6c) <sub>youtube.com</sub> | 257 | [101](https://news.ycombinator.com/item?id=50547048) |
 <!-- digest:end -->
