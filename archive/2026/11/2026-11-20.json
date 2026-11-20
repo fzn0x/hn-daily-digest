@@ -1,7 +1,7 @@
 {
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T02:21:03+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-20T11:48:54+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50562754,
@@ -10,6 +10,14 @@
       "points": 926,
       "comments": 1828,
       "by": "wslh"
+    },
+    {
+      "id": 50563066,
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "points": 792,
+      "comments": 137,
+      "by": "cybermango"
     },
     {
       "id": 50519231,
@@ -28,14 +36,6 @@
       "by": "liotier"
     },
     {
-      "id": 50563066,
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "points": 604,
-      "comments": 92,
-      "by": "cybermango"
-    },
-    {
       "id": 50562113,
       "title": "UK government forced to admit it issued Apple a secret encryption order",
       "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
@@ -47,8 +47,8 @@
       "id": 50563148,
       "title": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "points": 398,
-      "comments": 183,
+      "points": 511,
+      "comments": 238,
       "by": "cybermango"
     },
     {
@@ -60,12 +60,36 @@
       "by": "notmine1337"
     },
     {
+      "id": 50564159,
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "points": 307,
+      "comments": 155,
+      "by": "dev1one1"
+    },
+    {
+      "id": 50528119,
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "points": 283,
+      "comments": 96,
+      "by": "o4c"
+    },
+    {
       "id": 50557870,
       "title": "What's New in PHP 8.6",
       "url": "https://www.php.net/releases/8.6/en.php",
       "points": 276,
       "comments": 127,
       "by": "netol"
+    },
+    {
+      "id": 50569226,
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "points": 276,
+      "comments": 218,
+      "by": "JacobHenner"
     },
     {
       "id": 50557661,
@@ -84,6 +108,14 @@
       "by": "cowlevel"
     },
     {
+      "id": 50561508,
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "points": 256,
+      "comments": 222,
+      "by": "datascientist"
+    },
+    {
       "id": 50559719,
       "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
       "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
@@ -92,20 +124,20 @@
       "by": "krthr"
     },
     {
-      "id": 50561508,
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "points": 216,
-      "comments": 195,
-      "by": "datascientist"
+      "id": 50569890,
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "points": 228,
+      "comments": 10,
+      "by": "linzhangrun"
     },
     {
-      "id": 50564159,
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "points": 207,
-      "comments": 112,
-      "by": "dev1one1"
+      "id": 50571189,
+      "title": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "points": 213,
+      "comments": 223,
+      "by": "BrunoBernardino"
     },
     {
       "id": 50536950,
@@ -124,6 +156,22 @@
       "by": "cornholemedia"
     },
     {
+      "id": 50569998,
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "points": 161,
+      "comments": 26,
+      "by": "gyan"
+    },
+    {
+      "id": 50567209,
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "points": 158,
+      "comments": 117,
+      "by": "choult"
+    },
+    {
       "id": 50559179,
       "title": "Unblockable communication with gravity",
       "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
@@ -132,12 +180,12 @@
       "by": "rbanffy"
     },
     {
-      "id": 50528119,
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "points": 138,
-      "comments": 30,
-      "by": "o4c"
+      "id": 50570628,
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "points": 137,
+      "comments": 91,
+      "by": "renehsz"
     },
     {
       "id": 50568130,
@@ -148,12 +196,36 @@
       "by": "hn-aarvin"
     },
     {
-      "id": 50567209,
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "points": 106,
-      "comments": 72,
-      "by": "choult"
+      "id": 50572503,
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "points": 123,
+      "comments": 86,
+      "by": "shioyama"
+    },
+    {
+      "id": 50568861,
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "points": 118,
+      "comments": 55,
+      "by": "emot"
+    },
+    {
+      "id": 50569516,
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "points": 116,
+      "comments": 13,
+      "by": "craigkerstiens"
+    },
+    {
+      "id": 50538977,
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "points": 102,
+      "comments": 8,
+      "by": "lexandstuff"
     },
     {
       "id": 50568082,
@@ -172,6 +244,14 @@
       "by": "D_R_Farrell"
     },
     {
+      "id": 50572116,
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "points": 82,
+      "comments": 45,
+      "by": "sammatilda"
+    },
+    {
       "id": 50561170,
       "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
       "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
@@ -180,12 +260,28 @@
       "by": "ohjeez"
     },
     {
+      "id": 50569519,
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "points": 81,
+      "comments": 142,
+      "by": "jdkee"
+    },
+    {
       "id": 50564366,
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "points": 78,
       "comments": 146,
       "by": "sandslash"
+    },
+    {
+      "id": 50523241,
+      "title": "The Strongest Sokoban Solver",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "points": 75,
+      "comments": 14,
+      "by": "ibobev"
     },
     {
       "id": 50566261,
@@ -212,6 +308,46 @@
       "by": "somebudyelse"
     },
     {
+      "id": 50572430,
+      "title": "UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "points": 50,
+      "comments": 34,
+      "by": "tomnext"
+    },
+    {
+      "id": 50545818,
+      "title": "\u00b5-Wire \u2013 USB on an ATtiny 10",
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "points": 47,
+      "comments": 1,
+      "by": "mofosyne"
+    },
+    {
+      "id": 50521512,
+      "title": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "points": 46,
+      "comments": 2,
+      "by": "efren6"
+    },
+    {
+      "id": 50537492,
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "points": 44,
+      "comments": 0,
+      "by": "g0xA52A2A"
+    },
+    {
+      "id": 50572355,
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "points": 40,
+      "comments": 20,
+      "by": "sammatilda"
+    },
+    {
       "id": 50517657,
       "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
       "url": "https://www.tisonkun.io/posts/ai-repair-program/",
@@ -220,12 +356,28 @@
       "by": "tison"
     },
     {
-      "id": 50538977,
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "points": 13,
-      "comments": 0,
-      "by": "lexandstuff"
+      "id": 50573087,
+      "title": "Why do tech leaders sound so illogical and off-putting?",
+      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "points": 25,
+      "comments": 15,
+      "by": "pseudolus"
+    },
+    {
+      "id": 50541568,
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "points": 15,
+      "comments": 12,
+      "by": "brianrhea"
+    },
+    {
+      "id": 50572822,
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "points": 14,
+      "comments": 3,
+      "by": "hggh"
     },
     {
       "id": 50530132,
@@ -236,12 +388,36 @@
       "by": "rbanffy"
     },
     {
-      "id": 50568861,
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "id": 50541018,
+      "title": "Can I borrow a lunar rover? (2013)",
+      "url": "https://space.stackexchange.com/questions/2095",
+      "points": 10,
+      "comments": 5,
+      "by": "Skyfall106"
+    },
+    {
+      "id": 50572448,
+      "title": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "points": 10,
+      "comments": 4,
+      "by": "walterschnitzel"
+    },
+    {
+      "id": 50500000,
+      "title": "Show HN: Radiotherapy Delivery Demo",
+      "url": "https://tps.neuralrad.com",
       "points": 6,
-      "comments": 2,
-      "by": "emot"
+      "comments": 1,
+      "by": "coolwulf"
+    },
+    {
+      "id": 50530426,
+      "title": "Making Art with QR Codes, and the Fine Line Between Inspiration and Idea Theft",
+      "url": "https://www.gorillasun.de/blog/making-art-with-qr-codes-and-the-fine-line-between-inspiration-and-idea-theft/",
+      "points": 3,
+      "comments": 0,
+      "by": "gorillasun"
     }
   ]
 }
