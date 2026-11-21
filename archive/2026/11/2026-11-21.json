@@ -1,30 +1,30 @@
 {
   "date": "2026-11-21",
-  "updated_at": "2026-11-21T02:20:12+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-21T11:03:07+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50574968,
       "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "points": 2384,
-      "comments": 1610,
+      "points": 2657,
+      "comments": 1841,
       "by": "iamronaldo"
     },
     {
       "id": 50579568,
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "points": 1598,
-      "comments": 725,
+      "points": 2105,
+      "comments": 977,
       "by": "jasondavies"
     },
     {
       "id": 50581260,
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "points": 698,
-      "comments": 115,
+      "points": 1026,
+      "comments": 194,
       "by": "jasondavies"
     },
     {
@@ -47,33 +47,65 @@
       "id": 50578358,
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "points": 350,
-      "comments": 142,
+      "points": 452,
+      "comments": 184,
       "by": "archon1410"
-    },
-    {
-      "id": 50577265,
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "points": 343,
-      "comments": 112,
-      "by": "lwhsiao"
     },
     {
       "id": 50579331,
       "title": "We promoted developers into architects without informing them",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "points": 310,
-      "comments": 188,
+      "points": 444,
+      "comments": 241,
       "by": "QueensGambit"
+    },
+    {
+      "id": 50577265,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "points": 416,
+      "comments": 122,
+      "by": "lwhsiao"
+    },
+    {
+      "id": 50574383,
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "points": 324,
+      "comments": 599,
+      "by": "cdrnsf"
+    },
+    {
+      "id": 50581084,
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "points": 301,
+      "comments": 263,
+      "by": "stratos123"
     },
     {
       "id": 50576232,
       "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
       "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "points": 260,
-      "comments": 82,
+      "points": 292,
+      "comments": 92,
       "by": "trotro"
+    },
+    {
+      "id": 50576012,
+      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "points": 288,
+      "comments": 48,
+      "by": "mlacher"
+    },
+    {
+      "id": 50583274,
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "points": 267,
+      "comments": 70,
+      "by": "CharlesW"
     },
     {
       "id": 50526023,
@@ -92,20 +124,52 @@
       "by": "ftchd"
     },
     {
-      "id": 50581084,
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "url": "https://scottaaronson.blog/?p=10344",
-      "points": 221,
-      "comments": 193,
-      "by": "stratos123"
+      "id": 50581110,
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "points": 222,
+      "comments": 70,
+      "by": "facundo_olano"
     },
     {
-      "id": 50583274,
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "points": 135,
-      "comments": 27,
-      "by": "CharlesW"
+      "id": 50583761,
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": null,
+      "points": 215,
+      "comments": 165,
+      "by": "LetThingsBeDiff"
+    },
+    {
+      "id": 50541568,
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "points": 181,
+      "comments": 116,
+      "by": "brianrhea"
+    },
+    {
+      "id": 50580536,
+      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "points": 152,
+      "comments": 42,
+      "by": "sohzm"
+    },
+    {
+      "id": 50579297,
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "points": 150,
+      "comments": 62,
+      "by": "ankitvgupta"
+    },
+    {
+      "id": 50534387,
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "points": 141,
+      "comments": 48,
+      "by": "reconditerose"
     },
     {
       "id": 50583982,
@@ -116,28 +180,28 @@
       "by": "_dain_"
     },
     {
-      "id": 50579297,
-      "title": "Vibecoding an inference chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "points": 117,
-      "comments": 41,
-      "by": "ankitvgupta"
+      "id": 50495392,
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "points": 122,
+      "comments": 88,
+      "by": "edward"
     },
     {
-      "id": 50581110,
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "points": 113,
-      "comments": 17,
-      "by": "facundo_olano"
+      "id": 50583768,
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "points": 116,
+      "comments": 25,
+      "by": "mooreds"
     },
     {
-      "id": 50580536,
-      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
-      "url": "https://winedroid.soham.sh/demo/",
+      "id": 50585376,
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
       "points": 105,
-      "comments": 31,
-      "by": "sohzm"
+      "comments": 32,
+      "by": "sammatilda"
     },
     {
       "id": 50577613,
@@ -156,12 +220,20 @@
       "by": "notfried"
     },
     {
-      "id": 50495392,
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "points": 88,
-      "comments": 58,
-      "by": "edward"
+      "id": 50583856,
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "points": 92,
+      "comments": 46,
+      "by": "Bender"
+    },
+    {
+      "id": 50586292,
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "points": 71,
+      "comments": 21,
+      "by": "Ricapar"
     },
     {
       "id": 50581403,
@@ -180,6 +252,14 @@
       "by": "jasperstory"
     },
     {
+      "id": 50586648,
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "points": 50,
+      "comments": 11,
+      "by": "NordStreamYacht"
+    },
+    {
       "id": 50521550,
       "title": "I can\u2019t believe it\u2019s 1!",
       "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
@@ -188,20 +268,20 @@
       "by": "ColinWright"
     },
     {
-      "id": 50534387,
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "points": 40,
-      "comments": 21,
-      "by": "reconditerose"
+      "id": 50556482,
+      "title": "Fewer slides, more dragons",
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "points": 36,
+      "comments": 13,
+      "by": "firloop"
     },
     {
-      "id": 50583768,
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "points": 39,
-      "comments": 8,
-      "by": "mooreds"
+      "id": 50540342,
+      "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
+      "url": "https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/",
+      "points": 24,
+      "comments": 5,
+      "by": "rguiscard"
     },
     {
       "id": 50583117,
@@ -212,6 +292,14 @@
       "by": "undefinedmethod"
     },
     {
+      "id": 50587208,
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "points": 16,
+      "comments": 1,
+      "by": "gdgghhhhh"
+    },
+    {
       "id": 50583134,
       "title": "Merkle Tree Certificates",
       "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
@@ -220,12 +308,28 @@
       "by": "mooreds"
     },
     {
-      "id": 50583856,
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "points": 10,
+      "id": 50587859,
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "points": 15,
+      "comments": 0,
+      "by": "theanonymousone"
+    },
+    {
+      "id": 50543887,
+      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "points": 14,
+      "comments": 3,
+      "by": "Tomte"
+    },
+    {
+      "id": 50557025,
+      "title": "Engineer's Guide to Career Growth \u2013 Advice from My Time at Stripe and Facebook",
+      "url": "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/",
+      "points": 7,
       "comments": 1,
-      "by": "Bender"
+      "by": "kurinikku"
     },
     {
       "id": 50549441,
@@ -234,6 +338,14 @@
       "points": 6,
       "comments": 5,
       "by": "speckx"
+    },
+    {
+      "id": 50587205,
+      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+      "points": 4,
+      "comments": 0,
+      "by": "rbanffy"
     },
     {
       "id": 50584776,
