@@ -1,30 +1,30 @@
 {
   "date": "2026-11-21",
-  "updated_at": "2026-11-21T11:03:07+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-21T19:25:09+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50574968,
       "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "points": 2657,
-      "comments": 1841,
+      "points": 2831,
+      "comments": 2004,
       "by": "iamronaldo"
     },
     {
       "id": 50579568,
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "points": 2105,
-      "comments": 977,
+      "points": 2328,
+      "comments": 1116,
       "by": "jasondavies"
     },
     {
       "id": 50581260,
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "points": 1026,
-      "comments": 194,
+      "points": 1271,
+      "comments": 258,
       "by": "jasondavies"
     },
     {
@@ -36,6 +36,46 @@
       "by": "sammatilda"
     },
     {
+      "id": 50576012,
+      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "points": 572,
+      "comments": 113,
+      "by": "mlacher"
+    },
+    {
+      "id": 50579331,
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "points": 544,
+      "comments": 298,
+      "by": "QueensGambit"
+    },
+    {
+      "id": 50532613,
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "points": 532,
+      "comments": 173,
+      "by": "dvaplima"
+    },
+    {
+      "id": 50589618,
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "points": 520,
+      "comments": 411,
+      "by": "g-b-r"
+    },
+    {
+      "id": 50578358,
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "points": 516,
+      "comments": 223,
+      "by": "archon1410"
+    },
+    {
       "id": 50572348,
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy/",
@@ -44,28 +84,44 @@
       "by": "dotcoma"
     },
     {
-      "id": 50578358,
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "points": 452,
-      "comments": 184,
-      "by": "archon1410"
-    },
-    {
-      "id": 50579331,
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "points": 444,
-      "comments": 241,
-      "by": "QueensGambit"
+      "id": 50583761,
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": null,
+      "points": 492,
+      "comments": 543,
+      "by": "LetThingsBeDiff"
     },
     {
       "id": 50577265,
       "title": "Language Models Can Rewrite Their Own Weights",
       "url": "https://arxiv.org/abs/2611.21885",
-      "points": 416,
-      "comments": 122,
+      "points": 467,
+      "comments": 140,
       "by": "lwhsiao"
+    },
+    {
+      "id": 50588982,
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "points": 386,
+      "comments": 247,
+      "by": "beginning_end"
+    },
+    {
+      "id": 50583274,
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "points": 337,
+      "comments": 93,
+      "by": "CharlesW"
+    },
+    {
+      "id": 50587875,
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "points": 327,
+      "comments": 164,
+      "by": "soheilpro"
     },
     {
       "id": 50574383,
@@ -92,22 +148,6 @@
       "by": "trotro"
     },
     {
-      "id": 50576012,
-      "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
-      "url": "https://slopstrap.mikelacher.com/",
-      "points": 288,
-      "comments": 48,
-      "by": "mlacher"
-    },
-    {
-      "id": 50583274,
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "points": 267,
-      "comments": 70,
-      "by": "CharlesW"
-    },
-    {
       "id": 50526023,
       "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
       "url": "https://kobi.music/research/dettato",
@@ -132,12 +172,12 @@
       "by": "facundo_olano"
     },
     {
-      "id": 50583761,
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": null,
-      "points": 215,
-      "comments": 165,
-      "by": "LetThingsBeDiff"
+      "id": 50587208,
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "points": 187,
+      "comments": 63,
+      "by": "gdgghhhhh"
     },
     {
       "id": 50541568,
@@ -146,6 +186,14 @@
       "points": 181,
       "comments": 116,
       "by": "brianrhea"
+    },
+    {
+      "id": 50585376,
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "points": 179,
+      "comments": 82,
+      "by": "sammatilda"
     },
     {
       "id": 50580536,
@@ -172,6 +220,30 @@
       "by": "reconditerose"
     },
     {
+      "id": 50586292,
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "points": 139,
+      "comments": 43,
+      "by": "Ricapar"
+    },
+    {
+      "id": 50588916,
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "url": "https://simple-bench.com/",
+      "points": 136,
+      "comments": 121,
+      "by": "algoth1"
+    },
+    {
+      "id": 50586648,
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "points": 130,
+      "comments": 27,
+      "by": "NordStreamYacht"
+    },
+    {
       "id": 50583982,
       "title": "Re: Riemann",
       "url": "https://borretti.me/article/re-riemann",
@@ -188,6 +260,14 @@
       "by": "edward"
     },
     {
+      "id": 50546587,
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "points": 121,
+      "comments": 84,
+      "by": "fortran77"
+    },
+    {
       "id": 50583768,
       "title": "Sir Brian May adds new dimension to Hera asteroid",
       "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
@@ -196,12 +276,12 @@
       "by": "mooreds"
     },
     {
-      "id": 50585376,
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "points": 105,
-      "comments": 32,
-      "by": "sammatilda"
+      "id": 50591835,
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "points": 102,
+      "comments": 151,
+      "by": "andsoitis"
     },
     {
       "id": 50577613,
@@ -228,12 +308,20 @@
       "by": "Bender"
     },
     {
-      "id": 50586292,
-      "title": "ClawDOS \u2013 An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "points": 71,
-      "comments": 21,
-      "by": "Ricapar"
+      "id": 50577991,
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "url": "https://klauria.tech/klauria-art/",
+      "points": 90,
+      "comments": 16,
+      "by": "evakhoury"
+    },
+    {
+      "id": 50591853,
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "points": 87,
+      "comments": 8,
+      "by": "k__"
     },
     {
       "id": 50581403,
@@ -252,12 +340,28 @@
       "by": "jasperstory"
     },
     {
-      "id": 50586648,
-      "title": "Surprisingly Adorable Insect Portraits",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "points": 50,
-      "comments": 11,
-      "by": "NordStreamYacht"
+      "id": 50590279,
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "points": 64,
+      "comments": 45,
+      "by": "reverseblade2"
+    },
+    {
+      "id": 50591260,
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "points": 61,
+      "comments": 2,
+      "by": "valyala"
+    },
+    {
+      "id": 50574264,
+      "title": "Deterministic Simulation Testing Is for Everyone",
+      "url": "https://outdata.net/blog/261120",
+      "points": 54,
+      "comments": 6,
+      "by": "pgraug"
     },
     {
       "id": 50521550,
@@ -268,12 +372,36 @@
       "by": "ColinWright"
     },
     {
+      "id": 50590441,
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "points": 38,
+      "comments": 11,
+      "by": "Bluestein"
+    },
+    {
       "id": 50556482,
       "title": "Fewer slides, more dragons",
       "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
       "points": 36,
       "comments": 13,
       "by": "firloop"
+    },
+    {
+      "id": 50535228,
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "url": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+      "points": 36,
+      "comments": 10,
+      "by": "andrewstuart"
+    },
+    {
+      "id": 50541047,
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "url": "https://github.com/kborer/cells/",
+      "points": 26,
+      "comments": 10,
+      "by": "kborer"
     },
     {
       "id": 50540342,
@@ -290,14 +418,6 @@
       "points": 18,
       "comments": 8,
       "by": "undefinedmethod"
-    },
-    {
-      "id": 50587208,
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "points": 16,
-      "comments": 1,
-      "by": "gdgghhhhh"
     },
     {
       "id": 50583134,
@@ -324,6 +444,14 @@
       "by": "Tomte"
     },
     {
+      "id": 50550015,
+      "title": "How I made a custom game engine for Satelital",
+      "url": "https://spectralorbit.com/blog/satelital_game_engine",
+      "points": 10,
+      "comments": 1,
+      "by": "todsacerdoti"
+    },
+    {
       "id": 50557025,
       "title": "Engineer's Guide to Career Growth \u2013 Advice from My Time at Stripe and Facebook",
       "url": "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/",
@@ -346,6 +474,14 @@
       "points": 4,
       "comments": 0,
       "by": "rbanffy"
+    },
+    {
+      "id": 50532417,
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "points": 4,
+      "comments": 0,
+      "by": "PaulHoule"
     },
     {
       "id": 50584776,
