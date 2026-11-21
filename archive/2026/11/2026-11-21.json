@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T02:20:12+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50574968,
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "points": 2384,
+      "comments": 1610,
+      "by": "iamronaldo"
+    },
+    {
+      "id": 50579568,
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "points": 1598,
+      "comments": 725,
+      "by": "jasondavies"
+    },
+    {
+      "id": 50581260,
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "points": 698,
+      "comments": 115,
+      "by": "jasondavies"
+    },
+    {
+      "id": 50572355,
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "points": 630,
+      "comments": 293,
+      "by": "sammatilda"
+    },
+    {
+      "id": 50572348,
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "points": 512,
+      "comments": 306,
+      "by": "dotcoma"
+    },
+    {
+      "id": 50578358,
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "points": 350,
+      "comments": 142,
+      "by": "archon1410"
+    },
+    {
+      "id": 50577265,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "points": 343,
+      "comments": 112,
+      "by": "lwhsiao"
+    },
+    {
+      "id": 50579331,
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "points": 310,
+      "comments": 188,
+      "by": "QueensGambit"
+    },
+    {
+      "id": 50576232,
+      "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "points": 260,
+      "comments": 82,
+      "by": "trotro"
+    },
+    {
+      "id": 50526023,
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "points": 243,
+      "comments": 51,
+      "by": "hidude562"
+    },
+    {
+      "id": 50581438,
+      "title": "US SEC's Nvidia probe is examining potential accounting issues \u2013 sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "points": 228,
+      "comments": 118,
+      "by": "ftchd"
+    },
+    {
+      "id": 50581084,
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "points": 221,
+      "comments": 193,
+      "by": "stratos123"
+    },
+    {
+      "id": 50583274,
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "points": 135,
+      "comments": 27,
+      "by": "CharlesW"
+    },
+    {
+      "id": 50583982,
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "points": 127,
+      "comments": 112,
+      "by": "_dain_"
+    },
+    {
+      "id": 50579297,
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "points": 117,
+      "comments": 41,
+      "by": "ankitvgupta"
+    },
+    {
+      "id": 50581110,
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "points": 113,
+      "comments": 17,
+      "by": "facundo_olano"
+    },
+    {
+      "id": 50580536,
+      "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "points": 105,
+      "comments": 31,
+      "by": "sohzm"
+    },
+    {
+      "id": 50577613,
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": null,
+      "points": 96,
+      "comments": 132,
+      "by": "proberts"
+    },
+    {
+      "id": 50581177,
+      "title": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "points": 92,
+      "comments": 45,
+      "by": "notfried"
+    },
+    {
+      "id": 50495392,
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "points": 88,
+      "comments": 58,
+      "by": "edward"
+    },
+    {
+      "id": 50581403,
+      "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "points": 69,
+      "comments": 22,
+      "by": "iacguy"
+    },
+    {
+      "id": 50532515,
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "points": 64,
+      "comments": 10,
+      "by": "jasperstory"
+    },
+    {
+      "id": 50521550,
+      "title": "I can\u2019t believe it\u2019s 1!",
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "points": 46,
+      "comments": 54,
+      "by": "ColinWright"
+    },
+    {
+      "id": 50534387,
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "points": 40,
+      "comments": 21,
+      "by": "reconditerose"
+    },
+    {
+      "id": 50583768,
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "points": 39,
+      "comments": 8,
+      "by": "mooreds"
+    },
+    {
+      "id": 50583117,
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "points": 18,
+      "comments": 8,
+      "by": "undefinedmethod"
+    },
+    {
+      "id": 50583134,
+      "title": "Merkle Tree Certificates",
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "points": 15,
+      "comments": 2,
+      "by": "mooreds"
+    },
+    {
+      "id": 50583856,
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "points": 10,
+      "comments": 1,
+      "by": "Bender"
+    },
+    {
+      "id": 50549441,
+      "title": "Forking TuxGuitar into a 17-EDO tab editor",
+      "url": "https://frogwizard.bearblog.dev/tuxguitar-17edo/",
+      "points": 6,
+      "comments": 5,
+      "by": "speckx"
+    },
+    {
+      "id": 50584776,
+      "title": "Integrals of Polynomials with Galois Group S_p",
+      "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+      "points": 3,
+      "comments": 1,
+      "by": "richard_chase"
+    }
+  ]
+}

@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-20](archive/2026/11/2026-11-20.md)
+### Latest: [2026-11-21](archive/2026/11/2026-11-21.md)
 
-Top 10 of 77 stories so far, last updated 2026-11-20 20:20 UTC. **22** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-21 02:20 UTC. **23** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Levent Alpöge claims proof of the Generalized Riemann Hypothesis \[pdf\]](https://alpo.ge/remark.pdf) <sub>alpo.ge</sub> | 1975 | [1327](https://news.ycombinator.com/item?id=50574968) |
-| 2 | [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) <sub>reuters.com</sub> | 926 | [1828](https://news.ycombinator.com/item?id=50562754) |
-| 3 | [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) <sub>newscientist.com</sub> | 792 | [137](https://news.ycombinator.com/item?id=50563066) |
-| 4 | [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) <sub>blog.harrison.page</sub> | 762 | [318](https://news.ycombinator.com/item?id=50519231) |
-| 5 | [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) <sub>poolp.org</sub> | 714 | [470](https://news.ycombinator.com/item?id=50576855) |
-| 6 | [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) <sub>element.io</sub> | 666 | [323](https://news.ycombinator.com/item?id=50558533) |
-| 7 | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) <sub>math216.wordpress.com</sub> | 628 | [267](https://news.ycombinator.com/item?id=50579568) |
-| 8 | [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) <sub>architectlabs.com</sub> | 549 | [295](https://news.ycombinator.com/item?id=50572503) |
-| 9 | [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) <sub>kottke.org</sub> | 531 | [268](https://news.ycombinator.com/item?id=50572355) |
-| 10 | [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) <sub>macanorak.com</sub> | 515 | [235](https://news.ycombinator.com/item?id=50562113) |
+| 1 | [Levent Alpöge claims proof of the Generalized Riemann Hypothesis \[pdf\]](https://alpo.ge/remark.pdf) <sub>alpo.ge</sub> | 2384 | [1610](https://news.ycombinator.com/item?id=50574968) |
+| 2 | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) <sub>math216.wordpress.com</sub> | 1598 | [725](https://news.ycombinator.com/item?id=50579568) |
+| 3 | [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) <sub>thinkingmachines.ai</sub> | 698 | [115](https://news.ycombinator.com/item?id=50581260) |
+| 4 | [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) <sub>kottke.org</sub> | 630 | [293](https://news.ycombinator.com/item?id=50572355) |
+| 5 | [Restricting AI agents in mobile operating systems platforms from capturing data](https://signal.org/blog/protecting-your-privacy/) <sub>signal.org</sub> | 512 | [306](https://news.ycombinator.com/item?id=50572348) |
+| 6 | [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) <sub>terrytao.wordpress.com</sub> | 350 | [142](https://news.ycombinator.com/item?id=50578358) |
+| 7 | [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) <sub>arxiv.org</sub> | 343 | [112](https://news.ycombinator.com/item?id=50577265) |
+| 8 | [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) <sub>manidoraisamy.com</sub> | 310 | [188](https://news.ycombinator.com/item?id=50579331) |
+| 9 | [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) <sub>github.com</sub> | 260 | [82](https://news.ycombinator.com/item?id=50576232) |
+| 10 | [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato) <sub>kobi.music</sub> | 243 | [51](https://news.ycombinator.com/item?id=50526023) |
 <!-- digest:end -->
