@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
-  "updated_at": "2026-11-22T11:28:00+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-22T19:40:18+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50579568,
@@ -20,20 +20,28 @@
       "by": "jasondavies"
     },
     {
-      "id": 50589618,
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "points": 1051,
-      "comments": 877,
-      "by": "g-b-r"
-    },
-    {
       "id": 50582069,
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "points": 1042,
-      "comments": 224,
+      "points": 1293,
+      "comments": 276,
       "by": "rafaelc"
+    },
+    {
+      "id": 50589618,
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "points": 1189,
+      "comments": 984,
+      "by": "g-b-r"
+    },
+    {
+      "id": 50596133,
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "points": 1040,
+      "comments": 620,
+      "by": "zdw"
     },
     {
       "id": 50532613,
@@ -42,6 +50,14 @@
       "points": 744,
       "comments": 238,
       "by": "dvaplima"
+    },
+    {
+      "id": 50597612,
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "points": 651,
+      "comments": 713,
+      "by": "happosai"
     },
     {
       "id": 50588982,
@@ -68,12 +84,20 @@
       "by": "soheilpro"
     },
     {
-      "id": 50596133,
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "points": 546,
-      "comments": 340,
-      "by": "zdw"
+      "id": 50591853,
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "points": 551,
+      "comments": 132,
+      "by": "k__"
+    },
+    {
+      "id": 50594911,
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "points": 500,
+      "comments": 173,
+      "by": "subdomain"
     },
     {
       "id": 50575644,
@@ -84,28 +108,20 @@
       "by": "lapcat"
     },
     {
-      "id": 50591853,
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "points": 477,
-      "comments": 118,
-      "by": "k__"
-    },
-    {
       "id": 50583028,
       "title": "Getting the mind to steer the body to steer you",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "points": 288,
-      "comments": 98,
+      "points": 380,
+      "comments": 149,
       "by": "jger15"
     },
     {
-      "id": 50594911,
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "points": 286,
-      "comments": 93,
-      "by": "subdomain"
+      "id": 50595554,
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "points": 259,
+      "comments": 88,
+      "by": "sdko"
     },
     {
       "id": 50587208,
@@ -124,6 +140,22 @@
       "by": "fortran77"
     },
     {
+      "id": 50601525,
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "points": 233,
+      "comments": 163,
+      "by": "acossta"
+    },
+    {
+      "id": 50599762,
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "points": 181,
+      "comments": 46,
+      "by": "ivantgam"
+    },
+    {
       "id": 50593737,
       "title": "Advice for the next 100 Rust GUIs",
       "url": "https://linebender.org/blog/next-100-guis/",
@@ -132,20 +164,20 @@
       "by": "raphlinus"
     },
     {
-      "id": 50595554,
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "points": 166,
-      "comments": 65,
-      "by": "sdko"
+      "id": 50596155,
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "points": 159,
+      "comments": 120,
+      "by": "BaselAshraf81"
     },
     {
-      "id": 50597612,
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "points": 160,
-      "comments": 207,
-      "by": "happosai"
+      "id": 50600511,
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "points": 155,
+      "comments": 157,
+      "by": "doener"
     },
     {
       "id": 50577991,
@@ -188,12 +220,28 @@
       "by": "valyala"
     },
     {
+      "id": 50600677,
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "points": 113,
+      "comments": 98,
+      "by": "atmosx"
+    },
+    {
       "id": 50593481,
       "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
       "url": "https://www.pandex.io",
       "points": 98,
       "comments": 23,
       "by": "vasie"
+    },
+    {
+      "id": 50566495,
+      "title": "Self-hosted library branch over public web OPDS",
+      "url": "https://joinmayberry.com/",
+      "points": 95,
+      "comments": 28,
+      "by": "philips"
     },
     {
       "id": 50590441,
@@ -212,6 +260,22 @@
       "by": "neuwirth"
     },
     {
+      "id": 50596960,
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "points": 85,
+      "comments": 11,
+      "by": "kouosi"
+    },
+    {
+      "id": 50600435,
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "points": 84,
+      "comments": 43,
+      "by": "cube00"
+    },
+    {
       "id": 50595537,
       "title": "The Mythology of Conscious AI",
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
@@ -220,20 +284,60 @@
       "by": "Anon84"
     },
     {
+      "id": 50555002,
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": null,
+      "points": 71,
+      "comments": 50,
+      "by": "llmblockchain"
+    },
+    {
+      "id": 50594182,
+      "title": "A Better Vocabulary for Testing",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "points": 67,
+      "comments": 17,
+      "by": "alpaylan"
+    },
+    {
+      "id": 50600622,
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "points": 66,
+      "comments": 17,
+      "by": "fortran77"
+    },
+    {
+      "id": 50602847,
+      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "points": 58,
+      "comments": 20,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50597959,
+      "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "points": 57,
+      "comments": 9,
+      "by": "joshcsimmons"
+    },
+    {
+      "id": 50551397,
+      "title": "The Where's Waldo of the 1500s",
+      "url": "https://blog.alexbeals.com/posts/il-civetta",
+      "points": 56,
+      "comments": 9,
+      "by": "speckx"
+    },
+    {
       "id": 50596664,
       "title": "Show HN: The Riemann Proof Handbook",
       "url": "https://github.com/tamnd/riemann-handbook",
       "points": 55,
       "comments": 20,
       "by": "tamnd"
-    },
-    {
-      "id": 50596155,
-      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "points": 42,
-      "comments": 27,
-      "by": "BaselAshraf81"
     },
     {
       "id": 50532417,
@@ -268,14 +372,6 @@
       "by": "surprisetalk"
     },
     {
-      "id": 50596960,
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "points": 34,
-      "comments": 5,
-      "by": "kouosi"
-    },
-    {
       "id": 50594564,
       "title": "International UN talks on controlling use of autonomous weapons collapse",
       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
@@ -284,12 +380,44 @@
       "by": "nephihaha"
     },
     {
+      "id": 50599309,
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "points": 32,
+      "comments": 4,
+      "by": "meysamazad"
+    },
+    {
       "id": 50533517,
       "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
       "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
       "points": 31,
       "comments": 37,
       "by": "chippy"
+    },
+    {
+      "id": 50573870,
+      "title": "Field Mice on Drugs",
+      "url": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+      "points": 31,
+      "comments": 11,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50600521,
+      "title": "Fascism and Monopoly",
+      "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+      "points": 27,
+      "comments": 6,
+      "by": "doener"
+    },
+    {
+      "id": 50562207,
+      "title": "Inside PyPy: First Contact with RPython",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "points": 27,
+      "comments": 4,
+      "by": "lumpa"
     },
     {
       "id": 50593637,
@@ -308,6 +436,14 @@
       "by": "buibuibui"
     },
     {
+      "id": 50559441,
+      "title": "The Transvoxel Algorithm",
+      "url": "https://transvoxel.org/",
+      "points": 22,
+      "comments": 1,
+      "by": "klaussilveira"
+    },
+    {
       "id": 50533945,
       "title": "A real Linux kernel, compiled to WebAssembly",
       "url": "https://github.com/pithings/unkernel",
@@ -322,6 +458,14 @@
       "points": 18,
       "comments": 0,
       "by": "maybevoid"
+    },
+    {
+      "id": 50566886,
+      "title": "What Makes UltraSMR Different?",
+      "url": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
+      "points": 18,
+      "comments": 21,
+      "by": "bluedino"
     },
     {
       "id": 50487155,
@@ -356,20 +500,28 @@
       "by": "rzk"
     },
     {
-      "id": 50566495,
-      "title": "Self-hosted library branch over public web OPDS",
-      "url": "https://joinmayberry.com/",
-      "points": 4,
-      "comments": 0,
-      "by": "philips"
-    },
-    {
       "id": 50553223,
       "title": "Shaping the Loops, Closing the Loops",
       "url": "https://revyl.com/blog/pattern-engineering/",
       "points": 3,
       "comments": 2,
       "by": "based0x10"
+    },
+    {
+      "id": 50602660,
+      "title": "Dirac's Theorem at a Dinner Party",
+      "url": "https://prideout.net/blog/dirac-dinner-party/",
+      "points": 3,
+      "comments": 0,
+      "by": "prideout"
+    },
+    {
+      "id": 50556249,
+      "title": "Agentics: Mushy Software",
+      "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+      "points": 3,
+      "comments": 0,
+      "by": "theahura"
     }
   ]
 }
