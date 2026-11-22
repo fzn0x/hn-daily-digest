@@ -18,18 +18,18 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-22](archive/2026/11/2026-11-22.md)
 
-Top 10 of 30 stories so far, last updated 2026-11-22 01:23 UTC. **24** days archived.
+Top 10 of 46 stories so far, last updated 2026-11-22 11:28 UTC. **24** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) <sub>math216.wordpress.com</sub> | 2389 | [1160](https://news.ycombinator.com/item?id=50579568) |
+| 1 | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) <sub>math216.wordpress.com</sub> | 2424 | [1178](https://news.ycombinator.com/item?id=50579568) |
 | 2 | [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) <sub>thinkingmachines.ai</sub> | 1383 | [280](https://news.ycombinator.com/item?id=50581260) |
-| 3 | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) <sub>leanprover-community.github.io</sub> | 819 | [659](https://news.ycombinator.com/item?id=50589618) |
-| 4 | [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) <sub>gov.br</sub> | 744 | [238](https://news.ycombinator.com/item?id=50532613) |
-| 5 | [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761) <sub>news.ycombinator.com</sub> | 609 | [678](https://news.ycombinator.com/item?id=50583761) |
-| 6 | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) <sub>theguardian.com</sub> | 581 | [140](https://news.ycombinator.com/item?id=50582069) |
-| 7 | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) <sub>science.org</sub> | 515 | [345](https://news.ycombinator.com/item?id=50588982) |
-| 8 | [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) <sub>blog.tymscar.com</sub> | 482 | [231](https://news.ycombinator.com/item?id=50587875) |
-| 9 | [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) <sub>blog.mozilla.org</sub> | 479 | [269](https://news.ycombinator.com/item?id=50575644) |
-| 10 | [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) <sub>github.com</sub> | 348 | [91](https://news.ycombinator.com/item?id=50591853) |
+| 3 | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) <sub>leanprover-community.github.io</sub> | 1051 | [877](https://news.ycombinator.com/item?id=50589618) |
+| 4 | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) <sub>theguardian.com</sub> | 1042 | [224](https://news.ycombinator.com/item?id=50582069) |
+| 5 | [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) <sub>gov.br</sub> | 744 | [238](https://news.ycombinator.com/item?id=50532613) |
+| 6 | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) <sub>science.org</sub> | 622 | [391](https://news.ycombinator.com/item?id=50588982) |
+| 7 | [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761) <sub>news.ycombinator.com</sub> | 609 | [678](https://news.ycombinator.com/item?id=50583761) |
+| 8 | [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) <sub>blog.tymscar.com</sub> | 594 | [277](https://news.ycombinator.com/item?id=50587875) |
+| 9 | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) <sub>caranddriver.com</sub> | 546 | [340](https://news.ycombinator.com/item?id=50596133) |
+| 10 | [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) <sub>blog.mozilla.org</sub> | 479 | [269](https://news.ycombinator.com/item?id=50575644) |
 <!-- digest:end -->

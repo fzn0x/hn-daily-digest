@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "updated_at": "2026-11-22T01:23:21+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-22T11:28:00+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50579568,
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "points": 2389,
-      "comments": 1160,
+      "points": 2424,
+      "comments": 1178,
       "by": "jasondavies"
     },
     {
@@ -23,9 +23,17 @@
       "id": 50589618,
       "title": "Lean verification of the Riemann Hypothesis",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "points": 819,
-      "comments": 659,
+      "points": 1051,
+      "comments": 877,
       "by": "g-b-r"
+    },
+    {
+      "id": 50582069,
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "points": 1042,
+      "comments": 224,
+      "by": "rafaelc"
     },
     {
       "id": 50532613,
@@ -36,6 +44,14 @@
       "by": "dvaplima"
     },
     {
+      "id": 50588982,
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "points": 622,
+      "comments": 391,
+      "by": "beginning_end"
+    },
+    {
       "id": 50583761,
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
       "url": null,
@@ -44,28 +60,20 @@
       "by": "LetThingsBeDiff"
     },
     {
-      "id": 50582069,
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "points": 581,
-      "comments": 140,
-      "by": "rafaelc"
-    },
-    {
-      "id": 50588982,
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "points": 515,
-      "comments": 345,
-      "by": "beginning_end"
-    },
-    {
       "id": 50587875,
       "title": "My monitor was cutting my download speed by 75%",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "points": 482,
-      "comments": 231,
+      "points": 594,
+      "comments": 277,
       "by": "soheilpro"
+    },
+    {
+      "id": 50596133,
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "points": 546,
+      "comments": 340,
+      "by": "zdw"
     },
     {
       "id": 50575644,
@@ -79,25 +87,65 @@
       "id": 50591853,
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "points": 348,
-      "comments": 91,
+      "points": 477,
+      "comments": 118,
       "by": "k__"
     },
     {
-      "id": 50587208,
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "points": 231,
+      "id": 50583028,
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "points": 288,
+      "comments": 98,
+      "by": "jger15"
+    },
+    {
+      "id": 50594911,
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "points": 286,
       "comments": 93,
+      "by": "subdomain"
+    },
+    {
+      "id": 50587208,
+      "title": "GnuPG Security Advisory for GPGME",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "points": 257,
+      "comments": 106,
       "by": "gdgghhhhh"
     },
     {
       "id": 50546587,
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "points": 190,
-      "comments": 123,
+      "points": 257,
+      "comments": 160,
       "by": "fortran77"
+    },
+    {
+      "id": 50593737,
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "points": 173,
+      "comments": 74,
+      "by": "raphlinus"
+    },
+    {
+      "id": 50595554,
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "points": 166,
+      "comments": 65,
+      "by": "sdko"
+    },
+    {
+      "id": 50597612,
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "points": 160,
+      "comments": 207,
+      "by": "happosai"
     },
     {
       "id": 50577991,
@@ -108,14 +156,6 @@
       "by": "evakhoury"
     },
     {
-      "id": 50583028,
-      "title": "Getting the mind to steer the body to steer you",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "points": 143,
-      "comments": 51,
-      "by": "jger15"
-    },
-    {
       "id": 50590279,
       "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -124,12 +164,36 @@
       "by": "reverseblade2"
     },
     {
+      "id": 50592097,
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "points": 124,
+      "comments": 61,
+      "by": "f311a"
+    },
+    {
+      "id": 50594132,
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "points": 121,
+      "comments": 18,
+      "by": "sebaandrada"
+    },
+    {
       "id": 50591260,
       "title": "PostgreSQL Extensions in Go",
       "url": "https://jespino.github.io/gopgext/",
       "points": 117,
       "comments": 20,
       "by": "valyala"
+    },
+    {
+      "id": 50593481,
+      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "points": 98,
+      "comments": 23,
+      "by": "vasie"
     },
     {
       "id": 50590441,
@@ -148,28 +212,28 @@
       "by": "neuwirth"
     },
     {
-      "id": 50593737,
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "points": 78,
-      "comments": 7,
-      "by": "raphlinus"
-    },
-    {
-      "id": 50592097,
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "url": "https://pwn.ai/upload2shell",
+      "id": 50595537,
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "points": 76,
-      "comments": 29,
-      "by": "f311a"
+      "comments": 156,
+      "by": "Anon84"
     },
     {
-      "id": 50594132,
-      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "points": 49,
-      "comments": 4,
-      "by": "sebaandrada"
+      "id": 50596664,
+      "title": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "points": 55,
+      "comments": 20,
+      "by": "tamnd"
+    },
+    {
+      "id": 50596155,
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "points": 42,
+      "comments": 27,
+      "by": "BaselAshraf81"
     },
     {
       "id": 50532417,
@@ -180,12 +244,36 @@
       "by": "PaulHoule"
     },
     {
+      "id": 50560314,
+      "title": "Split Radiance Cascades",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "points": 38,
+      "comments": 0,
+      "by": "ibobev"
+    },
+    {
+      "id": 50569846,
+      "title": "If tiny 'primordial' black holes exist",
+      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "points": 37,
+      "comments": 16,
+      "by": "wglb"
+    },
+    {
       "id": 50560203,
       "title": "Windows has two settings that bring work back after restart, both off by default",
       "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
       "points": 34,
       "comments": 31,
       "by": "surprisetalk"
+    },
+    {
+      "id": 50596960,
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "points": 34,
+      "comments": 5,
+      "by": "kouosi"
     },
     {
       "id": 50594564,
@@ -204,20 +292,28 @@
       "by": "chippy"
     },
     {
-      "id": 50593481,
-      "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "points": 27,
-      "comments": 4,
-      "by": "vasie"
-    },
-    {
       "id": 50593637,
       "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
       "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
       "points": 26,
       "comments": 11,
       "by": "marojejian"
+    },
+    {
+      "id": 50544428,
+      "title": "Reaktiv Workbook \u2013 A spreadsheet where every cell is Python",
+      "url": "https://workbook.bui.app/",
+      "points": 26,
+      "comments": 4,
+      "by": "buibuibui"
+    },
+    {
+      "id": 50533945,
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "url": "https://github.com/pithings/unkernel",
+      "points": 21,
+      "comments": 4,
+      "by": "DonAtimator"
     },
     {
       "id": 50548136,
@@ -228,12 +324,44 @@
       "by": "maybevoid"
     },
     {
-      "id": 50594911,
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "points": 5,
+      "id": 50487155,
+      "title": "Show HN: Compile the same source for GPUs and CPUs",
+      "url": "https://github.com/ThrudTheBarbarian/xc",
+      "points": 16,
+      "comments": 2,
+      "by": "spacedcowboy"
+    },
+    {
+      "id": 50554572,
+      "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "points": 13,
       "comments": 0,
-      "by": "subdomain"
+      "by": "todsacerdoti"
+    },
+    {
+      "id": 50559820,
+      "title": "Is 'fork' missing operation in sandboxes?",
+      "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+      "points": 9,
+      "comments": 5,
+      "by": "damezumari"
+    },
+    {
+      "id": 50597743,
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "points": 7,
+      "comments": 0,
+      "by": "rzk"
+    },
+    {
+      "id": 50566495,
+      "title": "Self-hosted library branch over public web OPDS",
+      "url": "https://joinmayberry.com/",
+      "points": 4,
+      "comments": 0,
+      "by": "philips"
     },
     {
       "id": 50553223,
