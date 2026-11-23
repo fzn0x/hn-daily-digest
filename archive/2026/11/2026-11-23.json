@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T01:47:11+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50596133,
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "points": 1190,
+      "comments": 680,
+      "by": "zdw"
+    },
+    {
+      "id": 50601525,
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "points": 482,
+      "comments": 334,
+      "by": "acossta"
+    },
+    {
+      "id": 50602947,
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "points": 420,
+      "comments": 241,
+      "by": "greenyouse"
+    },
+    {
+      "id": 50602843,
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "points": 349,
+      "comments": 157,
+      "by": "gaws"
+    },
+    {
+      "id": 50599762,
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "points": 271,
+      "comments": 64,
+      "by": "ivantgam"
+    },
+    {
+      "id": 50600511,
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "points": 222,
+      "comments": 215,
+      "by": "doener"
+    },
+    {
+      "id": 50603845,
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "points": 217,
+      "comments": 75,
+      "by": "Retell15"
+    },
+    {
+      "id": 50605045,
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "points": 149,
+      "comments": 115,
+      "by": "Qision"
+    },
+    {
+      "id": 50603589,
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "points": 142,
+      "comments": 55,
+      "by": "dutilh"
+    },
+    {
+      "id": 50600622,
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "points": 126,
+      "comments": 37,
+      "by": "fortran77"
+    },
+    {
+      "id": 50555002,
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": null,
+      "points": 117,
+      "comments": 71,
+      "by": "llmblockchain"
+    },
+    {
+      "id": 50594182,
+      "title": "A Better Vocabulary for Testing",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "points": 113,
+      "comments": 29,
+      "by": "alpaylan"
+    },
+    {
+      "id": 50604314,
+      "title": "Agent swarm trying to solve P vs. NP",
+      "url": "https://pequalnp.com/",
+      "points": 109,
+      "comments": 100,
+      "by": "bananaflag"
+    },
+    {
+      "id": 50547698,
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "points": 96,
+      "comments": 5,
+      "by": "graemep"
+    },
+    {
+      "id": 50603465,
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "points": 95,
+      "comments": 9,
+      "by": "o_-_o"
+    },
+    {
+      "id": 50605479,
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "points": 82,
+      "comments": 77,
+      "by": "bobbiechen"
+    },
+    {
+      "id": 50604988,
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "points": 78,
+      "comments": 33,
+      "by": "gregsadetsky"
+    },
+    {
+      "id": 50562207,
+      "title": "Inside PyPy: First Contact with RPython",
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "points": 61,
+      "comments": 9,
+      "by": "lumpa"
+    },
+    {
+      "id": 50604472,
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "points": 58,
+      "comments": 11,
+      "by": "hectormauer"
+    },
+    {
+      "id": 50603143,
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "points": 55,
+      "comments": 31,
+      "by": "dshacker"
+    },
+    {
+      "id": 50546124,
+      "title": "Advice for Young Researchers",
+      "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+      "points": 50,
+      "comments": 19,
+      "by": "tcumulus"
+    },
+    {
+      "id": 50604123,
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "points": 44,
+      "comments": 11,
+      "by": "joonehur"
+    },
+    {
+      "id": 50602153,
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "points": 38,
+      "comments": 5,
+      "by": "enjoyyourlife"
+    },
+    {
+      "id": 50603962,
+      "title": "Will the first approved psychedelic become a blockbuster?",
+      "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+      "points": 25,
+      "comments": 23,
+      "by": "randycupertino"
+    },
+    {
+      "id": 50604540,
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "points": 20,
+      "comments": 3,
+      "by": "mjwsolo"
+    },
+    {
+      "id": 50605426,
+      "title": "What should AAA game devs do",
+      "url": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+      "points": 18,
+      "comments": 29,
+      "by": "TuckerBMorgan"
+    },
+    {
+      "id": 50598441,
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "points": 9,
+      "comments": 0,
+      "by": "xiaoyu2006"
+    },
+    {
+      "id": 50606192,
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "points": 8,
+      "comments": 1,
+      "by": "SockThief"
+    },
+    {
+      "id": 50575007,
+      "title": "How the World Draws the World",
+      "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+      "points": 5,
+      "comments": 0,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50606072,
+      "title": "What we learned operating auth for 1k APIs",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "points": 3,
+      "comments": 1,
+      "by": "fagnerbrack"
+    }
+  ]
+}

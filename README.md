@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-22](archive/2026/11/2026-11-22.md)
+### Latest: [2026-11-23](archive/2026/11/2026-11-23.md)
 
-Top 10 of 65 stories so far, last updated 2026-11-22 19:40 UTC. **24** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-23 01:47 UTC. **25** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) <sub>math216.wordpress.com</sub> | 2424 | [1178](https://news.ycombinator.com/item?id=50579568) |
-| 2 | [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) <sub>thinkingmachines.ai</sub> | 1383 | [280](https://news.ycombinator.com/item?id=50581260) |
-| 3 | [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) <sub>theguardian.com</sub> | 1293 | [276](https://news.ycombinator.com/item?id=50582069) |
-| 4 | [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) <sub>leanprover-community.github.io</sub> | 1189 | [984](https://news.ycombinator.com/item?id=50589618) |
-| 5 | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) <sub>caranddriver.com</sub> | 1040 | [620](https://news.ycombinator.com/item?id=50596133) |
-| 6 | [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) <sub>gov.br</sub> | 744 | [238](https://news.ycombinator.com/item?id=50532613) |
-| 7 | [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) <sub>betterdatacenterproject.com</sub> | 651 | [713](https://news.ycombinator.com/item?id=50597612) |
-| 8 | [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) <sub>science.org</sub> | 622 | [391](https://news.ycombinator.com/item?id=50588982) |
-| 9 | [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761) <sub>news.ycombinator.com</sub> | 609 | [678](https://news.ycombinator.com/item?id=50583761) |
-| 10 | [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) <sub>blog.tymscar.com</sub> | 594 | [277](https://news.ycombinator.com/item?id=50587875) |
+| 1 | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) <sub>caranddriver.com</sub> | 1190 | [680](https://news.ycombinator.com/item?id=50596133) |
+| 2 | [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) <sub>openai.com</sub> | 482 | [334](https://news.ycombinator.com/item?id=50601525) |
+| 3 | [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) <sub>oreilly.com</sub> | 420 | [241](https://news.ycombinator.com/item?id=50602947) |
+| 4 | [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) <sub>audubon.org</sub> | 349 | [157](https://news.ycombinator.com/item?id=50602843) |
+| 5 | [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) <sub>github.com</sub> | 271 | [64](https://news.ycombinator.com/item?id=50599762) |
+| 6 | [Open Social Web Alliance](https://osw-alliance.net/en/) <sub>osw-alliance.net</sub> | 222 | [215](https://news.ycombinator.com/item?id=50600511) |
+| 7 | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) <sub>gpupartner.com</sub> | 217 | [75](https://news.ycombinator.com/item?id=50603845) |
+| 8 | [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) <sub>claude.ai</sub> | 149 | [115](https://news.ycombinator.com/item?id=50605045) |
+| 9 | [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/) <sub>smallsf.com</sub> | 142 | [55](https://news.ycombinator.com/item?id=50603589) |
+| 10 | [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/) <sub>jeffgeerling.com</sub> | 126 | [37](https://news.ycombinator.com/item?id=50600622) |
 <!-- digest:end -->
