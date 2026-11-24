@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-23](archive/2026/11/2026-11-23.md)
+### Latest: [2026-11-24](archive/2026/11/2026-11-24.md)
 
-Top 10 of 45 stories so far, last updated 2026-11-23 12:47 UTC. **25** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-24 02:14 UTC. **26** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) <sub>caranddriver.com</sub> | 1328 | [710](https://news.ycombinator.com/item?id=50596133) |
-| 2 | [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) <sub>oreilly.com</sub> | 716 | [386](https://news.ycombinator.com/item?id=50602947) |
-| 3 | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) <sub>spelunkr.tv</sub> | 616 | [110](https://news.ycombinator.com/item?id=50606192) |
-| 4 | [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) <sub>openai.com</sub> | 615 | [406](https://news.ycombinator.com/item?id=50601525) |
-| 5 | [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) <sub>gpupartner.com</sub> | 574 | [239](https://news.ycombinator.com/item?id=50603845) |
-| 6 | [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) <sub>audubon.org</sub> | 537 | [286](https://news.ycombinator.com/item?id=50602843) |
-| 7 | [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) <sub>github.com</sub> | 402 | [186](https://news.ycombinator.com/item?id=50607261) |
-| 8 | [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) <sub>github.com</sub> | 332 | [79](https://news.ycombinator.com/item?id=50599762) |
-| 9 | [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/) <sub>smallsf.com</sub> | 297 | [96](https://news.ycombinator.com/item?id=50603589) |
-| 10 | [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) <sub>apnews.com</sub> | 274 | [87](https://news.ycombinator.com/item?id=50547698) |
+| 1 | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) <sub>cnbc.com</sub> | 2138 | [3173](https://news.ycombinator.com/item?id=50611576) |
+| 2 | [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) <sub>ladybird.org</sub> | 1460 | [337](https://news.ycombinator.com/item?id=50614249) |
+| 3 | [Dario is hyping the dangers so OSS models are illegal and he stays in control](https://twitter.com/ylecun/status/2124550037912920090) <sub>twitter.com</sub> | 1185 | [663](https://news.ycombinator.com/item?id=50615308) |
+| 4 | [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) <sub>z.ai</sub> | 1061 | [347](https://news.ycombinator.com/item?id=50609685) |
+| 5 | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) <sub>spelunkr.tv</sub> | 945 | [162](https://news.ycombinator.com/item?id=50606192) |
+| 6 | [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) <sub>arm.jonpalmisc.com</sub> | 852 | [199](https://news.ycombinator.com/item?id=50617499) |
+| 7 | [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta) <sub>blog.kagi.com</sub> | 360 | [271](https://news.ycombinator.com/item?id=50615481) |
+| 8 | [Spacecraft reaches Mercury on second-ever mission to enter its orbit](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo) <sub>theguardian.com</sub> | 301 | [101](https://news.ycombinator.com/item?id=50587439) |
+| 9 | [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker) <sub>github.com</sub> | 281 | [163](https://news.ycombinator.com/item?id=50610318) |
+| 10 | [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/) <sub>alvinbunk.wordpress.com</sub> | 269 | [285](https://news.ycombinator.com/item?id=50605479) |
 <!-- digest:end -->
