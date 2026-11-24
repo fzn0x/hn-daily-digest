@@ -18,7 +18,7 @@ python scripts/digest.py
 <!-- digest:start -->
 ### Latest: [2026-11-24](archive/2026/11/2026-11-24.md)
 
-Top 10 of 52 stories so far, last updated 2026-11-24 13:50 UTC. **26** days archived.
+Top 10 of 77 stories so far, last updated 2026-11-24 23:57 UTC. **26** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
@@ -28,8 +28,8 @@ Top 10 of 52 stories so far, last updated 2026-11-24 13:50 UTC. **26** days arch
 | 4 | [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) <sub>arm.jonpalmisc.com</sub> | 1107 | [257](https://news.ycombinator.com/item?id=50617499) |
 | 5 | [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) <sub>z.ai</sub> | 1061 | [347](https://news.ycombinator.com/item?id=50609685) |
 | 6 | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) <sub>spelunkr.tv</sub> | 1030 | [178](https://news.ycombinator.com/item?id=50606192) |
-| 7 | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) <sub>stalw.art</sub> | 547 | [300](https://news.ycombinator.com/item?id=50620349) |
-| 8 | [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) <sub>governor.ny.gov</sub> | 499 | [219](https://news.ycombinator.com/item?id=50622774) |
-| 9 | [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) <sub>fzakaria.com</sub> | 435 | [172](https://news.ycombinator.com/item?id=50624497) |
-| 10 | [Kagi Mail (public beta)](https://blog.kagi.com/kagi-mail-public-beta) <sub>blog.kagi.com</sub> | 360 | [271](https://news.ycombinator.com/item?id=50615481) |
+| 7 | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) <sub>michaelharley.net</sub> | 870 | [367](https://news.ycombinator.com/item?id=50627340) |
+| 8 | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) <sub>stalw.art</sub> | 547 | [300](https://news.ycombinator.com/item?id=50620349) |
+| 9 | [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) <sub>governor.ny.gov</sub> | 499 | [219](https://news.ycombinator.com/item?id=50622774) |
+| 10 | [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) <sub>fzakaria.com</sub> | 435 | [172](https://news.ycombinator.com/item?id=50624497) |
 <!-- digest:end -->

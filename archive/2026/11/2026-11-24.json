@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24T13:50:20+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-24T23:57:25+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50611576,
@@ -52,6 +52,14 @@
       "by": "SockThief"
     },
     {
+      "id": 50627340,
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "points": 870,
+      "comments": 367,
+      "by": "surprisetalk"
+    },
+    {
       "id": 50620349,
       "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
@@ -92,12 +100,36 @@
       "by": "oska"
     },
     {
+      "id": 50625384,
+      "title": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "points": 335,
+      "comments": 167,
+      "by": "farrokhi"
+    },
+    {
+      "id": 50598555,
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "points": 325,
+      "comments": 92,
+      "by": "vinhnx"
+    },
+    {
       "id": 50619103,
       "title": "GPUI is getting its own repository",
       "url": "https://github.com/zed-industries/gpui",
       "points": 320,
       "comments": 113,
       "by": "EvilGoose"
+    },
+    {
+      "id": 50627836,
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "points": 308,
+      "comments": 615,
+      "by": "Betelbuddy"
     },
     {
       "id": 50587439,
@@ -124,12 +156,44 @@
       "by": "yakkomajuri"
     },
     {
+      "id": 50633922,
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "points": 273,
+      "comments": 92,
+      "by": "b0m"
+    },
+    {
       "id": 50605479,
       "title": "Nespresso's project to reduce grams of coffee per capsule",
       "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
       "points": 269,
       "comments": 285,
       "by": "bobbiechen"
+    },
+    {
+      "id": 50630594,
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "points": 249,
+      "comments": 113,
+      "by": "louiereederson"
+    },
+    {
+      "id": 50627783,
+      "title": "GTA 6 Running on Windows",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "points": 248,
+      "comments": 295,
+      "by": "andrem"
+    },
+    {
+      "id": 50630462,
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "points": 247,
+      "comments": 114,
+      "by": "zdw"
     },
     {
       "id": 50620102,
@@ -148,6 +212,22 @@
       "by": "hard_times"
     },
     {
+      "id": 50626413,
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "points": 214,
+      "comments": 40,
+      "by": "kqr"
+    },
+    {
+      "id": 50599458,
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "points": 207,
+      "comments": 52,
+      "by": "martincmartin"
+    },
+    {
       "id": 50620822,
       "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
       "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
@@ -156,12 +236,28 @@
       "by": "ortusdux"
     },
     {
+      "id": 50629231,
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "points": 163,
+      "comments": 49,
+      "by": "bluepeter"
+    },
+    {
       "id": 50624061,
       "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
       "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
       "points": 141,
       "comments": 79,
       "by": "zdw"
+    },
+    {
+      "id": 50632883,
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "points": 141,
+      "comments": 95,
+      "by": "fishcharlie"
     },
     {
       "id": 50604710,
@@ -180,20 +276,28 @@
       "by": "toebee"
     },
     {
+      "id": 50629106,
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "points": 124,
+      "comments": 82,
+      "by": "fcjr"
+    },
+    {
+      "id": 50605361,
+      "title": "The new set of problems for engineers to solve",
+      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "points": 120,
+      "comments": 105,
+      "by": "ot"
+    },
+    {
       "id": 50623515,
       "title": "Drone Maps of Salvage Yards",
       "url": "https://salvageyarddrone.wordpress.com/",
       "points": 119,
       "comments": 46,
       "by": "uptrails"
-    },
-    {
-      "id": 50627340,
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "points": 119,
-      "comments": 35,
-      "by": "surprisetalk"
     },
     {
       "id": 50622934,
@@ -204,6 +308,22 @@
       "by": "andai"
     },
     {
+      "id": 50633159,
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "url": "https://grafana.com/grafana/download",
+      "points": 117,
+      "comments": 19,
+      "by": "petecooper"
+    },
+    {
+      "id": 50634658,
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "points": 115,
+      "comments": 24,
+      "by": "acossta"
+    },
+    {
       "id": 50600838,
       "title": "C++26 is done (again): ISO C++ meeting trip report",
       "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
@@ -212,12 +332,36 @@
       "by": "dverlaeckt80"
     },
     {
+      "id": 50610820,
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "points": 101,
+      "comments": 71,
+      "by": "surprisetalk"
+    },
+    {
       "id": 50622638,
       "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
       "url": "https://github.com/ItsNotRexed/Leonida/issues",
       "points": 100,
       "comments": 118,
       "by": "smuhakg"
+    },
+    {
+      "id": 50604355,
+      "title": "Cento fine foods has been sued for \u201ctomato fraud\u201d",
+      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "points": 92,
+      "comments": 138,
+      "by": "ncr100"
+    },
+    {
+      "id": 50635271,
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "points": 91,
+      "comments": 35,
+      "by": "gmays"
     },
     {
       "id": 50626861,
@@ -236,12 +380,20 @@
       "by": "dmit"
     },
     {
-      "id": 50626413,
-      "title": "Worshipping at the Altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "points": 72,
-      "comments": 9,
-      "by": "kqr"
+      "id": 50634933,
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "points": 79,
+      "comments": 26,
+      "by": "armcat"
+    },
+    {
+      "id": 50630294,
+      "title": "Show HN: Mason \u2013 A lightweight Postgres read-replica, built on columnar storage",
+      "url": "https://masondata.ai/",
+      "points": 79,
+      "comments": 15,
+      "by": "tagspace"
     },
     {
       "id": 50607512,
@@ -268,6 +420,22 @@
       "by": "ilamont"
     },
     {
+      "id": 50609483,
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "points": 63,
+      "comments": 8,
+      "by": "joshcsimmons"
+    },
+    {
+      "id": 50625265,
+      "title": "G\u00f6del Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "points": 60,
+      "comments": 22,
+      "by": "benbreen"
+    },
+    {
       "id": 50619186,
       "title": "The horse made the state",
       "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
@@ -276,12 +444,28 @@
       "by": "ersinesen"
     },
     {
+      "id": 50633424,
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "points": 55,
+      "comments": 1,
+      "by": "Artgor"
+    },
+    {
       "id": 50625888,
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
       "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
       "points": 54,
       "comments": 19,
       "by": "DonAtimator"
+    },
+    {
+      "id": 50634426,
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "url": null,
+      "points": 54,
+      "comments": 30,
+      "by": "harshithl1777"
     },
     {
       "id": 50606611,
@@ -324,22 +508,6 @@
       "by": "leonry"
     },
     {
-      "id": 50627836,
-      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "points": 34,
-      "comments": 1,
-      "by": "Betelbuddy"
-    },
-    {
-      "id": 50625384,
-      "title": "Quad9 pulled their DNS service from France",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "points": 33,
-      "comments": 11,
-      "by": "farrokhi"
-    },
-    {
       "id": 50621977,
       "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
       "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
@@ -372,20 +540,28 @@
       "by": "acossta"
     },
     {
-      "id": 50599458,
-      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "points": 23,
-      "comments": 4,
-      "by": "martincmartin"
-    },
-    {
       "id": 50620328,
       "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
       "url": "https://arxiv.org/abs/2602.20031",
       "points": 22,
       "comments": 1,
       "by": "joecobb"
+    },
+    {
+      "id": 50591024,
+      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
+      "points": 17,
+      "comments": 3,
+      "by": "pqpdf"
+    },
+    {
+      "id": 50635698,
+      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "points": 16,
+      "comments": 16,
+      "by": "atlun"
     },
     {
       "id": 50589701,
@@ -412,12 +588,36 @@
       "by": "NaOH"
     },
     {
+      "id": 50598297,
+      "title": "Overpass QL EBNF Grammar",
+      "url": "https://github.com/b1tw153/overpass-ebnf",
+      "points": 4,
+      "comments": 0,
+      "by": "altilunium"
+    },
+    {
+      "id": 50636286,
+      "title": "Get in, friends, the Atmosphere is happening",
+      "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+      "points": 3,
+      "comments": 0,
+      "by": "Kye"
+    },
+    {
       "id": 50615161,
       "title": "EasyPost (YC S13) Is Hiring",
       "url": "https://www.easypost.com/careers/",
       "points": 0,
       "comments": 0,
       "by": "jstreebin"
+    },
+    {
+      "id": 50631041,
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "points": 0,
+      "comments": 0,
+      "by": "adchurch"
     }
   ]
 }
