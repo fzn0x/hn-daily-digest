@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-24](archive/2026/11/2026-11-24.md)
+### Latest: [2026-11-25](archive/2026/11/2026-11-25.md)
 
-Top 10 of 77 stories so far, last updated 2026-11-24 23:57 UTC. **26** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-25 08:42 UTC. **27** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) <sub>cnbc.com</sub> | 2675 | [3540](https://news.ycombinator.com/item?id=50611576) |
-| 2 | [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) <sub>ladybird.org</sub> | 2148 | [522](https://news.ycombinator.com/item?id=50614249) |
-| 3 | ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) <sub>twitter.com</sub> | 1820 | [1054](https://news.ycombinator.com/item?id=50615308) |
-| 4 | [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/) <sub>arm.jonpalmisc.com</sub> | 1107 | [257](https://news.ycombinator.com/item?id=50617499) |
-| 5 | [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4) <sub>z.ai</sub> | 1061 | [347](https://news.ycombinator.com/item?id=50609685) |
-| 6 | [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) <sub>spelunkr.tv</sub> | 1030 | [178](https://news.ycombinator.com/item?id=50606192) |
-| 7 | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) <sub>michaelharley.net</sub> | 870 | [367](https://news.ycombinator.com/item?id=50627340) |
-| 8 | [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) <sub>stalw.art</sub> | 547 | [300](https://news.ycombinator.com/item?id=50620349) |
-| 9 | [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) <sub>governor.ny.gov</sub> | 499 | [219](https://news.ycombinator.com/item?id=50622774) |
-| 10 | [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) <sub>fzakaria.com</sub> | 435 | [172](https://news.ycombinator.com/item?id=50624497) |
+| 1 | [Matrix Multiplication is Θ(n^2.25) \[pdf\]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) <sub>github.com</sub> | 561 | [274](https://news.ycombinator.com/item?id=50637220) |
+| 2 | [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) <sub>mechanical-pencil.com</sub> | 467 | [108](https://news.ycombinator.com/item?id=50598555) |
+| 3 | [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) <sub>prismml.com</sub> | 437 | [137](https://news.ycombinator.com/item?id=50633922) |
+| 4 | [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075) <sub>twitter.com</sub> | 376 | [462](https://news.ycombinator.com/item?id=50627783) |
+| 5 | [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) <sub>buttons.joshwcomeau.com</sub> | 305 | [33](https://news.ycombinator.com/item?id=50638032) |
+| 6 | [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) <sub>greynoise.io</sub> | 282 | [140](https://news.ycombinator.com/item?id=50630594) |
+| 7 | [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809) <sub>news.ycombinator.com</sub> | 261 | [198](https://news.ycombinator.com/item?id=50630809) |
+| 8 | [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) <sub>openai.com</sub> | 252 | [76](https://news.ycombinator.com/item?id=50634658) |
+| 9 | [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) <sub>greydanus.github.io</sub> | 222 | [39](https://news.ycombinator.com/item?id=50637056) |
+| 10 | [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) <sub>lesswrong.com</sub> | 199 | [76](https://news.ycombinator.com/item?id=50637686) |
 <!-- digest:end -->
