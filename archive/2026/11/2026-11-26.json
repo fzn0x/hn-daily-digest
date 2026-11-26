@@ -1,23 +1,39 @@
 {
   "date": "2026-11-26",
-  "updated_at": "2026-11-26T03:40:11+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-26T16:57:18+00:00",
+  "snapshots": 2,
   "stories": [
-    {
-      "id": 50644817,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "points": 1236,
-      "comments": 522,
-      "by": "lxhrstn"
-    },
     {
       "id": 50646108,
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
-      "points": 1016,
-      "comments": 866,
+      "points": 1837,
+      "comments": 1679,
       "by": "Kotlopou"
+    },
+    {
+      "id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "points": 1585,
+      "comments": 687,
+      "by": "lxhrstn"
+    },
+    {
+      "id": 50647673,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "points": 536,
+      "comments": 454,
+      "by": "rmason"
+    },
+    {
+      "id": 50648050,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "points": 512,
+      "comments": 327,
+      "by": "nb-t"
     },
     {
       "id": 50642086,
@@ -36,6 +52,38 @@
       "by": "gumby"
     },
     {
+      "id": 50601280,
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "points": 437,
+      "comments": 124,
+      "by": "bjin"
+    },
+    {
+      "id": 50647181,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "points": 375,
+      "comments": 224,
+      "by": "gslin"
+    },
+    {
+      "id": 50649864,
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": null,
+      "points": 355,
+      "comments": 143,
+      "by": "dang"
+    },
+    {
+      "id": 50649834,
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "points": 333,
+      "comments": 64,
+      "by": "sohkamyung"
+    },
+    {
       "id": 50641171,
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "url": "https://github.com/xoxorwr/pw-loudness-eq",
@@ -44,12 +92,28 @@
       "by": "ThrowNotAway"
     },
     {
-      "id": 50648050,
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "points": 323,
-      "comments": 152,
-      "by": "nb-t"
+      "id": 50653667,
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "points": 317,
+      "comments": 190,
+      "by": "saikatsg"
+    },
+    {
+      "id": 50655664,
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": null,
+      "points": 312,
+      "comments": 87,
+      "by": "ericmay"
+    },
+    {
+      "id": 50654289,
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "points": 307,
+      "comments": 127,
+      "by": "e12e"
     },
     {
       "id": 50639698,
@@ -60,14 +124,6 @@
       "by": "matthewsinclair"
     },
     {
-      "id": 50601280,
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "points": 275,
-      "comments": 80,
-      "by": "bjin"
-    },
-    {
       "id": 50648823,
       "title": "Jev is probably Qwen3.5-35B-A3B",
       "url": "https://modaic.dev/blog/latency-doesnt-lie",
@@ -76,12 +132,12 @@
       "by": "csoham"
     },
     {
-      "id": 50647673,
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "points": 242,
-      "comments": 197,
-      "by": "rmason"
+      "id": 50650892,
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "points": 239,
+      "comments": 34,
+      "by": "rguiscard"
     },
     {
       "id": 50624446,
@@ -92,6 +148,14 @@
       "by": "jaydenmilne"
     },
     {
+      "id": 50648365,
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "points": 213,
+      "comments": 52,
+      "by": "miohtama"
+    },
+    {
       "id": 50642939,
       "title": "I checked Clojure's core with Lean and found unreported bugs",
       "url": "https://s.conao3.com/blog/2026/e4f733",
@@ -100,12 +164,36 @@
       "by": "encyclopedism"
     },
     {
-      "id": 50647181,
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "points": 171,
-      "comments": 83,
-      "by": "gslin"
+      "id": 50626466,
+      "title": "What VP \u2260 VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "points": 195,
+      "comments": 75,
+      "by": "vinhnx"
+    },
+    {
+      "id": 50651719,
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "points": 194,
+      "comments": 41,
+      "by": "joonehur"
+    },
+    {
+      "id": 50647161,
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "points": 191,
+      "comments": 80,
+      "by": "dm"
+    },
+    {
+      "id": 50652184,
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "points": 168,
+      "comments": 103,
+      "by": "amanverasia"
     },
     {
       "id": 50589784,
@@ -116,6 +204,14 @@
       "by": "teledream"
     },
     {
+      "id": 50598636,
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "points": 135,
+      "comments": 50,
+      "by": "Michelangelo11"
+    },
+    {
       "id": 50644980,
       "title": "The polynomial Hirsch conjecture is false [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
@@ -124,12 +220,20 @@
       "by": "acossta"
     },
     {
-      "id": 50649864,
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": null,
-      "points": 127,
-      "comments": 58,
-      "by": "dang"
+      "id": 50655278,
+      "title": "45\u00b0C inlets just killed the chiller. Most people haven't noticed yet",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "points": 130,
+      "comments": 59,
+      "by": "magoghm"
+    },
+    {
+      "id": 50651863,
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "points": 128,
+      "comments": 36,
+      "by": "hecmmm"
     },
     {
       "id": 50635783,
@@ -140,6 +244,22 @@
       "by": "jxmorris12"
     },
     {
+      "id": 50651627,
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "points": 115,
+      "comments": 15,
+      "by": "_alternator_"
+    },
+    {
+      "id": 50623232,
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "points": 111,
+      "comments": 23,
+      "by": "kaidon"
+    },
+    {
       "id": 50645074,
       "title": "Britain's ghost stations",
       "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
@@ -148,12 +268,12 @@
       "by": "translocator"
     },
     {
-      "id": 50647161,
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "id": 50634381,
+      "title": "The history of civilization is the history of wheat",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
       "points": 99,
-      "comments": 33,
-      "by": "dm"
+      "comments": 57,
+      "by": "NaOH"
     },
     {
       "id": 50611593,
@@ -164,14 +284,6 @@
       "by": "0x23"
     },
     {
-      "id": 50648365,
-      "title": "Bare Metal Qwen",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "points": 79,
-      "comments": 16,
-      "by": "miohtama"
-    },
-    {
       "id": 50648035,
       "title": "Defang Security Incident",
       "url": "https://defang.io/blog/post/security-incident-november-2026/",
@@ -180,12 +292,28 @@
       "by": "gregsadetsky"
     },
     {
+      "id": 50619466,
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "points": 57,
+      "comments": 36,
+      "by": "PaulHoule"
+    },
+    {
       "id": 50648323,
       "title": "Deploying a payphone on a tiny Pacific Island",
       "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
       "points": 52,
       "comments": 5,
       "by": "qzervaas"
+    },
+    {
+      "id": 50636931,
+      "title": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "points": 52,
+      "comments": 14,
+      "by": "Petiver"
     },
     {
       "id": 50623020,
@@ -220,12 +348,20 @@
       "by": "crescit_eundo"
     },
     {
-      "id": 50649834,
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
-      "points": 23,
-      "comments": 2,
-      "by": "sohkamyung"
+      "id": 50656036,
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "points": 21,
+      "comments": 7,
+      "by": "michidk"
+    },
+    {
+      "id": 50656862,
+      "title": "Kagi Watch",
+      "url": "https://kagi.com/watch",
+      "points": 20,
+      "comments": 15,
+      "by": "Shortness8"
     },
     {
       "id": 50610682,
@@ -236,12 +372,36 @@
       "by": "surprisetalk"
     },
     {
+      "id": 50656763,
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "url": null,
+      "points": 15,
+      "comments": 6,
+      "by": "akudha"
+    },
+    {
       "id": 50620991,
       "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
       "url": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
       "points": 8,
       "comments": 0,
       "by": "rbanffy"
+    },
+    {
+      "id": 50644839,
+      "title": "The Engineering of Smartphone Cameras",
+      "url": "https://www.pencilofrays.com/smartphone-lens/",
+      "points": 4,
+      "comments": 0,
+      "by": "nbernard"
+    },
+    {
+      "id": 50654353,
+      "title": "Head of Software Engineering \u2013 NOX Metals",
+      "url": null,
+      "points": 0,
+      "comments": 0,
+      "by": "zane_heng"
     }
   ]
 }
