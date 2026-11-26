@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T03:40:11+00:00",
+  "snapshots": 1,
+  "stories": [
+    {
+      "id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "points": 1236,
+      "comments": 522,
+      "by": "lxhrstn"
+    },
+    {
+      "id": 50646108,
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "points": 1016,
+      "comments": 866,
+      "by": "Kotlopou"
+    },
+    {
+      "id": 50642086,
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "points": 457,
+      "comments": 340,
+      "by": "rgwohlbold"
+    },
+    {
+      "id": 50643129,
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "points": 449,
+      "comments": 111,
+      "by": "gumby"
+    },
+    {
+      "id": 50641171,
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "points": 324,
+      "comments": 181,
+      "by": "ThrowNotAway"
+    },
+    {
+      "id": 50648050,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "points": 323,
+      "comments": 152,
+      "by": "nb-t"
+    },
+    {
+      "id": 50639698,
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "points": 292,
+      "comments": 234,
+      "by": "matthewsinclair"
+    },
+    {
+      "id": 50601280,
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "points": 275,
+      "comments": 80,
+      "by": "bjin"
+    },
+    {
+      "id": 50648823,
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "points": 251,
+      "comments": 71,
+      "by": "csoham"
+    },
+    {
+      "id": 50647673,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "points": 242,
+      "comments": 197,
+      "by": "rmason"
+    },
+    {
+      "id": 50624446,
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "points": 234,
+      "comments": 95,
+      "by": "jaydenmilne"
+    },
+    {
+      "id": 50642939,
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "points": 196,
+      "comments": 67,
+      "by": "encyclopedism"
+    },
+    {
+      "id": 50647181,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "points": 171,
+      "comments": 83,
+      "by": "gslin"
+    },
+    {
+      "id": 50589784,
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "points": 147,
+      "comments": 77,
+      "by": "teledream"
+    },
+    {
+      "id": 50644980,
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "points": 133,
+      "comments": 37,
+      "by": "acossta"
+    },
+    {
+      "id": 50649864,
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": null,
+      "points": 127,
+      "comments": 58,
+      "by": "dang"
+    },
+    {
+      "id": 50635783,
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "points": 117,
+      "comments": 11,
+      "by": "jxmorris12"
+    },
+    {
+      "id": 50645074,
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "points": 103,
+      "comments": 21,
+      "by": "translocator"
+    },
+    {
+      "id": 50647161,
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "points": 99,
+      "comments": 33,
+      "by": "dm"
+    },
+    {
+      "id": 50611593,
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "points": 88,
+      "comments": 10,
+      "by": "0x23"
+    },
+    {
+      "id": 50648365,
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "points": 79,
+      "comments": 16,
+      "by": "miohtama"
+    },
+    {
+      "id": 50648035,
+      "title": "Defang Security Incident",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "points": 67,
+      "comments": 20,
+      "by": "gregsadetsky"
+    },
+    {
+      "id": 50648323,
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "points": 52,
+      "comments": 5,
+      "by": "qzervaas"
+    },
+    {
+      "id": 50623020,
+      "title": "Hacking radiators",
+      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "points": 42,
+      "comments": 14,
+      "by": "andai"
+    },
+    {
+      "id": 50624684,
+      "title": "Show HN: Rchive \u2013 Every drive I've owned since the 90s, searchable in one window",
+      "url": "https://www.rchive.computer/",
+      "points": 39,
+      "comments": 25,
+      "by": "kevinsync"
+    },
+    {
+      "id": 50637448,
+      "title": "How did pinwheel calculators work?",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "points": 32,
+      "comments": 3,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50616473,
+      "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+      "url": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
+      "points": 25,
+      "comments": 7,
+      "by": "crescit_eundo"
+    },
+    {
+      "id": 50649834,
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "points": 23,
+      "comments": 2,
+      "by": "sohkamyung"
+    },
+    {
+      "id": 50610682,
+      "title": "A beer brewer's noise estimation",
+      "url": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+      "points": 17,
+      "comments": 1,
+      "by": "surprisetalk"
+    },
+    {
+      "id": 50620991,
+      "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
+      "url": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
+      "points": 8,
+      "comments": 0,
+      "by": "rbanffy"
+    }
+  ]
+}

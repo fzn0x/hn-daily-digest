@@ -16,20 +16,20 @@ python scripts/digest.py
 ```
 
 <!-- digest:start -->
-### Latest: [2026-11-25](archive/2026/11/2026-11-25.md)
+### Latest: [2026-11-26](archive/2026/11/2026-11-26.md)
 
-Top 10 of 51 stories so far, last updated 2026-11-25 19:16 UTC. **27** days archived.
+Top 10 of 30 stories so far, last updated 2026-11-26 03:40 UTC. **28** days archived.
 
 | # | Story | Points | Comments |
 |--:|---|--:|--:|
-| 1 | [The matrix multiplication exponent is nine fourths \[pdf\]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) <sub>github.com</sub> | 926 | [522](https://news.ycombinator.com/item?id=50637220) |
-| 2 | [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) <sub>buttons.joshwcomeau.com</sub> | 753 | [120](https://news.ycombinator.com/item?id=50638032) |
-| 3 | [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) <sub>prismml.com</sub> | 518 | [171](https://news.ycombinator.com/item?id=50633922) |
-| 4 | [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle) <sub>mechanical-pencil.com</sub> | 467 | [108](https://news.ycombinator.com/item?id=50598555) |
-| 5 | [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) <sub>lesswrong.com</sub> | 408 | [175](https://news.ycombinator.com/item?id=50637686) |
-| 6 | [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) <sub>rida.dev</sub> | 397 | [132](https://news.ycombinator.com/item?id=50637890) |
-| 7 | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) <sub>1password.com</sub> | 385 | [168](https://news.ycombinator.com/item?id=50644817) |
-| 8 | [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075) <sub>twitter.com</sub> | 376 | [462](https://news.ycombinator.com/item?id=50627783) |
-| 9 | [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) <sub>github.com</sub> | 346 | [265](https://news.ycombinator.com/item?id=50642086) |
-| 10 | [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) <sub>vox.com</sub> | 326 | [84](https://news.ycombinator.com/item?id=50643129) |
+| 1 | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) <sub>1password.com</sub> | 1236 | [522](https://news.ycombinator.com/item?id=50644817) |
+| 2 | [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) <sub>scottaaronson.blog</sub> | 1016 | [866](https://news.ycombinator.com/item?id=50646108) |
+| 3 | [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) <sub>github.com</sub> | 457 | [340](https://news.ycombinator.com/item?id=50642086) |
+| 4 | [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) <sub>vox.com</sub> | 449 | [111](https://news.ycombinator.com/item?id=50643129) |
+| 5 | [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq) <sub>github.com</sub> | 324 | [181](https://news.ycombinator.com/item?id=50641171) |
+| 6 | [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) <sub>github.com</sub> | 323 | [152](https://news.ycombinator.com/item?id=50648050) |
+| 7 | [Smart people who give a shit use tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools) <sub>iankduncan.com</sub> | 292 | [234](https://news.ycombinator.com/item?id=50639698) |
+| 8 | [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) <sub>bjin.github.io</sub> | 275 | [80](https://news.ycombinator.com/item?id=50601280) |
+| 9 | [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie) <sub>modaic.dev</sub> | 251 | [71](https://news.ycombinator.com/item?id=50648823) |
+| 10 | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) <sub>theverge.com</sub> | 242 | [197](https://news.ycombinator.com/item?id=50647673) |
 <!-- digest:end -->
