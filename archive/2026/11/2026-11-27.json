@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T01:54:21+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-27T12:20:40+00:00",
+  "snapshots": 2,
   "stories": [
     {
       "id": 50646108,
@@ -12,44 +12,124 @@
       "by": "Kotlopou"
     },
     {
+      "id": 50644817,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "points": 1678,
+      "comments": 715,
+      "by": "lxhrstn"
+    },
+    {
+      "id": 50660180,
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "points": 780,
+      "comments": 393,
+      "by": "jlelse"
+    },
+    {
       "id": 50655664,
       "title": "Tell HN: Happy Thanksgiving",
       "url": null,
-      "points": 599,
-      "comments": 136,
+      "points": 699,
+      "comments": 153,
       "by": "ericmay"
     },
     {
       "id": 50653667,
       "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
-      "points": 466,
-      "comments": 238,
+      "points": 533,
+      "comments": 259,
       "by": "saikatsg"
     },
     {
       "id": 50654289,
       "title": "Nextcloud Office Desktop app",
       "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "points": 398,
-      "comments": 203,
+      "points": 444,
+      "comments": 228,
       "by": "e12e"
     },
     {
-      "id": 50660180,
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "points": 304,
-      "comments": 158,
-      "by": "jlelse"
+      "id": 50657530,
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "points": 432,
+      "comments": 491,
+      "by": "iantongeorge"
+    },
+    {
+      "id": 50659640,
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "points": 408,
+      "comments": 192,
+      "by": "liamg"
+    },
+    {
+      "id": 50659841,
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "points": 395,
+      "comments": 98,
+      "by": "dverlaeckt80"
+    },
+    {
+      "id": 50661646,
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "points": 391,
+      "comments": 312,
+      "by": "zdw"
     },
     {
       "id": 50657265,
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
-      "points": 285,
-      "comments": 71,
+      "points": 381,
+      "comments": 90,
       "by": "julianlam"
+    },
+    {
+      "id": 50663595,
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "points": 350,
+      "comments": 156,
+      "by": "utiiiD"
+    },
+    {
+      "id": 50653477,
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "points": 349,
+      "comments": 305,
+      "by": "ritzaco"
+    },
+    {
+      "id": 50652184,
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "points": 295,
+      "comments": 156,
+      "by": "amanverasia"
+    },
+    {
+      "id": 50657645,
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "points": 283,
+      "comments": 139,
+      "by": "Bender"
+    },
+    {
+      "id": 50649040,
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "points": 275,
+      "comments": 351,
+      "by": "MassPikeMike"
     },
     {
       "id": 50652527,
@@ -60,68 +140,76 @@
       "by": "seizethecheese"
     },
     {
-      "id": 50657530,
-      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "points": 268,
-      "comments": 335,
-      "by": "iantongeorge"
-    },
-    {
-      "id": 50652184,
-      "title": "Moat: OpenRouter replacement",
-      "url": "https://commandcode.ai/moat",
-      "points": 247,
-      "comments": 141,
-      "by": "amanverasia"
-    },
-    {
-      "id": 50653477,
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "points": 241,
-      "comments": 205,
-      "by": "ritzaco"
-    },
-    {
-      "id": 50659841,
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "points": 235,
-      "comments": 48,
-      "by": "dverlaeckt80"
-    },
-    {
       "id": 50651863,
       "title": "An algebraic quantization of gravity from the null cone",
       "url": "https://arxiv.org/abs/2611.34924",
-      "points": 212,
-      "comments": 76,
+      "points": 247,
+      "comments": 98,
       "by": "hecmmm"
     },
     {
-      "id": 50657645,
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "points": 211,
-      "comments": 95,
-      "by": "Bender"
+      "id": 50655868,
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "points": 206,
+      "comments": 63,
+      "by": "thanato0s"
     },
     {
-      "id": 50649040,
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "points": 134,
-      "comments": 150,
-      "by": "MassPikeMike"
+      "id": 50663089,
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "points": 180,
+      "comments": 163,
+      "by": "todsacerdoti"
     },
     {
       "id": 50636931,
       "title": "Curiosity Is No Solo Act",
       "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "points": 130,
-      "comments": 33,
+      "points": 164,
+      "comments": 43,
       "by": "Petiver"
+    },
+    {
+      "id": 50658632,
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "points": 139,
+      "comments": 31,
+      "by": "zerosegfaults"
+    },
+    {
+      "id": 50663261,
+      "title": "Buy Nothing Day \u2013 Friday November 27th 2026",
+      "url": "https://www.buynothingday.co.uk/",
+      "points": 136,
+      "comments": 29,
+      "by": "f_allwein"
+    },
+    {
+      "id": 50651430,
+      "title": "NormalScript: A perfectly normal scripting language",
+      "url": "https://psychoscript.com/",
+      "points": 117,
+      "comments": 27,
+      "by": "hn-aarvin"
+    },
+    {
+      "id": 50658193,
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "url": "https://bui.preetham.top/charts/",
+      "points": 117,
+      "comments": 34,
+      "by": "ppmpreetham"
+    },
+    {
+      "id": 50651099,
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "points": 114,
+      "comments": 48,
+      "by": "Wiyseful"
     },
     {
       "id": 50656036,
@@ -132,6 +220,22 @@
       "by": "michidk"
     },
     {
+      "id": 50660273,
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "points": 108,
+      "comments": 19,
+      "by": "leafingensemble"
+    },
+    {
+      "id": 50658498,
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "points": 94,
+      "comments": 5,
+      "by": "chrhenning"
+    },
+    {
       "id": 50619466,
       "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
       "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
@@ -140,60 +244,20 @@
       "by": "PaulHoule"
     },
     {
-      "id": 50658632,
-      "title": "Rvoip: VoIP stack in Rust",
-      "url": "https://github.com/eisenzopf/rvoip",
-      "points": 87,
-      "comments": 17,
-      "by": "zerosegfaults"
-    },
-    {
-      "id": 50659640,
-      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "points": 86,
-      "comments": 18,
-      "by": "liamg"
-    },
-    {
-      "id": 50651430,
-      "title": "NormalScript: A perfectly normal scripting language",
-      "url": "https://psychoscript.com/",
-      "points": 76,
-      "comments": 17,
-      "by": "hn-aarvin"
-    },
-    {
-      "id": 50651099,
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "url": "https://olumino.app",
-      "points": 75,
-      "comments": 36,
-      "by": "Wiyseful"
+      "id": 50664191,
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "points": 81,
+      "comments": 46,
+      "by": "anilgulecha"
     },
     {
       "id": 50657936,
       "title": "George Whitesides, 1939-2026",
       "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "points": 63,
+      "points": 77,
       "comments": 7,
       "by": "dverlaeckt80"
-    },
-    {
-      "id": 50655868,
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim/",
-      "points": 58,
-      "comments": 20,
-      "by": "thanato0s"
-    },
-    {
-      "id": 50658193,
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "url": "https://bui.preetham.top/charts/",
-      "points": 57,
-      "comments": 10,
-      "by": "ppmpreetham"
     },
     {
       "id": 50657070,
@@ -204,12 +268,20 @@
       "by": "rxliuli"
     },
     {
-      "id": 50660273,
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "url": "https://kendell.dev/blog/arkwrapper/",
-      "points": 40,
-      "comments": 6,
-      "by": "leafingensemble"
+      "id": 50661705,
+      "title": "The Cutthroat Business of Shipwrecks",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "points": 36,
+      "comments": 10,
+      "by": "herbertl"
+    },
+    {
+      "id": 50664104,
+      "title": "Indie web browser Ladybird enters alpha testing",
+      "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "points": 31,
+      "comments": 1,
+      "by": "01-_-"
     },
     {
       "id": 50661218,
@@ -218,14 +290,6 @@
       "points": 25,
       "comments": 3,
       "by": "geox"
-    },
-    {
-      "id": 50658498,
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "points": 7,
-      "comments": 0,
-      "by": "chrhenning"
     },
     {
       "id": 50650860,
