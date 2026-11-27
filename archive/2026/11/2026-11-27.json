@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T12:20:40+00:00",
-  "snapshots": 2,
+  "updated_at": "2026-11-27T23:32:03+00:00",
+  "snapshots": 3,
   "stories": [
     {
       "id": 50646108,
@@ -23,8 +23,8 @@
       "id": 50660180,
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "points": 780,
-      "comments": 393,
+      "points": 1089,
+      "comments": 502,
       "by": "jlelse"
     },
     {
@@ -34,6 +34,22 @@
       "points": 699,
       "comments": 153,
       "by": "ericmay"
+    },
+    {
+      "id": 50663595,
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "points": 672,
+      "comments": 279,
+      "by": "utiiiD"
+    },
+    {
+      "id": 50664325,
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "points": 538,
+      "comments": 274,
+      "by": "baobabKoodaa"
     },
     {
       "id": 50653667,
@@ -84,6 +100,14 @@
       "by": "zdw"
     },
     {
+      "id": 50668145,
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "points": 382,
+      "comments": 199,
+      "by": "scanr"
+    },
+    {
       "id": 50657265,
       "title": "AMD-specific fork of llama.cpp",
       "url": "https://devnull.land/amd-specific-llama-cpp",
@@ -92,20 +116,36 @@
       "by": "julianlam"
     },
     {
-      "id": 50663595,
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "points": 350,
-      "comments": 156,
-      "by": "utiiiD"
-    },
-    {
       "id": 50653477,
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "points": 349,
       "comments": 305,
       "by": "ritzaco"
+    },
+    {
+      "id": 50667726,
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "points": 314,
+      "comments": 106,
+      "by": "mday404"
+    },
+    {
+      "id": 50670757,
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "points": 312,
+      "comments": 198,
+      "by": "brandonb"
+    },
+    {
+      "id": 50663089,
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "points": 303,
+      "comments": 297,
+      "by": "todsacerdoti"
     },
     {
       "id": 50652184,
@@ -148,6 +188,14 @@
       "by": "hecmmm"
     },
     {
+      "id": 50643158,
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "points": 223,
+      "comments": 152,
+      "by": "dr_red_dog"
+    },
+    {
       "id": 50655868,
       "title": "Show HN: I wrote an entire Vim manual over 4 years",
       "url": "http://themouseless.dev/vim/",
@@ -156,12 +204,36 @@
       "by": "thanato0s"
     },
     {
-      "id": 50663089,
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "points": 180,
-      "comments": 163,
-      "by": "todsacerdoti"
+      "id": 50669765,
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "points": 201,
+      "comments": 57,
+      "by": "MickyTheMouse"
+    },
+    {
+      "id": 50670855,
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "points": 196,
+      "comments": 104,
+      "by": "DeepLogin"
+    },
+    {
+      "id": 50657392,
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "points": 178,
+      "comments": 54,
+      "by": "Bender"
+    },
+    {
+      "id": 50667989,
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "points": 167,
+      "comments": 73,
+      "by": "_tk_"
     },
     {
       "id": 50636931,
@@ -204,6 +276,14 @@
       "by": "ppmpreetham"
     },
     {
+      "id": 50671301,
+      "title": "I am scared: Careless People \u2013 Sarah Wynn-Williams on living under a gag order",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "points": 116,
+      "comments": 43,
+      "by": "Lio"
+    },
+    {
       "id": 50651099,
       "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
       "url": "https://olumino.app",
@@ -218,6 +298,14 @@
       "points": 113,
       "comments": 26,
       "by": "michidk"
+    },
+    {
+      "id": 50662313,
+      "title": "Citro\u00ebn Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "points": 113,
+      "comments": 38,
+      "by": "o4c"
     },
     {
       "id": 50660273,
@@ -244,6 +332,14 @@
       "by": "PaulHoule"
     },
     {
+      "id": 50667062,
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "points": 88,
+      "comments": 10,
+      "by": "HugoDz"
+    },
+    {
       "id": 50664191,
       "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
       "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
@@ -260,12 +356,52 @@
       "by": "dverlaeckt80"
     },
     {
+      "id": 50669673,
+      "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "points": 75,
+      "comments": 19,
+      "by": "ziofill"
+    },
+    {
+      "id": 50667452,
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "points": 66,
+      "comments": 21,
+      "by": "codepoet80"
+    },
+    {
+      "id": 50667371,
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "points": 56,
+      "comments": 10,
+      "by": "tylermw"
+    },
+    {
+      "id": 50670841,
+      "title": "The AT&T Unix PC (3B1) VM",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "points": 46,
+      "comments": 7,
+      "by": "ok123456"
+    },
+    {
       "id": 50657070,
       "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
       "url": "https://github.com/rxliuli/sim-drop",
       "points": 40,
       "comments": 8,
       "by": "rxliuli"
+    },
+    {
+      "id": 50633531,
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "url": "https://hnpredictions.com/",
+      "points": 39,
+      "comments": 47,
+      "by": "mv4"
     },
     {
       "id": 50661705,
@@ -276,12 +412,52 @@
       "by": "herbertl"
     },
     {
+      "id": 50670340,
+      "title": "Scrapheap America",
+      "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+      "points": 36,
+      "comments": 12,
+      "by": "only_in_america"
+    },
+    {
+      "id": 50672008,
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "points": 34,
+      "comments": 7,
+      "by": "rbanffy"
+    },
+    {
+      "id": 50638593,
+      "title": "Lydian Chromatic Concept of Tonal Organization",
+      "url": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
+      "points": 32,
+      "comments": 2,
+      "by": "benbreen"
+    },
+    {
       "id": 50664104,
       "title": "Indie web browser Ladybird enters alpha testing",
       "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
       "points": 31,
       "comments": 1,
       "by": "01-_-"
+    },
+    {
+      "id": 50672142,
+      "title": "Source Control from Hell",
+      "url": "https://frantic.im/git/",
+      "points": 27,
+      "comments": 10,
+      "by": "emschwartz"
+    },
+    {
+      "id": 50670088,
+      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+      "points": 27,
+      "comments": 7,
+      "by": "pfdietz"
     },
     {
       "id": 50661218,
@@ -292,12 +468,52 @@
       "by": "geox"
     },
     {
+      "id": 50670443,
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "points": 22,
+      "comments": 4,
+      "by": "runtimenotes"
+    },
+    {
+      "id": 50671275,
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "points": 20,
+      "comments": 3,
+      "by": "ingve"
+    },
+    {
+      "id": 50647400,
+      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+      "url": "https://atlantic-1866.com/",
+      "points": 18,
+      "comments": 1,
+      "by": "libraryofbabel"
+    },
+    {
+      "id": 50671651,
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
+      "points": 11,
+      "comments": 4,
+      "by": "arvindell"
+    },
+    {
       "id": 50650860,
       "title": "The Naturalist's Library",
       "url": "https://www.c82.net/naturalists-library/",
       "points": 7,
       "comments": 0,
       "by": "rafael859"
+    },
+    {
+      "id": 50631823,
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "points": 4,
+      "comments": 0,
+      "by": "gregsadetsky"
     },
     {
       "id": 50654353,
