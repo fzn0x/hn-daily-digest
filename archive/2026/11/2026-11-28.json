@@ -1,8 +1,16 @@
 {
   "date": "2026-11-28",
-  "updated_at": "2026-11-28T07:56:51+00:00",
-  "snapshots": 1,
+  "updated_at": "2026-11-28T17:36:06+00:00",
+  "snapshots": 2,
   "stories": [
+    {
+      "id": 50676672,
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "points": 794,
+      "comments": 330,
+      "by": "nolist_policy"
+    },
     {
       "id": 50664325,
       "title": "Claude sabotaging ML research tasks?",
@@ -15,9 +23,49 @@
       "id": 50668145,
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "points": 503,
-      "comments": 260,
+      "points": 584,
+      "comments": 323,
       "by": "scanr"
+    },
+    {
+      "id": 50672565,
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "points": 535,
+      "comments": 184,
+      "by": "ComputedCamp995"
+    },
+    {
+      "id": 50676390,
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "points": 523,
+      "comments": 171,
+      "by": "abedelez"
+    },
+    {
+      "id": 50657346,
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "points": 507,
+      "comments": 148,
+      "by": "sheepscreek"
+    },
+    {
+      "id": 50643158,
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "points": 503,
+      "comments": 318,
+      "by": "dr_red_dog"
+    },
+    {
+      "id": 50674218,
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "points": 503,
+      "comments": 134,
+      "by": "nreece"
     },
     {
       "id": 50670757,
@@ -28,12 +76,12 @@
       "by": "brandonb"
     },
     {
-      "id": 50643158,
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "points": 421,
-      "comments": 260,
-      "by": "dr_red_dog"
+      "id": 50676723,
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "points": 486,
+      "comments": 201,
+      "by": "DeepLogin"
     },
     {
       "id": 50667726,
@@ -52,28 +100,28 @@
       "by": "DeepLogin"
     },
     {
-      "id": 50672565,
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "points": 325,
-      "comments": 134,
-      "by": "ComputedCamp995"
-    },
-    {
       "id": 50669765,
       "title": "Convex skills send the user's app idea to a remote server without telling them",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "points": 289,
-      "comments": 92,
+      "points": 358,
+      "comments": 119,
       "by": "MickyTheMouse"
     },
     {
-      "id": 50657346,
-      "title": "The Balatro Timeline",
-      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "points": 284,
-      "comments": 63,
-      "by": "sheepscreek"
+      "id": 50674452,
+      "title": "Knuth: Moratorium on Error Reports",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "points": 349,
+      "comments": 168,
+      "by": "ultraficial"
+    },
+    {
+      "id": 50632052,
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "points": 237,
+      "comments": 32,
+      "by": "PaulHoule"
     },
     {
       "id": 50667989,
@@ -92,14 +140,6 @@
       "by": "Bender"
     },
     {
-      "id": 50674218,
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
-      "url": "https://unkernel.dev",
-      "points": 192,
-      "comments": 29,
-      "by": "nreece"
-    },
-    {
       "id": 50662313,
       "title": "Citro\u00ebn Hydraulic System",
       "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
@@ -114,6 +154,30 @@
       "points": 178,
       "comments": 177,
       "by": "bpierre"
+    },
+    {
+      "id": 50676199,
+      "title": "Diablo II",
+      "url": "https://www.filfre.net/2026/11/diablo-ii/",
+      "points": 146,
+      "comments": 58,
+      "by": "doppp"
+    },
+    {
+      "id": 50666724,
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "points": 145,
+      "comments": 47,
+      "by": "robtherobber"
+    },
+    {
+      "id": 50676752,
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "points": 142,
+      "comments": 49,
+      "by": "homarp"
     },
     {
       "id": 50669673,
@@ -140,12 +204,36 @@
       "by": "rbanffy"
     },
     {
+      "id": 50678901,
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "points": 115,
+      "comments": 31,
+      "by": "tosh"
+    },
+    {
+      "id": 50677091,
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "points": 105,
+      "comments": 39,
+      "by": "BaudouinVH"
+    },
+    {
       "id": 50672521,
       "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
       "url": "https://tabernet.es/",
       "points": 99,
       "comments": 33,
       "by": "mmcclure"
+    },
+    {
+      "id": 50650253,
+      "title": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "points": 96,
+      "comments": 60,
+      "by": "altilunium"
     },
     {
       "id": 50644213,
@@ -162,6 +250,14 @@
       "points": 85,
       "comments": 69,
       "by": "mv4"
+    },
+    {
+      "id": 50678273,
+      "title": "Physics Breakthrough Simulator",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "points": 83,
+      "comments": 20,
+      "by": "machinerychorus"
     },
     {
       "id": 50631823,
@@ -188,12 +284,20 @@
       "by": "ingve"
     },
     {
-      "id": 50632052,
-      "title": "Loom seamlessly combines weaving, knitting and braiding",
-      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-      "points": 50,
-      "comments": 2,
-      "by": "PaulHoule"
+      "id": 50678026,
+      "title": "Google will soon share Android developers' addresses publicly",
+      "url": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+      "points": 56,
+      "comments": 22,
+      "by": "gvieri"
+    },
+    {
+      "id": 50655389,
+      "title": "Signals",
+      "url": "https://www.quarter--mile.com/Signals",
+      "points": 52,
+      "comments": 39,
+      "by": "surprisetalk"
     },
     {
       "id": 50671651,
@@ -204,20 +308,12 @@
       "by": "arvindell"
     },
     {
-      "id": 50650253,
-      "title": "Sydney Fire Ant Infestation",
-      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-      "points": 42,
-      "comments": 17,
-      "by": "altilunium"
-    },
-    {
-      "id": 50666724,
-      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
-      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-      "points": 36,
-      "comments": 5,
-      "by": "robtherobber"
+      "id": 50677861,
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "points": 45,
+      "comments": 39,
+      "by": "RiccardoSottini"
     },
     {
       "id": 50654773,
@@ -228,6 +324,46 @@
       "by": "frostbyte7"
     },
     {
+      "id": 50677302,
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "url": "https://github.com/MVS-sysgen/sysgen",
+      "points": 26,
+      "comments": 6,
+      "by": "emersonrsantos"
+    },
+    {
+      "id": 50633501,
+      "title": "Skala by Bjango",
+      "url": "https://bjango.com/mac/skala/",
+      "points": 26,
+      "comments": 5,
+      "by": "qzervaas"
+    },
+    {
+      "id": 50650217,
+      "title": "The Comprehensive Guide to Encrypted Inference with Tees",
+      "url": "https://trynito.ai/blog/encrypted-inference-tees",
+      "points": 16,
+      "comments": 6,
+      "by": "richrines"
+    },
+    {
+      "id": 50642354,
+      "title": "Essential Reading in the Age of Math 2.0",
+      "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
+      "points": 13,
+      "comments": 3,
+      "by": "digital55"
+    },
+    {
+      "id": 50679459,
+      "title": "10x faster than Spark on a laptop",
+      "url": "https://krishiv.ai/blog/krishiv-0-2-10x-faster-than-spark",
+      "points": 12,
+      "comments": 3,
+      "by": "techgopal"
+    },
+    {
       "id": 50657300,
       "title": "fplotlib \u2013 Fortran Plotting Library",
       "url": "https://github.com/fortran-lang/fplotlib",
@@ -236,12 +372,44 @@
       "by": "AlexeyBrin"
     },
     {
+      "id": 50679708,
+      "title": "Computer Disease",
+      "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+      "points": 7,
+      "comments": 4,
+      "by": "jvanderbot"
+    },
+    {
+      "id": 50672992,
+      "title": "Civet: TypeScript superset that favors more types and less typing",
+      "url": "https://github.com/DanielXMoore/Civet",
+      "points": 6,
+      "comments": 0,
+      "by": "nateb2022"
+    },
+    {
       "id": 50644341,
       "title": "What Is the Metabolism-First Theory for the Origin of Life?",
       "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
       "points": 4,
       "comments": 1,
       "by": "ibobev"
+    },
+    {
+      "id": 50644301,
+      "title": "How Old Electromechanical Pinball Machines Work",
+      "url": "https://how-old-pinball-machines-work.mattmakai.com/",
+      "points": 4,
+      "comments": 0,
+      "by": "makaimc"
+    },
+    {
+      "id": 50679130,
+      "title": "The Last Thing They Said",
+      "url": "https://socialhome.network/content/31594834",
+      "points": 3,
+      "comments": 0,
+      "by": "ColinWright"
     }
   ]
 }
